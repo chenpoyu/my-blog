@@ -424,7 +424,7 @@ pipeline {
 
 ### 1. 使用有意義的 Tag
 
-❌ 不好：
+不好：
 ```bash
 my-shop-api:latest
 my-shop-api:v1
