@@ -446,7 +446,7 @@ Grafana 顯示：
 
 ### 1. 有意義的 Span 名稱
 
-❌ 不好：
+不好：
 ```java
 Span span = tracer.buildSpan("process").start();
 ```
