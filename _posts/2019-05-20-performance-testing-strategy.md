@@ -647,11 +647,11 @@ def analyze_results(jtl_file):
     
     # 檢查閾值
     if error_rate > 1.0:
-        print("❌ Error rate too high!")
+        print("Error rate too high!")
         sys.exit(1)
     
     if p95 > 500:
-        print("❌ P95 latency too high!")
+        print("P95 latency too high!")
         sys.exit(1)
     
     print("Performance test passed!")
