@@ -1,0 +1,32 @@
+---
+layout: default
+title: 文章時間軸
+---
+
+<div class="archive">
+    <h2 class="page-title">文章時間軸</h2>
+    
+    {% assign postsByYear = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+    {% for year in postsByYear %}
+    <div class="archive-year">
+        <h3>{{ year.name }} 年</h3>
+        
+        {% assign postsByMonth = year.items | group_by_exp: "post", "post.date | date: '%m'" %}
+        {% for month in postsByMonth %}
+        <div class="archive-month">
+            <h4>{{ month.name }} 月</h4>
+            <ul class="archive-list">
+                {% for post in month.items %}
+                <li>
+                    <a href="{{ post.url | relative_url }}">
+                        <span class="post-date">{{ post.date | date: "%m-%d" }}</span>
+                        <span class="post-title">{{ post.title }}</span>
+                    </a>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% endfor %}
+    </div>
+    {% endfor %}
+</div>

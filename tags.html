@@ -1,0 +1,32 @@
+---
+layout: default
+title: 文章標籤
+---
+
+<div class="tags">
+    <h2 class="page-title">文章標籤</h2>
+    
+    <div class="tags-cloud">
+        {% assign tags = site.tags | sort %}
+        {% for tag in tags %}
+        <a href="#{{ tag[0] | slugify }}" class="tag-item">
+            {{ tag[0] }}
+            <span class="count">{{ tag[1].size }}</span>
+        </a>
+        {% endfor %}
+    </div>
+    
+    {% for tag in tags %}
+    <section id="{{ tag[0] | slugify }}" class="tag-section">
+        <h3>{{ tag[0] }} <span style="color: var(--gold); font-size: 0.9em; font-weight: 500;">({{ tag[1].size }} 篇)</span></h3>
+        <div class="category-posts">
+            {% for post in tag[1] %}
+            <a href="{{ post.url | relative_url }}" class="post-link">
+                <h4>{{ post.title }}</h4>
+                <div class="post-date">{{ post.date | date: "%Y年%m月%d日" }}</div>
+            </a>
+            {% endfor %}
+        </div>
+    </section>
+    {% endfor %}
+</div>

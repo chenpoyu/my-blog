@@ -1,0 +1,23 @@
+---
+layout: default
+title: 文章分類
+---
+
+<div class="categories">
+    <h2 class="page-title">文章分類</h2>
+    
+    {% assign categories = site.categories | sort %}
+    {% for category in categories %}
+    <section id="{{ category[0] | slugify }}" class="category-section">
+        <h3>{{ category[0] }} <span style="color: var(--accent-green); font-size: 0.9em;">({{ category[1].size }} 篇)</span></h3>
+        <div class="category-posts">
+            {% for post in category[1] %}
+            <a href="{{ post.url | relative_url }}" class="post-link">
+                <h4>{{ post.title }}</h4>
+                <div class="post-date">{{ post.date | date: "%Y年%m月%d日" }}</div>
+            </a>
+            {% endfor %}
+        </div>
+    </section>
+    {% endfor %}
+</div>
