@@ -650,7 +650,7 @@ def approve_deploy(ack, body, say):
     # 觸發部署
     trigger_pipeline(pipeline_id)
     
-    say(f"✅ Deployment approved by <@{body['user']['id']}>")
+    say(f"Deployment approved by <@{body['user']['id']}>")
 ```
 
 ## Dashboard 整合

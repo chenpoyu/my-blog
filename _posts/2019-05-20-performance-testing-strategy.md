@@ -654,7 +654,7 @@ def analyze_results(jtl_file):
         print("❌ P95 latency too high!")
         sys.exit(1)
     
-    print("✅ Performance test passed!")
+    print("Performance test passed!")
 
 if __name__ == '__main__':
     analyze_results(sys.argv[1])

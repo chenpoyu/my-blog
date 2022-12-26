@@ -409,7 +409,7 @@ After Chaos:
 - Success Rate: 99.96%
 - P95 Latency: 145ms
 
-結論：✅ 系統能承受 Pod 故障，自動恢復正常
+結論：系統能承受 Pod 故障，自動恢復正常
 ```
 
 **失敗案例**：
@@ -488,7 +488,7 @@ def verify_success_rate():
     success_rate = float(response.json()['data']['result'][0]['value'][1])
     
     assert success_rate > 99.9, f"Success rate {success_rate}% is below threshold"
-    print(f"✅ Success rate: {success_rate}%")
+    print(f"Success rate: {success_rate}%")
 
 def verify_latency():
     response = requests.get('http://prometheus/api/v1/query',
@@ -496,12 +496,12 @@ def verify_latency():
     p95_latency = float(response.json()['data']['result'][0]['value'][1])
     
     assert p95_latency < 0.2, f"P95 latency {p95_latency}s is above threshold"
-    print(f"✅ P95 latency: {p95_latency}s")
+    print(f"P95 latency: {p95_latency}s")
 
 if __name__ == '__main__':
     verify_success_rate()
     verify_latency()
-    print("✅ All chaos tests passed!")
+    print("All chaos tests passed!")
 ```
 
 ## 實際案例

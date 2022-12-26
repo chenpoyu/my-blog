@@ -430,7 +430,7 @@ my-shop-api:latest
 my-shop-api:v1
 ```
 
-✅ 好：
+好：
 ```bash
 my-shop-api:1.2.3
 my-shop-api:1.2.3-20181224

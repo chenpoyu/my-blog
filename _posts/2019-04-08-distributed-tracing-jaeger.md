@@ -451,7 +451,7 @@ Grafana 顯示：
 Span span = tracer.buildSpan("process").start();
 ```
 
-✅ 好：
+好：
 ```java
 Span span = tracer.buildSpan("calculate-order-total").start();
 ```
