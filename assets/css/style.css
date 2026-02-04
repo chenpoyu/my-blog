@@ -1191,7 +1191,7 @@ footer p {
 }
 
 /* ===================================
-   Responsive Design
+   Responsive Design - Mobile First Approach
    =================================== */
 @media (max-width: 768px) {
     body {
@@ -1206,6 +1206,12 @@ footer p {
     header .container {
         flex-direction: column;
         align-items: flex-start;
+        gap: 1rem;
+    }
+    
+    .header-left {
+        width: 100%;
+        flex-direction: column;
         gap: 1rem;
     }
     
@@ -1234,6 +1240,7 @@ footer p {
     }
     
     header nav {
+        width: 100%;
         flex-wrap: wrap;
         gap: 0.8rem;
     }
@@ -1241,6 +1248,13 @@ footer p {
     header nav a {
         padding: 0.6rem 1rem;
         font-size: 0.9rem;
+        min-width: calc(50% - 0.4rem);
+        text-align: center;
+    }
+    
+    .home-link {
+        width: 100%;
+        height: 44px;
     }
     
     .personal-link {
@@ -1252,11 +1266,13 @@ footer p {
     
     main {
         padding: 2rem 1.5rem;
+        border-radius: 12px;
     }
     
     .post-header h1,
     .post-title {
         font-size: 1.6rem;
+        line-height: 1.4;
     }
     
     .post-content {
@@ -1271,6 +1287,30 @@ footer p {
         font-size: 1.3rem;
     }
     
+    /* Code blocks - enable horizontal scroll */
+    .post-content pre {
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+    
+    .post-content pre code {
+        white-space: pre;
+    }
+    
+    /* Tables - make scrollable */
+    .post-content table {
+        display: block;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        white-space: nowrap;
+    }
+    
+    .post-meta {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.8rem;
+    }
+    
     .tags-cloud {
         gap: 0.8rem;
     }
@@ -1279,12 +1319,28 @@ footer p {
         padding: 0.6rem 1.2rem;
         font-size: 0.9rem;
     }
+    
+    .post-navigation {
+        flex-direction: column;
+        gap: 1rem;
+    }
+    
+    .prev-post,
+    .next-post {
+        width: 100%;
+        text-align: center;
+    }
 }
 
 @media (max-width: 480px) {
     body {
         padding-top: 160px;
         padding-bottom: 65px;
+        font-size: 16px; /* Prevent zoom on iOS */
+    }
+    
+    .container {
+        padding: 0 15px;
     }
     
     header {
@@ -1311,6 +1367,10 @@ footer p {
         font-size: 1.2rem;
     }
     
+    header p {
+        font-size: 0.85rem;
+    }
+    
     header nav {
         width: 100%;
     }
@@ -1320,8 +1380,10 @@ footer p {
         text-align: center;
         padding: 0.6rem 0.8rem;
         font-size: 0.85rem;
+        min-width: auto;
     }
     
+    .home-link,
     .personal-link {
         width: 100%;
         justify-content: center;
@@ -1331,10 +1393,15 @@ footer p {
     
     main {
         padding: 1.5rem 1rem;
+        border-radius: 10px;
     }
     
     .post-item {
         padding: 1.5rem;
+    }
+    
+    .post-item h3 {
+        font-size: 1.1rem;
     }
     
     .page-title {
@@ -1346,11 +1413,164 @@ footer p {
         font-size: 1.3rem;
     }
     
+    .post-content {
+        font-size: 0.95rem;
+    }
+    
+    .post-content h2 {
+        font-size: 1.4rem;
+        margin-top: 2rem;
+    }
+    
+    .post-content h3 {
+        font-size: 1.2rem;
+        margin-top: 1.5rem;
+    }
+    
+    .post-content h4 {
+        font-size: 1.1rem;
+    }
+    
+    .post-content ul,
+    .post-content ol {
+        padding-left: 1.5rem;
+    }
+    
+    .post-content pre {
+        padding: 1rem;
+        font-size: 0.85rem;
+        border-radius: 6px;
+    }
+    
+    .post-content code {
+        font-size: 0.85rem;
+    }
+    
+    .post-content img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 8px;
+    }
+    
+    .view-all-posts-btn {
+        width: 100%;
+        justify-content: center;
+        padding: 0.9rem 2rem;
+    }
+    
     footer {
         padding: 1rem 0;
     }
     
     footer p {
         font-size: 0.8rem;
+        text-align: center;
+    }
+}
+
+/* Large tablets and small laptops */
+@media (min-width: 769px) and (max-width: 1024px) {
+    .container {
+        max-width: 960px;
+        padding: 0 30px;
+    }
+    
+    main {
+        padding: 3rem 2.5rem;
+    }
+    
+    .post-content {
+        font-size: 1.05rem;
+    }
+}
+
+/* Very large screens */
+@media (min-width: 1441px) {
+    .container {
+        max-width: 1400px;
+    }
+    
+    main {
+        padding: 4rem;
+    }
+    
+    .post-content {
+        font-size: 1.1rem;
+        line-height: 1.9;
+    }
+}
+
+/* Touch device optimizations */
+@media (hover: none) and (pointer: coarse) {
+    header nav a,
+    .tag-item,
+    .category-item {
+        min-height: 44px;
+        min-width: 44px;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .post-content pre,
+    .post-content table {
+        -webkit-overflow-scrolling: touch;
+    }
+}
+
+/* Print styles */
+@media print {
+    header,
+    footer,
+    .post-navigation,
+    header nav {
+        display: none;
+    }
+    
+    body {
+        padding-top: 0;
+        background: white;
+    }
+    
+    main {
+        box-shadow: none;
+        border: none;
+        padding: 0;
+    }
+    
+    .post-content {
+        font-size: 12pt;
+        line-height: 1.6;
+    }
+    
+    .post-content a::after {
+        content: " (" attr(href) ")";
+        font-size: 0.8em;
+    }
+}
+
+/* Reduced motion preference */
+@media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+    }
+}
+
+/* Landscape orientation for mobile */
+@media (max-width: 768px) and (orientation: landscape) {
+    body {
+        padding-top: 120px;
+    }
+    
+    header {
+        padding: 1rem 0;
+    }
+    
+    header h1 {
+        font-size: 1.3rem;
     }
 }

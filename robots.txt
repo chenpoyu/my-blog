@@ -1,0 +1,14 @@
+# robots.txt for https://chenpoyu.github.io/my-blog/
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://chenpoyu.github.io/my-blog/sitemap.xml
+
+# Crawl-delay (optional, helps prevent server overload)
+Crawl-delay: 1
+
+# Disallow specific paths if needed
+Disallow: /assets/
+Disallow: /_site/

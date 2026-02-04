@@ -1,12 +1,41 @@
 # Site settings
 title: Poyu 的部落格
-description: 我的個人部落格
+description: 個人技術筆記部落格，專注於 Java、Spring Boot、設計模式、Vue.js 等全端開發技術分享
+author: Poyu Chen
+email: your-email@example.com
+lang: zh-TW
+timezone: Asia/Taipei
+
 baseurl: "/my-blog" # the subpath of your site, e.g. /blog
 url: "https://chenpoyu.github.io" # the base hostname & protocol for your site
 
+# SEO Settings
+twitter:
+  username: chenpoyu
+  card: summary_large_image
+
+social:
+  name: Poyu Chen
+  links:
+    - https://github.com/chenpoyu
+    - https://chenpoyu.github.io
+
+# Logo and Images
+logo: /my-blog/assets/images/logo.png
+social_image: /my-blog/assets/images/og-image.png
+
 # Build settings
 markdown: kramdown
+highlighter: rouge
 permalink: /:categories/:year/:month/:day/:title/
+
+# Kramdown settings
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
 
 # Collections
 collections:
@@ -21,11 +50,29 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      author: "Poyu Chen"
+      image: /my-blog/assets/images/default-post.png
 
 # Plugins
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  # - jekyll-minifier  # 暫時停用，避免影響現有文章
+
+# Feed settings
+feed:
+  path: feed.xml
+
+# Sitemap settings
+sitemap:
+  exclude:
+    - "/404.html"
+
+# Performance optimization
+sass:
+  style: compressed
 
 # Exclude from processing
 exclude:
@@ -37,3 +84,18 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - .gitignore
+  - .DS_Store
+  - README.md
+  - LICENSE
+  - .jekyll-cache/
+  - .sass-cache/
+
+# Keep files
+keep_files:
+  - .git
+  - .svn
+
+# Incremental build for faster development
+incremental: true
+safe: true
+lsi: false
