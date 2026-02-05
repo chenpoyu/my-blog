@@ -1,8 +1,8 @@
 # Site settings
 title: Poyu 的部落格
-description: 個人技術筆記部落格，專注於 Java、Spring Boot、設計模式、Vue.js 等全端開發技術分享
+description: 個人職涯筆記部落格，包含技術與管理相關經驗紀錄，技術專注於 Java、.NET、設計模式、React.js 等全端開發技術分享
 author: Poyu Chen
-email: your-email@example.com
+email: chenpoyu1123@gmail.com
 lang: zh-TW
 timezone: Asia/Taipei
 
