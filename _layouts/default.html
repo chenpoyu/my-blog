@@ -25,14 +25,14 @@
     <meta property="og:locale" content="zh_TW">
     
     <!-- Twitter -->
-    <meta name="twitter:card" content="summary_large_image">
+    <!-- <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:url" content="{{ page.url | absolute_url }}">
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
     <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
     <meta name="twitter:image" content="{{ page.image | default: site.social_image | absolute_url }}">
     {% if site.twitter.username %}
     <meta name="twitter:creator" content="@{{ site.twitter.username }}">
-    {% endif %}
+    {% endif %} -->
     
     <!-- Article Meta (for blog posts) -->
     {% if page.layout == 'post' %}
@@ -87,9 +87,12 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     
     <!-- Favicon -->
-    <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/favicon-32x32.png' | relative_url }}">
+    <link rel="icon" type="image/x-icon" href="{{ '/assets/images/favicon.ico' | relative_url }}">
     <link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/images/favicon-16x16.png' | relative_url }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/favicon-32x32.png' | relative_url }}">
+    <link rel="icon" type="image/png" sizes="96x96" href="{{ '/assets/images/favicon-96x96.png' | relative_url }}">
     <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/images/apple-touch-icon.png' | relative_url }}">
+    <link rel="shortcut icon" href="{{ '/assets/images/favicon.ico' | relative_url }}">
     
     <!-- Stylesheets -->
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
@@ -111,7 +114,7 @@
             <div class="header-left">
                 <div class="header-brand">
                     <a href="{{ '/' | relative_url }}" class="logo-icon">P</a>
-                    <div>
+                    <div class="header-content">
                         <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
                         <p>{{ site.description }}</p>
                     </div>
