@@ -15,22 +15,22 @@ title: 首頁
                 {% if post.categories %}
                 <span class="post-categories">
                     {% for category in post.categories %}
-                    <a href="{{ '/categories/' | relative_url }}#{{ category | slugify }}">{{ category }}</a>{% unless forloop.last %}, {% endunless %}
+                    <a href="{{ '/taxonomy/' | relative_url }}#{{ category | slugify }}"># {{ category }}</a>{% unless forloop.last %}, {% endunless %}
                     {% endfor %}
                 </span>
                 {% endif %}
             </div>
-            {% if post.excerpt %}
+            <!-- {% if post.excerpt %}
             <div class="post-excerpt">
                 {{ post.excerpt }}
             </div>
-            {% endif %}
+            {% endif %} -->
         </article>
         {% endfor %}
     </div>
     
     {% if site.posts.size > 10 %}
-    <div style="text-align: center; margin-top: 3rem;">
+    <div style="text-align: center; margin-bottom: 3rem;">
         <a href="{{ '/archive/' | relative_url }}" class="view-all-posts-btn">
             <span>查看所有文章</span>
             <span class="arrow">→</span>

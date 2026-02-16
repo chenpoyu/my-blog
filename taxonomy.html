@@ -1,0 +1,311 @@
+---
+layout: default
+title: 分類與標籤
+---
+
+<div class="taxonomy-page">
+    <h2 class="page-title">分類與標籤</h2>
+    
+    <!-- 搜尋框 -->
+    <div class="search-box">
+        <input type="text" id="taxonomySearch" placeholder="搜尋分類、標籤或文章..." />
+        <span class="search-icon">🔍</span>
+    </div>
+    
+    <!-- 統計資訊 -->
+    <div class="taxonomy-stats">
+        <div class="stat-box">
+            <span class="stat-number">{{ site.categories.size }}</span>
+            <span class="stat-label">分類</span>
+        </div>
+        <div class="stat-box">
+            <span class="stat-number">{{ site.tags.size }}</span>
+            <span class="stat-label">標籤</span>
+        </div>
+        <div class="stat-box">
+            <span class="stat-number">{{ site.posts.size }}</span>
+            <span class="stat-label">文章</span>
+        </div>
+    </div>
+    
+    <!-- 切換按鈕 -->
+    <div class="view-switcher">
+        <button class="switch-btn active" data-view="categories">📁 分類</button>
+        <button class="switch-btn" data-view="tags">🏷️ 標籤</button>
+        <button class="switch-btn" data-view="all">📚 全部</button>
+    </div>
+    
+    <!-- 分類區塊 -->
+    <div id="categoriesView" class="taxonomy-view active">
+        <h3 class="section-title">文章分類</h3>
+        {% assign categories = site.categories | sort %}
+        {% assign featured_categories = "Java,Swift,iOS,Flutter,.NET,DevOps,Project Management" | split: "," %}
+        
+        {% for category in categories %}
+        {% assign is_featured = false %}
+        {% for featured in featured_categories %}
+            {% if category[0] == featured %}
+                {% assign is_featured = true %}
+            {% endif %}
+        {% endfor %}
+        
+        <section class="taxonomy-section {% if is_featured %}featured{% endif %} collapsed" data-name="{{ category[0] | downcase }}">
+            <div class="taxonomy-header" onclick="toggleSection(this.parentElement)">
+                <div class="header-left">
+                    <span class="toggle-icon">▶</span>
+                    <h4>{{ category[0] }}</h4>
+                    {% if is_featured %}
+                    <span class="featured-badge">⭐</span>
+                    {% endif %}
+                </div>
+                <span class="count-badge">{{ category[1].size }}</span>
+            </div>
+            <div class="taxonomy-content">
+                {% for post in category[1] %}
+                <a href="{{ post.url | relative_url }}" class="post-item" data-title="{{ post.title | downcase }}">
+                    <span class="post-title">{{ post.title }}</span>
+                    <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
+                </a>
+                {% endfor %}
+            </div>
+        </section>
+        {% endfor %}
+    </div>
+    
+    <!-- 標籤區塊 -->
+    <div id="tagsView" class="taxonomy-view">
+        <h3 class="section-title">文章標籤</h3>
+        {% assign tags = site.tags | sort %}
+        {% assign featured_tags = "Java,Swift,iOS,Flutter,.NET Core,Kubernetes,CI/CD,Performance" | split: "," %}
+        
+        {% for tag in tags %}
+        {% assign is_featured = false %}
+        {% for featured in featured_tags %}
+            {% if tag[0] == featured %}
+                {% assign is_featured = true %}
+            {% endif %}
+        {% endfor %}
+        
+        <section class="taxonomy-section {% if is_featured %}featured{% endif %} collapsed" data-name="{{ tag[0] | downcase }}">
+            <div class="taxonomy-header" onclick="toggleSection(this.parentElement)">
+                <div class="header-left">
+                    <span class="toggle-icon">▶</span>
+                    <h4>{{ tag[0] }}</h4>
+                    {% if is_featured %}
+                    <span class="featured-badge">⭐</span>
+                    {% endif %}
+                </div>
+                <span class="count-badge">{{ tag[1].size }}</span>
+            </div>
+            <div class="taxonomy-content">
+                {% for post in tag[1] %}
+                <a href="{{ post.url | relative_url }}" class="post-item" data-title="{{ post.title | downcase }}">
+                    <span class="post-title">{{ post.title }}</span>
+                    <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
+                </a>
+                {% endfor %}
+            </div>
+        </section>
+        {% endfor %}
+    </div>
+    
+    <!-- 全部視圖 -->
+    <div id="allView" class="taxonomy-view">
+        <h3 class="section-title">分類</h3>
+        {% for category in categories %}
+        {% assign is_featured = false %}
+        {% for featured in featured_categories %}
+            {% if category[0] == featured %}
+                {% assign is_featured = true %}
+            {% endif %}
+        {% endfor %}
+        
+        <section class="taxonomy-section {% if is_featured %}featured{% endif %} collapsed" data-name="{{ category[0] | downcase }}">
+            <div class="taxonomy-header" onclick="toggleSection(this.parentElement)">
+                <div class="header-left">
+                    <span class="toggle-icon">▶</span>
+                    <h4>📁 {{ category[0] }}</h4>
+                    {% if is_featured %}
+                    <span class="featured-badge">⭐</span>
+                    {% endif %}
+                </div>
+                <span class="count-badge">{{ category[1].size }}</span>
+            </div>
+            <div class="taxonomy-content">
+                {% for post in category[1] %}
+                <a href="{{ post.url | relative_url }}" class="post-item" data-title="{{ post.title | downcase }}">
+                    <span class="post-title">{{ post.title }}</span>
+                    <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
+                </a>
+                {% endfor %}
+            </div>
+        </section>
+        {% endfor %}
+        
+        <h3 class="section-title" style="margin-top: 3rem;">標籤</h3>
+        {% for tag in tags %}
+        {% assign is_featured = false %}
+        {% for featured in featured_tags %}
+            {% if tag[0] == featured %}
+                {% assign is_featured = true %}
+            {% endif %}
+        {% endfor %}
+        
+        <section class="taxonomy-section {% if is_featured %}featured{% endif %} collapsed" data-name="{{ tag[0] | downcase }}">
+            <div class="taxonomy-header" onclick="toggleSection(this.parentElement)">
+                <div class="header-left">
+                    <span class="toggle-icon">▶</span>
+                    <h4>🏷️ {{ tag[0] }}</h4>
+                    {% if is_featured %}
+                    <span class="featured-badge">⭐</span>
+                    {% endif %}
+                </div>
+                <span class="count-badge">{{ tag[1].size }}</span>
+            </div>
+            <div class="taxonomy-content">
+                {% for post in tag[1] %}
+                <a href="{{ post.url | relative_url }}" class="post-item" data-title="{{ post.title | downcase }}">
+                    <span class="post-title">{{ post.title }}</span>
+                    <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
+                </a>
+                {% endfor %}
+            </div>
+        </section>
+        {% endfor %}
+    </div>
+</div>
+
+<script>
+// 切換區塊展開/折疊
+function toggleSection(section) {
+    section.classList.toggle('collapsed');
+}
+
+// 視圖切換
+document.querySelectorAll('.switch-btn').forEach(btn => {
+    btn.addEventListener('click', function() {
+        const view = this.dataset.view;
+        
+        // 更新按鈕狀態
+        document.querySelectorAll('.switch-btn').forEach(b => b.classList.remove('active'));
+        this.classList.add('active');
+        
+        // 切換視圖
+        document.querySelectorAll('.taxonomy-view').forEach(v => v.classList.remove('active'));
+        document.getElementById(view + 'View').classList.add('active');
+        
+        // 清空搜尋
+        document.getElementById('taxonomySearch').value = '';
+        filterTaxonomy('');
+    });
+});
+
+// 搜尋功能
+let searchTimeout;
+document.getElementById('taxonomySearch').addEventListener('input', function(e) {
+    clearTimeout(searchTimeout);
+    searchTimeout = setTimeout(() => {
+        filterTaxonomy(e.target.value.toLowerCase());
+    }, 300);
+});
+
+function filterTaxonomy(searchTerm) {
+    const activeView = document.querySelector('.taxonomy-view.active');
+    const sections = activeView.querySelectorAll('.taxonomy-section');
+    let hasResults = false;
+    
+    sections.forEach(section => {
+        const sectionName = section.dataset.name;
+        const posts = section.querySelectorAll('.post-item');
+        let sectionHasMatch = false;
+        let visiblePosts = 0;
+        
+        // 檢查分類/標籤名稱
+        if (sectionName.includes(searchTerm)) {
+            sectionHasMatch = true;
+            posts.forEach(post => {
+                post.style.display = 'flex';
+                visiblePosts++;
+            });
+        } else {
+            // 檢查文章標題
+            posts.forEach(post => {
+                const title = post.dataset.title;
+                if (title.includes(searchTerm)) {
+                    post.style.display = 'flex';
+                    sectionHasMatch = true;
+                    visiblePosts++;
+                } else {
+                    post.style.display = 'none';
+                }
+            });
+        }
+        
+        if (sectionHasMatch && visiblePosts > 0) {
+            section.style.display = 'block';
+            if (searchTerm) {
+                section.classList.remove('collapsed');
+            }
+            hasResults = true;
+        } else {
+            section.style.display = 'none';
+        }
+    });
+    
+    // 顯示無結果提示
+    let noResults = activeView.querySelector('.no-results');
+    if (!hasResults && searchTerm) {
+        if (!noResults) {
+            noResults = document.createElement('div');
+            noResults.className = 'no-results';
+            noResults.textContent = '找不到符合的結果';
+            activeView.appendChild(noResults);
+        }
+        noResults.style.display = 'block';
+    } else if (noResults) {
+        noResults.style.display = 'none';
+    }
+}
+
+// 展開所有重點分類
+document.addEventListener('DOMContentLoaded', function() {
+    // 預設展開重點分類
+    document.querySelectorAll('.taxonomy-section.featured').forEach(section => {
+        section.classList.remove('collapsed');
+    });
+    
+    // 如果有 hash，自動展開並滾動到對應區塊
+    if (window.location.hash) {
+        const targetId = window.location.hash.substring(1);
+        const sections = document.querySelectorAll('.taxonomy-section');
+        
+        sections.forEach(section => {
+            const sectionName = section.dataset.name;
+            if (sectionName === targetId.toLowerCase()) {
+                section.classList.remove('collapsed');
+                setTimeout(() => {
+                    section.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                }, 100);
+            }
+        });
+    }
+});
+
+// 監聽 hash 變化
+window.addEventListener('hashchange', function() {
+    if (window.location.hash) {
+        const targetId = window.location.hash.substring(1);
+        const sections = document.querySelectorAll('.taxonomy-section');
+        
+        sections.forEach(section => {
+            const sectionName = section.dataset.name;
+            if (sectionName === targetId.toLowerCase()) {
+                section.classList.remove('collapsed');
+                setTimeout(() => {
+                    section.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                }, 100);
+            }
+        });
+    }
+});
+</script>
