@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "為什麼現在開始研究 AI 輔助開發"
-date: 2025-07-26
+date: 2025-07-26 13:20:00 +0800
 categories: [隨筆, AI工程]
 tags: [AI, 職涯, 技術管理]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "將框架文件轉成 RAG 知識庫 - 讓 Local LLM 隨時檢索"
-date: 2025-09-08
+date: 2025-09-08 16:05:00 +0800
 categories: [技術筆記, AI]
 tags: [RAG, ChromaDB, Local LLM, .NET Core]
 ---

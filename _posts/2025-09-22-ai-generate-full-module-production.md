@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "實戰:用 AI 生成完整微服務模組 - 效率提升 70%"
-date: 2025-09-22
+date: 2025-09-22 18:30:00 +0800
 categories: [技術筆記, AI]
 tags: [AI 輔助開發, .NET Core, 實戰案例]
 ---

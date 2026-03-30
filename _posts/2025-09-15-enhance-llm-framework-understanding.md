@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "強化 Local LLM 的框架理解 - Prompt Engineering 與微調"
-date: 2025-09-15
+date: 2025-09-15 14:10:00 +0800
 categories: [技術筆記, AI]
 tags: [Local LLM, Prompt Engineering, Fine-tuning, DeepSeek]
 ---

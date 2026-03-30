@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "建立公司框架文件 - 讓 AI 快速上手專案規範"
-date: 2025-09-01
+date: 2025-09-01 17:20:00 +0800
 categories: [技術筆記, AI]
 tags: [.NET Core, 框架設計, AI 輔助開發]
 ---

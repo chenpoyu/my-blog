@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Week 1: GitHub Copilot 初體驗與充電樁系統重構"
-date: 2025-08-04
+date: 2025-08-04 11:00:00 +0800
 categories: [AI工程, Vibe Coding]
 tags: [GitHub Copilot, Claude Sonnet 4.5, OCPI, IoT, Charging Station]
 ---

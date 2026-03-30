@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Week 2: Local LLM 實驗 - Ollama 與 DeepSeek"
-date: 2025-08-11
+date: 2025-08-11 15:40:00 +0800
 categories: [AI工程, Local LLM]
 tags: [Ollama, DeepSeek, Quantization, Continue.dev]
 ---

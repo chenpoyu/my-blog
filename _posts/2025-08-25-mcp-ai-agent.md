@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Week 4: MCP 與 AI Agent - 讓 AI 自己做事"
-date: 2025-08-25
+date: 2025-08-25 15:40:00 +0800
 categories: [AI工程, Agent]
 tags: [MCP, Agent, Function Calling, Automation]
 ---

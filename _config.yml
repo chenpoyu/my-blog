@@ -96,6 +96,8 @@ keep_files:
   - .svn
 
 # Incremental build for faster development
-incremental: true
+# Incremental build can leave pages that depend on site.posts stale.
+# Keep it disabled by default so index/archive/taxonomy always rebuild correctly.
+incremental: false
 safe: true
 lsi: false
