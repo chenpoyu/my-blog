@@ -3,7 +3,7 @@ layout: post
 title: "Docker 容器化入門實戰"
 date: 2018-12-10 11:20:00 +0800
 categories: [DevOps, Container]
-tags: [Docker, Container, Virtualization]
+tags: [Docker, DevOps]
 ---
 
 前幾週建立了 Jenkins CI/CD 環境，但還是會遇到環境不一致的問題。「在我機器上可以跑」這句話已經聽膩了。這週來研究 Docker，徹底解決環境一致性的問題。

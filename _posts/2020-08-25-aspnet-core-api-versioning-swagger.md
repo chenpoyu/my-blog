@@ -3,7 +3,7 @@ layout: post
 title: "ASP.NET Core API 版本控制與文件產生"
 date: 2020-08-25 14:15:00 +0800
 categories: [框架, .NET]
-tags: [ASP.NET Core, API Versioning, Swagger, OpenAPI]
+tags: [.NET Core, ASP.NET Core, API, 技術文件]
 ---
 
 這週研究 ASP.NET Core 的 API 版本控制策略，以及如何使用 Swagger/OpenAPI 自動產生 API 文件。

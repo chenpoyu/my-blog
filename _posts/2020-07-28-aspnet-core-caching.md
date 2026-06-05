@@ -3,7 +3,7 @@ layout: post
 title: "ASP.NET Core 快取機制實戰"
 date: 2020-07-28 15:30:00 +0800
 categories: [框架, .NET]
-tags: [ASP.NET Core, Caching, Redis, Performance]
+tags: [.NET Core, ASP.NET Core, Redis, Caching, Performance]
 ---
 
 這週研究 ASP.NET Core 的快取機制，包含記憶體快取和分散式快取。

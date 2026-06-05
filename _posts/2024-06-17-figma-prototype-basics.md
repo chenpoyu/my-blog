@@ -3,7 +3,7 @@ layout: post
 title: "Figma Prototype 基礎：讓設計動起來"
 date: 2024-06-17 09:40:00 +0800
 categories: [設計, UI/UX]
-tags: [Figma, Prototype, Interaction]
+tags: [Figma, UI/UX]
 ---
 
 前兩週學了 Figma 的基礎和 Component，這週終於要進入重點：Prototype。

@@ -3,7 +3,7 @@ layout: post
 title: "iOS 12 新特性與 SwiftUI 預覽"
 date: 2018-09-07
 categories: [iOS, New Features]
-tags: [iOS 12, Siri Shortcuts, ARKit, Performance]
+tags: [iOS, Performance]
 ---
 
 iOS 12 在今年 WWDC 2018 發布，這週研究新特性，看看能如何應用在 app 開發中。iOS 12 主要聚焦在效能提升和既有功能的改進，而非大幅改版。

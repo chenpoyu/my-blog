@@ -3,7 +3,7 @@ layout: post
 title: "Trace Context Propagation：串聯分散式追蹤"
 date: 2023-07-21 09:00:00 +0800
 categories: [Observability, Tracing]
-tags: [Context Propagation, W3C Trace Context, Distributed Systems, Baggage]
+tags: [Observability, Tracing]
 ---
 
 在微服務架構中，一個請求會經過多個服務。**如何讓這些服務知道它們處理的是同一個請求？**

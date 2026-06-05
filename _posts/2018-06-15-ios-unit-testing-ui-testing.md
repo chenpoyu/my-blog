@@ -3,7 +3,7 @@ layout: post
 title: "iOS 單元測試與 UI 測試"
 date: 2018-06-15
 categories: [iOS, Swift]
-tags: [Swift, iOS, Testing, XCTest, Unit Test, UI Test]
+tags: [Swift, iOS, Testing, UI/UX]
 ---
 
 這週深入研究測試。在 Java 開發中，我習慣用 JUnit 和 Mockito 寫測試，測試驅動開發（TDD）也是團隊的標準實踐。轉到 iOS 後，發現 Apple 提供的 XCTest 框架功能同樣完整，但使用方式有些不同。

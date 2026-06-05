@@ -3,7 +3,7 @@ layout: post
 title: "代理模式：在不侵入代碼的前提下實現權限控管與效能監控" 
 date: 2017-06-21 13:40:00 +0800 
 categories: [設計模式, Java] 
-tags: [代理模式, 動態代理, AOP]
+tags: [Java, Design Patterns]
 ---
 
 上個月的組內會役，我們討論到一個問題：AOP 的優勢，舉例情境就是，如何確保只有「具有管理員權限」的請求才能呼叫 `MemberService` 的刪除方法？

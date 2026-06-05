@@ -3,7 +3,7 @@ layout: post
 title: "Ansible 自動化配置管理"
 date: 2019-02-25 10:00:00 +0800
 categories: [DevOps, Automation]
-tags: [Ansible, Configuration Management, Automation, Infrastructure]
+tags: [Ansible, DevOps, IaC, Automation]
 ---
 
 上週學了 Terraform 管理基礎設施（參考 [Terraform Infrastructure as Code 基礎](/posts/2019/02/18/terraform-infrastructure-as-code/)），這週來解決另一個問題：機器建好後，如何安裝和設定軟體？

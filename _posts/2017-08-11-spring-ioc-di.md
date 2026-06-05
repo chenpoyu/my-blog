@@ -3,7 +3,7 @@ layout: post
 title: "Spring IoC 與 DI 使用筆記"
 date: 2017-08-11 11:45:00 +0800
 categories: [設計模式, Java]
-tags: [Spring, IoC, 依賴注入, DI]
+tags: [Java, Spring]
 ---
 
 前面幾週我們學習了 Java 的基礎特性，現在是時候進入企業級開發的核心框架：Spring。Spring 的核心理念是「控制反轉（IoC）」和「依賴注入（DI）」，這兩個概念徹底改變了我們組織代碼的方式。

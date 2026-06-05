@@ -3,7 +3,7 @@ layout: post
 title: "Git 分支策略與團隊協作"
 date: 2018-11-19 14:20:00 +0800
 categories: [DevOps, 版本控制]
-tags: [Git, Git-Flow, Branching, Collaboration]
+tags: [DevOps, 工作流程]
 ---
 
 上週開始學習 DevOps（參考 [DevOps 基礎概念](/posts/2018/11/12/devops-introduction/)），第一步就是要把 Git 用好。以前寫個人專案時，Git 對我來說就是 `git add .`、`git commit -m "update"`、`git push`。但在團隊協作中，這樣根本行不通。

@@ -3,7 +3,7 @@ layout: post
 title: "集中式日誌架構設計：支撐百萬級 QPS"
 date: 2023-06-09 09:00:00 +0800
 categories: [Observability, Logging, Architecture]
-tags: [ELK Stack, Architecture Design, High Availability, Scalability]
+tags: [ELK Stack, Architecture, Observability, High Availability, UI/UX]
 ---
 
 當你的系統從 10 個服務成長到 100 個，日誌量從每天 10GB 成長到 1TB，ELK Stack 的架構也需要進化。

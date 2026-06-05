@@ -3,7 +3,7 @@ layout: post
 title: "多租戶環境的可觀測性與資料隔離"
 date: 2023-09-01 09:00:00 +0800
 categories: [Observability, Multi-Tenancy]
-tags: [Multi-Tenancy, Security, Data Isolation, SaaS]
+tags: [Security, Observability]
 ---
 
 當你在建立 SaaS 產品時，會遇到一個挑戰：**多個租戶共享同一套系統，但可觀測性資料必須隔離**。

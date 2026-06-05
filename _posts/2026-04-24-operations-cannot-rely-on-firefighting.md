@@ -3,7 +3,7 @@ layout: post
 title: "維運，不能只靠救火"
 date: 2026-04-24 12:00:00 +0800
 categories: [技術筆記, 維運管理]
-tags: [AI 工作流, 維運, SOP, Incident, 企業系統]
+tags: [AI, Incident Response, 維運, SOP, AI 輔助開發]
 ---
 
 ## 以前我對維運的想像，比較像救火

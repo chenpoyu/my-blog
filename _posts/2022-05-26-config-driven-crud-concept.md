@@ -3,7 +3,7 @@ layout: post
 title: "Config-Driven 開發：用設定檔驅動 CRUD 頁面生成"
 date: 2022-05-26 09:15:00 +0800
 categories: [前端開發]
-tags: [React, CRUD, Config-Driven, 開發效率]
+tags: [React, 前端開發]
 ---
 
 ## 後台系統的痛點

@@ -3,7 +3,7 @@ layout: post
 title: "DR Plan：備份不是做心安的"
 date: 2025-07-18 10:30:00 +0800
 categories: [維運]
-tags: [災難恢復, 備份, Azure, 高可用性]
+tags: [Azure, Cloud, High Availability, Disaster Recovery, 維運]
 ---
 
 ## 「如果 Azure 掛了怎麼辦？」

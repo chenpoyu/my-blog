@@ -3,7 +3,7 @@ layout: post
 title: "Jenkins 持續整合環境建置"
 date: 2018-11-26 10:15:00 +0800
 categories: [DevOps, CI/CD]
-tags: [Jenkins, CI, Automation, Build]
+tags: [Jenkins, CI/CD, DevOps, Automation]
 ---
 
 前兩週學習了 DevOps 的基本概念和 Git 分支策略，但每次要部署還是得手動打包、上傳、重啟服務。這週來解決這個問題，建立自動化的持續整合環境。

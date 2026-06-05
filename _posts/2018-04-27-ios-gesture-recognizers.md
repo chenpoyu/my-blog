@@ -3,7 +3,7 @@ layout: post
 title: "iOS 手勢辨識"
 date: 2018-04-27
 categories: [iOS, Swift]
-tags: [Swift, iOS, Gesture, UIGestureRecognizer, Touch]
+tags: [Swift, iOS]
 ---
 
 這週深入研究 iOS 的手勢辨識系統。在 Java Swing 中處理滑鼠事件相對簡單，因為桌面應用主要是點擊和拖曳。但觸控螢幕的互動方式豐富太多：點擊、長按、滑動、捏合、旋轉，每種都有不同的意義。

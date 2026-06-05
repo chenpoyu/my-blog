@@ -3,7 +3,7 @@ layout: post
 title: "App Service P1V3 的選擇"
 date: 2025-06-27 11:30:00 +0800
 categories: [雲端架構]
-tags: [Azure App Service, 成本優化, 規格選擇]
+tags: [Azure, Architecture, Cloud, Cost Optimization]
 ---
 
 ## 為什麼不選 P2V3？

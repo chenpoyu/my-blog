@@ -3,7 +3,7 @@ layout: post
 title: "Metrics vs Logs vs Traces：三大支柱的本質差異"
 date: 2023-03-31 09:00:00 +0800
 categories: [Observability, Logging]
-tags: [Observability, Metrics, Logs, Traces, ELK Stack]
+tags: [ELK Stack, Observability, Logging, Metrics]
 ---
 
 我們終於完成 Prometheus 學習！從今天開始要進入 Q2：**日誌管理（Logging）**。

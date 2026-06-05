@@ -3,7 +3,7 @@ layout: post
 title: "Java 8 Lambda 與 Stream 使用筆記"
 date: 2017-07-28 10:35:00 +0800
 categories: [設計模式, Java]
-tags: [Java, Lambda, Stream, 函數式程式設計]
+tags: [Java]
 ---
 
 Java 8 是 Java 發展史上的重要里程碑，引入了 Lambda 表達式與 Stream API，讓 Java 也能寫出函數式風格的代碼。這對處理集合資料密集的電商系統來說，簡直是神器。

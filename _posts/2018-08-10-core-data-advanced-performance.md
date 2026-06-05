@@ -3,7 +3,7 @@ layout: post
 title: "Core Data 進階：複雜資料模型與效能優化"
 date: 2018-08-10
 categories: [iOS, Core Data]
-tags: [Core Data, Database, Persistence, Performance]
+tags: [iOS, Database, Performance, Data Persistence]
 ---
 
 這週深入研究 Core Data 的進階主題，從複雜的資料關係到效能優化技巧。Core Data 不只是 ORM，更是完整的物件圖管理框架，理解其運作機制對大型 app 很重要。

@@ -3,7 +3,7 @@ layout: post
 title: "iOS 相機與照片整合"
 date: 2018-05-25
 categories: [iOS, Swift]
-tags: [Swift, iOS, Camera, Photos, UIImagePickerController, AVFoundation]
+tags: [Swift, iOS]
 ---
 
 這週深入研究相機和照片功能。在 Web 開發中，圖片上傳通常是透過 `<input type="file">`，功能很陽春。但在 iOS 上，我們可以直接控制相機硬體、即時處理影像、整合照片庫，打造更豐富的使用者體驗。

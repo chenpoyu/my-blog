@@ -3,7 +3,7 @@ layout: post
 title: "Jekyll 效能優化與編譯速度改善"
 date: 2022-04-06 20:45:00 +0800
 categories: [心法]
-tags: [Jekyll, 效能優化]
+tags: [Jekyll, Performance]
 ---
 
 文章越寫越多，發現本地編譯時間變長了。原本幾秒鐘就好，現在要等十幾秒。研究了一下 Jekyll 的效能優化方法。

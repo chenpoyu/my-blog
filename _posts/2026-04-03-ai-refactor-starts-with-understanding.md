@@ -3,7 +3,7 @@ layout: post
 title: "重構，不是先叫 AI 寫程式"
 date: 2026-04-03 12:00:00 +0800
 categories: [技術筆記, 系統重構]
-tags: [AI 工作流, 系統重構, Laravel, 企業系統, 漸進式重構]
+tags: [Laravel, AI, 系統重構, AI 輔助開發]
 ---
 
 ## 這次重構，我最先做的不是改 code

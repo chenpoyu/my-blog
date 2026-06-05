@@ -3,7 +3,7 @@ layout: post
 title: "Flutter Google Maps 整合：充電站地圖實作"
 date: 2024-07-29 14:45:00 +0800
 categories: [行動開發, Flutter]
-tags: [Flutter, Google Maps, 地理位置]
+tags: [Flutter]
 ---
 
 這週主要在處理 Google Maps 整合。充電站 App 的核心功能就是地圖，使用者要能看到附近的充電站、點擊查看詳情、導航過去。

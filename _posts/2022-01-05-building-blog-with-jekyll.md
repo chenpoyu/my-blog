@@ -3,7 +3,7 @@ layout: post
 title: "決定用 Jekyll 架設個人技術部落格"
 date: 2022-01-05 23:15:00 +0800
 categories: [心法]
-tags: [Jekyll, 部落格]
+tags: [Jekyll]
 ---
 
 最近開始思考要把這幾年累積的技術筆記整理出來，一直在猶豫要用什麼平台。Medium 太商業化，WordPress 又太肥大，後來看到同事推薦 Jekyll，研究了一下發現很適合我的需求。

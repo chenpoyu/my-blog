@@ -3,7 +3,7 @@ layout: post
 title: "解構傳統 Jenkins 部署的侷限"
 date: 2022-08-05 09:00:00 +0800
 categories: [DevOps, GitOps]
-tags: [Jenkins, ArgoCD, GitOps, Kubernetes, CI/CD]
+tags: [Kubernetes, Jenkins, GitOps, ArgoCD, CI/CD]
 ---
 
 在過去五年裡,我們團隊用 Jenkins Pipeline 部署了數十個微服務。從表面上看,一切運作順利——開發者推送程式碼,Pipeline 自動觸發,最後 `kubectl apply` 完成部署。但隨著系統規模擴大,我們開始意識到:「自動化」不等於「可控制」。

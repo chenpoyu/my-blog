@@ -3,7 +3,7 @@ layout: post
 title: "RabbitMQ 進階：高可用與效能優化實戰"
 date: 2021-01-20 09:40:00 +0800
 categories: [Message Queue, Architecture]
-tags: [RabbitMQ, High Availability, Performance, Cluster]
+tags: [RabbitMQ, Architecture, Performance, Reliability, High Availability]
 ---
 
 ## 前言

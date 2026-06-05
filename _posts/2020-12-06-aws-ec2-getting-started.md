@@ -3,7 +3,7 @@ layout: post
 title: "AWS EC2 入門：從零開始部署應用服務"
 date: 2020-12-06 10:35:00 +0800
 categories: [AWS, Cloud]
-tags: [AWS, EC2, Cloud Computing, DevOps]
+tags: [AWS, DevOps, Cloud]
 ---
 
 ## 前言

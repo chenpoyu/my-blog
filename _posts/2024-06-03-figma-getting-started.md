@@ -3,7 +3,7 @@ layout: post
 title: "Figma 初體驗：從零開始的設計工具"
 date: 2024-06-03 10:25:00 +0800
 categories: [設計, UI/UX]
-tags: [Figma, Design, Prototype]
+tags: [Figma, UI/UX]
 ---
 
 最近手上有個專案要做 prototype，想說趁這個機會學一下 Figma。以前都是工程師做工程師的事，設計交給設計師，但這次想自己動手試試看，了解一下設計師的世界。

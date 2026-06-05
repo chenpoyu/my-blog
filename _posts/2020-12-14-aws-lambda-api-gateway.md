@@ -3,7 +3,7 @@ layout: post
 title: "AWS Lambda + API Gateway 實戰：打造 Serverless REST API"
 date: 2020-12-14 15:47:00 +0800
 categories: [AWS, Serverless]
-tags: [AWS, Lambda, API Gateway, Serverless, Node.js]
+tags: [API Gateway, AWS, API, Cloud, Serverless]
 ---
 
 ## 前言

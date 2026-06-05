@@ -3,7 +3,7 @@ layout: post
 title: "iOS 非同步程式設計：GCD 到 Operation Queue"
 date: 2018-08-03
 categories: [iOS, Concurrency]
-tags: [GCD, Operation Queue, Threading, Async]
+tags: [iOS]
 ---
 
 這週深入研究 iOS 的非同步程式設計，從 Grand Central Dispatch (GCD) 到 Operation Queue，理解如何有效管理多執行緒任務。這和 Java 的 ExecutorService、CompletableFuture 有相似之處，但也有不同的設計哲學。

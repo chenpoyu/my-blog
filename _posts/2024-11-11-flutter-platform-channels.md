@@ -3,7 +3,7 @@ layout: post
 title: "Flutter 與 Native 整合：Platform Channels"
 date: 2024-11-11 15:15:00 +0800
 categories: [行動開發, Flutter]
-tags: [Flutter, Native, Platform Channels, iOS, Android]
+tags: [iOS, Flutter]
 ---
 
 有些功能 Flutter 原生不支援，需要呼叫 Native 程式碼。這週研究 Platform Channels，實作藍牙、感應器等原生功能。

@@ -3,7 +3,7 @@ layout: post
 title: "n8n 錯誤處理與重試機制"
 date: 2024-05-13 15:40:00 +0800
 categories: [自動化, 工作流程]
-tags: [n8n, Error Handling, Reliability]
+tags: [n8n, Automation, Reliability, 工作流程]
 ---
 
 這週深入研究了 n8n 的錯誤處理機制。做自動化流程最怕的就是執行到一半掛掉，資料處理了一半、通知發了一半，要收拾殘局很麻煩。

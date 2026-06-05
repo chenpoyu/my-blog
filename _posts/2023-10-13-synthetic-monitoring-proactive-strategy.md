@@ -3,7 +3,7 @@ layout: post
 title: "Synthetic Monitoring：主動式監控策略"
 date: 2023-10-13 09:00:00 +0800
 categories: [Observability, Synthetic Monitoring]
-tags: [Synthetic Monitoring, Testing, Automation, User Experience]
+tags: [Testing, Automation, Observability, Monitoring]
 ---
 
 被動監控（Reactive Monitoring）只能在問題發生後才知道。

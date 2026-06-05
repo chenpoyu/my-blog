@@ -3,7 +3,7 @@ layout: post
 title: "Flutter Firebase 推播通知：內推、外推與 Deep Link"
 date: 2024-08-05 09:30:00 +0800
 categories: [行動開發, Flutter]
-tags: [Flutter, Firebase, Push Notification, Deep Link]
+tags: [Flutter, Firebase, Push Notification]
 ---
 
 這週處理 Firebase Cloud Messaging（FCM）推播通知。充電站 App 需要各種通知：充電完成、優惠活動、系統維護等。

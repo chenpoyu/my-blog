@@ -3,7 +3,7 @@ layout: post
 title: "Java 多執行緒筆記"
 date: 2017-08-04 15:20:00 +0800
 categories: [設計模式, Java]
-tags: [Java, 多執行緒, 並發, 執行緒安全]
+tags: [Java, Performance]
 ---
 
 電商系統常常需要同時處理大量請求：用戶瀏覽商品、下單、付款、查詢訂單...。如何有效利用多核心 CPU，提升系統吞吐量？這就需要理解 Java 的多執行緒機制。

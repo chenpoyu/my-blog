@@ -3,7 +3,7 @@ layout: post
 title: "Java 反射與註解使用筆記"
 date: 2017-12-08 09:40:00 +0800
 categories: [設計模式, Java]
-tags: [Java, 反射, 註解, Reflection, Annotation]
+tags: [Java]
 ---
 
 在使用 Spring 框架時,會發現很多神奇的功能:@Autowired 自動注入、@Transactional 事務管理、@RequestMapping 路由映射。這些都是透過**反射**和**註解**實現的。

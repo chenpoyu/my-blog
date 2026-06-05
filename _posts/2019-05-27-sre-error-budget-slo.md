@@ -3,7 +3,7 @@ layout: post
 title: "SRE 實踐：錯誤預算與 SLO"
 date: 2019-05-27 10:00:00 +0800
 categories: [DevOps, SRE]
-tags: [SRE, SLO, SLI, Error Budget, Reliability]
+tags: [DevOps, Observability, Metrics, SRE, Reliability]
 ---
 
 上週學習了效能測試（參考 [效能測試策略](/posts/2019/05/20/performance-testing-strategy/)），這週來學習 Google 的 SRE（Site Reliability Engineering）實踐。

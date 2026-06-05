@@ -3,7 +3,7 @@ layout: post
 title: "Spring Cloud 微服務入門筆記"
 date: 2017-10-20 14:40:00 +0800
 categories: [設計模式, Java]
-tags: [Spring Cloud, 微服務, 分散式系統]
+tags: [Java, Spring, Microservices, Cloud]
 ---
 
 隨著電商業務成長,單體應用變得越來越龐大、難以維護。微服務架構將應用拆分成多個小服務,每個服務獨立開發、部署、擴展。

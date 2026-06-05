@@ -3,7 +3,7 @@ layout: post
 title: "Jenkins 瘦身計畫：回歸 CI 本質"
 date: 2022-08-19 09:00:00 +0800
 categories: [DevOps, GitOps]
-tags: [Jenkins, CI, Shared Library, Pipeline, Refactoring]
+tags: [Jenkins, GitOps, CI/CD, DevOps, 系統重構]
 ---
 
 前兩週我們討論了「為什麼要轉型」和「為什麼選 ArgoCD」,這週開始動手改造現有的 CI/CD Pipeline。第一步:**讓 Jenkins 回歸 CI 的本質**。

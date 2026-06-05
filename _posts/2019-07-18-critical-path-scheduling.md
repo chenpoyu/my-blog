@@ -3,7 +3,7 @@ layout: post
 title: "關鍵路徑法與專案排程"
 date: 2019-07-18
 categories: [Project Management]
-tags: [cpm, scheduling, planning]
+tags: [專案管理]
 ---
 
 這週進入學習關鍵路徑法，用來安排專案時程。

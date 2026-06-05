@@ -3,7 +3,7 @@ layout: post
 title: "動態表單生成：Modal、驗證與資料提交"
 date: 2022-06-09 15:30:00 +0800
 categories: [前端開發]
-tags: [React, Form, Validation, Ant Design]
+tags: [React, UI/UX, 前端開發]
 ---
 
 ## 表單 Modal 的設計

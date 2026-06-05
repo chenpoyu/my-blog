@@ -3,7 +3,7 @@ layout: post
 title: "領導力不是控制，是影響"
 date: 2021-11-03
 categories: [management, leadership]
-tags: [領導, 管理]
+tags: [團隊管理, 領導]
 ---
 
 「你是要當 Boss，還是要當 Leader？」

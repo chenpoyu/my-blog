@@ -3,7 +3,7 @@ layout: post
 title: "測試策略筆記"
 date: 2017-11-10 10:50:00 +0800
 categories: [設計模式, Java]
-tags: [測試, JUnit, Mockito, 整合測試]
+tags: [Java, Testing]
 ---
 
 前面我們學習了從 Java 基礎到微服務部署的完整技術棧,但如何確保程式品質?完善的測試策略是關鍵!

@@ -3,7 +3,7 @@ layout: post
 title: "RabbitMQ 實戰：處理 IoT 裝置 Heartbeat 的經驗分享"
 date: 2020-12-21 09:15:00 +0800
 categories: [Message Queue, IoT]
-tags: [RabbitMQ, Message Queue, IoT, AMQP, Java]
+tags: [Java, RabbitMQ]
 ---
 
 ## 前言

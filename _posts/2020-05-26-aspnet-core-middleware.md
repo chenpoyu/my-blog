@@ -3,7 +3,7 @@ layout: post
 title: "ASP.NET Core Middleware 管道機制"
 date: 2020-05-26 14:15:00 +0800
 categories: [框架, .NET]
-tags: [ASP.NET Core, Middleware, Pipeline]
+tags: [.NET Core, ASP.NET Core, CI/CD, DevOps]
 ---
 
 這週研究 ASP.NET Core 的 Middleware 管道機制，它類似 Java 的 Servlet Filter，但設計更加靈活。

@@ -3,7 +3,7 @@ layout: post
 title: "iOS 音訊與影片播放"
 date: 2018-06-01
 categories: [iOS, Swift]
-tags: [Swift, iOS, AVFoundation, Audio, Video, Media Player]
+tags: [Swift, iOS]
 ---
 
 這週研究多媒體播放功能。在 Web 開發中，音訊和影片播放主要靠 HTML5 的 `<audio>` 和 `<video>` 標籤，瀏覽器處理大部分細節。但在 iOS 原生開發中，我們能更深入控制播放行為、整合系統介面、甚至在背景持續播放。

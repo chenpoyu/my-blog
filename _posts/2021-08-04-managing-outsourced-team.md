@@ -3,7 +3,7 @@ layout: post
 title: "管理派遣人力的眉角"
 date: 2021-08-04
 categories: [management, team]
-tags: [管理, 人力派遣]
+tags: [團隊管理]
 ---
 
 **以下資訊，若涉及個人資訊，會以模糊方式調整，避免被帶入特定人士縮影**

@@ -3,7 +3,7 @@ layout: post
 title: "重構，不能只改功能"
 date: 2026-05-01 12:00:00 +0800
 categories: [技術筆記, 團隊流程]
-tags: [AI 工作流, SOP, Code Review, 系統重構, 維護性]
+tags: [AI, 維運, SOP, 系統重構, AI 輔助開發]
 ---
 
 ## 系統重構最容易失敗的地方，是只改到程式

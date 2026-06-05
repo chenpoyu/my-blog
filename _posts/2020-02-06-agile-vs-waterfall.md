@@ -3,7 +3,7 @@ layout: post
 title: "敏捷與瀑布的比較與選擇"
 date: 2020-02-06
 categories: [Project Management]
-tags: [agile, waterfall, methodology]
+tags: [專案管理, Agile]
 ---
 
 經過半年多的學習和實踐,對敏捷和瀑布都有更深的理解。開始思考何時該用哪種方法。

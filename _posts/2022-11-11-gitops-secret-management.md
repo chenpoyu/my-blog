@@ -3,7 +3,7 @@ layout: post
 title: "GitOps 下的 Secret 管理"
 date: 2022-11-11 09:00:00 +0800
 categories: [DevOps, GitOps]
-tags: [Sealed Secrets, Secret Management, GitOps, Security, Vault]
+tags: [Kubernetes, GitOps, Security, DevOps, Automation]
 ---
 
 這週要解決 GitOps 最大的挑戰:**如何安全地管理 Secret?**

@@ -3,7 +3,7 @@ layout: post
 title: "當技術很強但無法溝通時"
 date: 2021-06-30
 categories: [management, interview]
-tags: [面試, 溝通]
+tags: [團隊管理, 面試]
 ---
 
 今天面試了一位技術能力很不錯的候選人，但整場面試都很卡，卡到我一度懷疑是不是我的問題。

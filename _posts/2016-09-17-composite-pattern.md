@@ -3,7 +3,7 @@ layout: post
 title: "組合模式：重構電商平台的商品套裝與促銷結構" 
 date: 2016-09-17 14:20:00 +0800 
 categories: [設計模式, Java] 
-tags: [組合模式, 電商系統]
+tags: [Java, Design Patterns, 系統重構]
 ---
 
 最近我遇到了有點一個複雜的開發需求：電商活動要支援「超值大禮包」。

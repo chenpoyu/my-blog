@@ -3,7 +3,7 @@ layout: post
 title: "服務網格流量管理進階"
 date: 2019-04-22 10:00:00 +0800
 categories: [DevOps, Service Mesh]
-tags: [Istio, Traffic Management, Circuit Breaker, Retry, Timeout]
+tags: [Kubernetes, Service Mesh, DevOps, Reliability]
 ---
 
 上週研究了配置中心（參考 [Spring Cloud Config](/posts/2019/04/15/spring-cloud-config/)），這週回到 Istio，深入研究流量管理的進階功能。

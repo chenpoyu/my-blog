@@ -3,7 +3,7 @@ layout: post
 title: "iOS 架構模式：MVC 與 MVVM"
 date: 2018-06-08
 categories: [iOS, Swift]
-tags: [Swift, iOS, Architecture, MVC, MVVM, Design Pattern]
+tags: [Swift, iOS, Architecture, UI/UX]
 ---
 
 這週深入研究 iOS 的架構模式。在 Java 企業開發中，我們有成熟的分層架構：Controller、Service、DAO、Entity。但 iOS app 的架構思維不太一樣，需要重新理解。

@@ -3,7 +3,7 @@ layout: post
 title: "客製化 Jekyll 版面與樣式"
 date: 2022-01-19 21:30:00 +0800
 categories: [心法]
-tags: [Jekyll, CSS]
+tags: [Jekyll]
 ---
 
 今天開始動手改版面。預設的 minima 主題太簡單，想要弄得更有個人風格一點。

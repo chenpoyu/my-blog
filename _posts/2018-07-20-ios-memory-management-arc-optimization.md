@@ -3,7 +3,7 @@ layout: post
 title: "iOS 記憶體管理深入：ARC 與效能優化"
 date: 2018-07-20
 categories: [iOS, Performance]
-tags: [ARC, Memory, Performance, Optimization]
+tags: [iOS, Performance]
 ---
 
 這週深入研究 iOS 的記憶體管理，發現 ARC（Automatic Reference Counting）雖然自動化，但還是需要理解原理才能避免問題。這和 Java 的 GC 有本質上的不同。

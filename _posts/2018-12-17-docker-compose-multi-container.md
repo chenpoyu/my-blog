@@ -3,7 +3,7 @@ layout: post
 title: "Docker Compose 多容器編排"
 date: 2018-12-17 10:30:00 +0800
 categories: [DevOps, Container]
-tags: [Docker, Docker Compose, Orchestration]
+tags: [Docker, DevOps]
 ---
 
 上週學會了 Docker 容器化（參考 [Docker 容器化入門實戰](/posts/2018/12/10/docker-containerization-basics/)），但手動管理多個容器實在太麻煩了。每次啟動都要執行一堆 `docker run` 指令，還要記得正確的順序和參數。

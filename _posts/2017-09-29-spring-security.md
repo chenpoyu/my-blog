@@ -3,7 +3,7 @@ layout: post
 title: "Spring Security 使用筆記"
 date: 2017-09-29 15:30:00 +0800
 categories: [設計模式, Java]
-tags: [Spring Security, 安全, 認證, 授權]
+tags: [Java, Spring, Security, Authentication]
 ---
 
 電商系統的安全至關重要:用戶登入、權限控制、防止攻擊...Spring Security 提供了企業級的安全解決方案。

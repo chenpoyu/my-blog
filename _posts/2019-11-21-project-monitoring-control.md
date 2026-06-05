@@ -3,7 +3,7 @@ layout: post
 title: "專案監控與績效報告"
 date: 2019-11-21
 categories: [Project Management]
-tags: [monitoring, control, metrics]
+tags: [Observability, Monitoring, Metrics, 專案管理, 績效管理]
 ---
 
 主管說專案管理不只是計畫，更重要的是監控執行。計畫做得再好，如果不監控，還是會失敗。

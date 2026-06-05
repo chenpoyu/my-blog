@@ -3,7 +3,7 @@ layout: post
 title: "為什麼我們用 YARP 自建 API Gateway 而不用 Azure APIM"
 date: 2025-02-06 11:20:00 +0800
 categories: [架構設計]
-tags: [YARP, API Gateway, .NET Core, Azure APIM]
+tags: [.NET Core, API Gateway, Azure, Architecture, Cloud]
 ---
 
 ## Azure API Management 太貴了

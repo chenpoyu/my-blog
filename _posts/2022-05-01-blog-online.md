@@ -3,7 +3,7 @@ layout: post
 title: "網站正式上線：六年技術旅程的回顧與展望"
 date: 2022-05-01 09:00:00 +0800
 categories: [公告]
-tags: [網站上線, Jekyll, 技術成長, 回顧]
+tags: [Jekyll, 年度回顧, 公告]
 ---
 
 ## 關於這六年

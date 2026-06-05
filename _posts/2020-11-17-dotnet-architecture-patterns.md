@@ -3,7 +3,7 @@ layout: post
 title: ".NET Core 架構設計模式"
 date: 2020-11-17 15:15:00 +0800
 categories: [框架, .NET]
-tags: [.NET Core, Architecture, Clean Architecture, DDD]
+tags: [.NET Core, Architecture]
 ---
 
 這週深入探討 .NET Core 應用程式的架構設計模式，包含 Clean Architecture、DDD、CQRS 等企業級架構。

@@ -3,7 +3,7 @@ layout: post
 title: "iOS 效能調校：Instruments 深度分析與優化技巧"
 date: 2018-08-24
 categories: [iOS, Performance]
-tags: [Performance, Instruments, Optimization, Profiling]
+tags: [iOS, Performance]
 ---
 
 這週專注在 app 效能優化，深入使用 Xcode 的 Instruments 工具。效能問題在開發時不明顯，但使用者裝置上可能會卡頓、耗電、當機。Instruments 提供強大的分析工具，幫助找出效能瓶頸。

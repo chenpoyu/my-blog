@@ -3,7 +3,7 @@ layout: post
 title: "Interface Builder 與 Storyboard"
 date: 2018-02-23
 categories: [Swift, iOS]
-tags: [iOS, Interface Builder, Storyboard, IBOutlet]
+tags: [Swift, iOS]
 ---
 
 這週學習用 **Interface Builder** 設計 UI。在 Java Swing 開發中，我用過 Eclipse 的 WindowBuilder，能視覺化建立 UI 並生成程式碼。Interface Builder 的概念類似，但更強大。

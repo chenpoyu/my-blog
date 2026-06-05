@@ -3,7 +3,7 @@ layout: post
 title: "資深與資淺工程師的面試差異"
 date: 2021-06-15
 categories: [management, interview]
-tags: [面試, 選才]
+tags: [團隊管理, 面試, 選才]
 ---
 
 持續面試的過程中，我發現面試資深和資淺工程師，真的需要完全不同的策略和問題設計。

@@ -3,7 +3,7 @@ layout: post
 title: "選才：技術 vs 團隊適配"
 date: 2021-07-20
 categories: [management, interview]
-tags: [選才, 團隊]
+tags: [團隊管理, 面試, 選才]
 ---
 
 這週遇到一個選才的兩難：同一個職缺，兩個候選人各有優缺點，到底該選哪一個？

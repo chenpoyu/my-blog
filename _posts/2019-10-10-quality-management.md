@@ -3,7 +3,7 @@ layout: post
 title: "專案品質管理"
 date: 2019-10-10
 categories: [Project Management]
-tags: [quality, standards, improvement]
+tags: [專案管理]
 ---
 
 專案上線後客戶抱怨問題很多，這是我單純自己在當工程師的時候不能理解的，因為我認為我們工程師就是必須把自己的程式開發測試好，而難免有bug是人之常情，不要太恐怖的金額錯誤或是造成損失就好，但是在專案管理的時候，我才意識到這個忽略了品質管理。

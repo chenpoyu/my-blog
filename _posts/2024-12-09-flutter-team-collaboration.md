@@ -3,7 +3,7 @@ layout: post
 title: "Flutter 團隊協作與開發規範"
 date: 2024-12-09 16:05:00 +0800
 categories: [行動開發, Flutter]
-tags: [Flutter, Team, Best Practices]
+tags: [Flutter, 團隊管理]
 ---
 
 隨著團隊擴大，開發規範變得很重要。這週整理 Flutter 專案的團隊協作經驗和最佳實踐。

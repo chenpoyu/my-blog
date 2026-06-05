@@ -3,7 +3,7 @@ layout: post
 title: "Flutter UI/UX 設計實踐：充電站 App 的設計心得"
 date: 2024-08-19 11:15:00 +0800
 categories: [行動開發, Flutter]
-tags: [Flutter, UI/UX, Material Design, 使用者體驗]
+tags: [Flutter, UI/UX]
 ---
 
 最後一週整理這陣子開發充電站 App 的 UI/UX 心得。Flutter 的 Widget 很強大,但要做出好的使用者體驗,不只是會寫 Code 就好,要考慮很多細節。

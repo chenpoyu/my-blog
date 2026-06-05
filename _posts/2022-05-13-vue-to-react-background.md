@@ -3,7 +3,7 @@ layout: post
 title: "從 Vue.js 2 到 React：一場因政策而起的技術轉型"
 date: 2022-05-13 10:30:00 +0800
 categories: [前端開發]
-tags: [React, Vue.js, 技術選型, 政府專案]
+tags: [React, Vue.js, 前端開發]
 ---
 
 ## 轉換的契機

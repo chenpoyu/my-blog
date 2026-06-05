@@ -3,7 +3,7 @@ layout: post
 title: "ASP.NET Core 認證與授權基礎"
 date: 2020-07-14 15:20:00 +0800
 categories: [框架, .NET]
-tags: [ASP.NET Core, Authentication, Authorization, Security]
+tags: [.NET Core, ASP.NET Core, Security, Authentication]
 ---
 
 這週研究 ASP.NET Core 的認證與授權機制，它提供完整的安全框架。

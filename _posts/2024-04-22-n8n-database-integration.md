@@ -3,7 +3,7 @@ layout: post
 title: "n8n 資料庫整合與 ETL 流程"
 date: 2024-04-22 16:45:00 +0800
 categories: [自動化, 工作流程]
-tags: [n8n, Database, ETL]
+tags: [n8n, Database, Automation, 工作流程]
 ---
 
 這週研究了 n8n 的資料庫整合功能。上週用 Google Sheets 做資料處理，但 Sheets 有些限制：資料量大了會慢、不好做複雜查詢、多人協作容易衝突。

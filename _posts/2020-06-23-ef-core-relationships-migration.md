@@ -3,7 +3,7 @@ layout: post
 title: "Entity Framework Core 關聯配置與 Migration"
 date: 2020-06-23 14:30:00 +0800
 categories: [框架, .NET]
-tags: [EF Core, Migration, Relationships]
+tags: [.NET Core, Entity Framework, Database]
 ---
 
 上週學習了 LINQ 查詢，本週深入研究 EF Core 的關聯配置和資料庫遷移機制。

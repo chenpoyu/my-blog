@@ -3,7 +3,7 @@ layout: post
 title: "從 .NET Core 轉戰 Java + AWS：三個月的雲端開發心路歷程"
 date: 2021-02-08 14:45:00 +0800
 categories: [Architecture, AWS]
-tags: [AWS, Java, Spring Boot, IoT, Cloud Architecture]
+tags: [Java, Spring, AWS, Architecture, Cloud]
 ---
 
 ## 前言

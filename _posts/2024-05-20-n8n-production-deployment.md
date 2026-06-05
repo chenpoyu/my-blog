@@ -3,7 +3,7 @@ layout: post
 title: "n8n 正式環境部署與維運"
 date: 2024-05-20 11:05:00 +0800
 categories: [自動化, 工作流程]
-tags: [n8n, Production, DevOps]
+tags: [n8n, DevOps, Automation, 維運, 工作流程]
 ---
 
 前面幾週都在測試環境玩 n8n，這週來研究如何部署到正式環境。測試環境用 Docker 單機跑沒問題，但正式環境要考慮的東西更多：資料持久化、高可用性、安全性、監控等等。

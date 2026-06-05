@@ -3,7 +3,7 @@ layout: post
 title: "Observability Maturity Model：評估你的團隊在哪個階段"
 date: 2023-12-01 09:00:00 +0800
 categories: [Observability, SRE]
-tags: [Maturity Model, Assessment, Best Practices, SRE]
+tags: [Observability, SRE]
 ---
 
 「我們的 Observability 做得夠好了嗎？」

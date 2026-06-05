@@ -3,7 +3,7 @@ layout: post
 title: "跨組支援的協調藝術"
 date: 2021-08-18
 categories: [management, team]
-tags: [管理, 協作]
+tags: [團隊管理]
 ---
 
 「Poyu，國防專案那邊很趕，可以支援一個人嗎？」

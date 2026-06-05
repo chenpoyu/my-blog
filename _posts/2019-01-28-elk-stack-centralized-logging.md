@@ -3,7 +3,7 @@ layout: post
 title: "ELK Stack 集中式日誌管理"
 date: 2019-01-28 14:30:00 +0800
 categories: [DevOps, Logging]
-tags: [ELK, Elasticsearch, Logstash, Kibana, Fluentd, Logging]
+tags: [ELK Stack, DevOps, Observability, Logging]
 ---
 
 上週建立了 Prometheus 監控系統（參考 [Prometheus 和 Grafana 監控 Kubernetes](/posts/2019/01/21/prometheus-grafana-monitoring/)），可以看到系統的指標。但遇到問題時，還是要看日誌才能知道發生了什麼事。

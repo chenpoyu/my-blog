@@ -3,7 +3,7 @@ layout: post
 title: "API Gateway 與微服務架構"
 date: 2019-04-01 10:00:00 +0800
 categories: [DevOps, Microservices]
-tags: [API Gateway, Kong, Microservices, Rate Limiting, Authentication]
+tags: [API Gateway, Microservices, API, Authentication, DevOps]
 ---
 
 上週研究了部署策略（參考 [金絲雀部署和藍綠部署](/posts/2019/03/25/canary-blue-green-deployment/)），這週來解決微服務架構的入口問題。

@@ -3,7 +3,7 @@ layout: post
 title: "Docker Registry 私有映像檔倉庫"
 date: 2018-12-24 14:15:00 +0800
 categories: [DevOps, Container]
-tags: [Docker, Registry, Harbor, Private Repository]
+tags: [Docker, DevOps]
 ---
 
 前幾週學會了 Docker 和 Docker Compose，但映像檔都存在本機。這樣有幾個問題：

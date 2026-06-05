@@ -3,7 +3,7 @@ layout: post
 title: "面試是雙向學習"
 date: 2021-07-14
 categories: [management, interview]
-tags: [面試, 學習]
+tags: [團隊管理, 面試]
 ---
 
 剛開始主導面試時，我以為自己只是評估候選人。但面試越多，我越發現：**面試其實是雙向學習的過程。**

@@ -3,7 +3,7 @@ layout: post
 title: "API 認證：JWT 的實作細節"
 date: 2025-07-11 14:15:00 +0800
 categories: [安全性]
-tags: [JWT, API Security, 認證授權]
+tags: [API, Security, Authentication]
 ---
 
 ## 為什麼選 JWT 不選 Session

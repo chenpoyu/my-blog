@@ -3,7 +3,7 @@ layout: post
 title: "React CSR 環境建置：快速啟動管理後台專案"
 date: 2022-05-19 14:20:00 +0800
 categories: [前端開發]
-tags: [React, CSR, Create React App, 專案架構]
+tags: [React, Architecture, 前端開發]
 ---
 
 ## 選擇 Create React App

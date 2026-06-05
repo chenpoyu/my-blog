@@ -3,7 +3,7 @@ layout: post
 title: "技術經理的新旅程"
 date: 2021-06-03
 categories: [management]
-tags: [管理, 職涯]
+tags: [團隊管理, 職涯]
 ---
 
 恢復轉寫部落格，這三個月的調整也是讓我想想我自己的發展

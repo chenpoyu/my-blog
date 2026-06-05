@@ -3,7 +3,7 @@ layout: post
 title: "面試中的紅旗訊號"
 date: 2021-10-27
 categories: [management, interview]
-tags: [面試, 警訊]
+tags: [團隊管理, 面試]
 ---
 
 「這個候選人的技術面試表現很好，但我總覺得哪裡怪怪的。」

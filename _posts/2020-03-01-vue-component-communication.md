@@ -3,7 +3,7 @@ layout: post
 title: "Vue 元件通訊：Props 與 Emit"
 date: 2020-03-01 14:20:00 +0800
 categories: [前端, JavaScript]
-tags: [Vue.js, Component, Props, Emit]
+tags: [Vue.js, JavaScript, 前端開發]
 render_with_liquid: false
 ---
 

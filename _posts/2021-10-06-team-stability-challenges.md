@@ -3,7 +3,7 @@ layout: post
 title: "團隊穩定性的挑戰"
 date: 2021-10-06
 categories: [management, team]
-tags: [管理, 團隊穩定]
+tags: [團隊管理]
 ---
 
 「Poyu，小陳要離職了。」

@@ -3,7 +3,7 @@ layout: post
 title: "Keycloak 事件監控與日誌分析"
 date: 2024-03-11 16:10:00 +0800
 categories: [系統架構, 安全性]
-tags: [Keycloak, Monitoring, Events]
+tags: [Keycloak, Architecture, Security, Authentication, Observability]
 ---
 
 這週深入研究了 Keycloak 的事件系統。正式環境運作後，需要知道誰登入了、誰登入失敗、有沒有異常的登入行為等等。Keycloak 的 Event 機制可以記錄這些資訊。

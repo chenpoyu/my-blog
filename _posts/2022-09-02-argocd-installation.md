@@ -3,7 +3,7 @@ layout: post
 title: "K8s 控制面搭建：ArgoCD 安裝實務"
 date: 2022-09-02 09:00:00 +0800
 categories: [DevOps, GitOps]
-tags: [ArgoCD, Kubernetes, Helm, Installation, CLI]
+tags: [Kubernetes, Helm, GitOps, ArgoCD, DevOps]
 ---
 
 經過八月的理論建立與架構分析,九月開始進入實戰階段。今天要完成的任務:**在 Kubernetes 集群中安裝 ArgoCD,並完成基本配置**。

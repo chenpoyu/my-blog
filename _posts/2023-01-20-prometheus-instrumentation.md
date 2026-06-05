@@ -3,7 +3,7 @@ layout: post
 title: "讓你的應用程式開口說話：Instrumentation 實戰"
 date: 2023-01-20 09:00:00 +0800
 categories: [Observability, Monitoring]
-tags: [Prometheus, Instrumentation, Metrics, Java, .NET Core]
+tags: [Java, .NET Core, Prometheus, Observability, Monitoring]
 ---
 
 上週我們安裝了 Prometheus，並且用 Node Exporter 監控了系統資源。但說實話，**系統資源只能告訴你『機器』的狀態，無法告訴你『應用程式』發生了什麼事。**

@@ -3,7 +3,7 @@ layout: post
 title: "Vue.js 初探：從後端工程師的角度"
 date: 2020-02-22 10:30:00 +0800
 categories: [前端, JavaScript]
-tags: [Vue.js, JavaScript, 前端框架]
+tags: [Vue.js, JavaScript, 前端開發]
 ---
 
 最近專案需要使用 Vue.js 開發前端頁面，對於習慣寫後端的我來說，前端框架是相對陌生的領域。雖然之前有學過 Swift 和基本的 jQuery，但 Vue.js 的開發思維還是需要重新理解。

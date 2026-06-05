@@ -3,7 +3,7 @@ layout: post
 title: "設計完整的監控體系：從零到成熟"
 date: 2023-03-24 09:00:00 +0800
 categories: [Observability, Monitoring]
-tags: [Monitoring Strategy, SRE, Best Practices, Maturity Model]
+tags: [Observability, Monitoring, SRE]
 ---
 
 過去 12 週我們學了很多 Prometheus 的技術細節。但今天我要問一個根本的問題：**你有「監控策略」嗎？**

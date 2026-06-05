@@ -3,7 +3,7 @@ layout: post
 title: "Jekyll 部落格加入流量分析與監控"
 date: 2022-04-22 21:15:00 +0800
 categories: [心法]
-tags: [Jekyll, Analytics]
+tags: [Jekyll]
 ---
 
 部落格運作一段時間了，想知道有多少人在看，哪些文章比較受歡迎。今天來加上流量分析工具。

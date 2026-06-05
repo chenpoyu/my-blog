@@ -3,7 +3,7 @@ layout: post
 title: "搶券活動的 27 支 API 地獄"
 date: 2025-05-30 10:00:00 +0800
 categories: [效能優化]
-tags: [壓力測試, API 優化, Queue, 搶購]
+tags: [API, Performance, Testing, 壓力測試]
 ---
 
 ## 最可怕的流程

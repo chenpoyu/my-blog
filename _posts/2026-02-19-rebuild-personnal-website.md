@@ -3,7 +3,7 @@ layout: post
 title: "隔了快五年，重新翻修自己的個人網站"
 date: 2026-02-19 12:00:00 +0800
 categories: [技術筆記, 前端開發]
-tags: [Vue 3, Quasar Framework, i18n, 個人網站, GitHub Pages]
+tags: [Vue.js, GitHub Pages, Localization, 前端開發]
 ---
 
 ## 事情的起頭

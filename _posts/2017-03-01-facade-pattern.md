@@ -3,7 +3,7 @@ layout: post
 title: "外觀模式：簡化電商多系統對接的複雜性" 
 date: 2017-03-01 10:00:00 +0800 
 categories: [設計模式, Java] 
-tags: [外觀模式, 系統集成]
+tags: [Java, Design Patterns]
 ---
 
 一個簡單的「下單按鈕」，背後隱藏了極其複雜的互動：

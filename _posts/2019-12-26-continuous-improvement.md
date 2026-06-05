@@ -3,7 +3,7 @@ layout: post
 title: "持續改善與學習型組織"
 date: 2019-12-26
 categories: [Project Management]
-tags: [kaizen, improvement, learning]
+tags: [專案管理]
 ---
 
 年底做專案回顧,檢討這一年的得失。主管說不只要回顧,更要建立持續改善的機制。

@@ -3,7 +3,7 @@ layout: post
 title: "Service Mesh 入門 - Istio"
 date: 2019-03-18 10:00:00 +0800
 categories: [DevOps, Microservices]
-tags: [Istio, Service Mesh, Kubernetes, Microservices, Observability]
+tags: [Kubernetes, Service Mesh, Microservices, DevOps, Observability]
 ---
 
 上週學了 Helm（參考 [Helm Charts 套件管理](/posts/2019/03/11/helm-charts-package-management/)），這週來研究微服務架構的新趨勢：Service Mesh。

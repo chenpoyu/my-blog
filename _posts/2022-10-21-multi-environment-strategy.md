@@ -3,7 +3,7 @@ layout: post
 title: "多環境管理策略 (Dev/Staging/Production)"
 date: 2022-10-21 09:00:00 +0800
 categories: [DevOps, GitOps]
-tags: [Kustomize, Overlays, Multi-Environment, GitOps]
+tags: [GitOps, DevOps, Automation]
 ---
 
 上週的 App-of-Apps 解決了「如何管理多個應用」,這週要解決另一個實際問題:**如何優雅地管理多環境的配置差異?**

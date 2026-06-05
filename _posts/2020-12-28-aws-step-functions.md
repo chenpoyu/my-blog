@@ -3,7 +3,7 @@ layout: post
 title: "AWS Step Functions：編排複雜的 Serverless 工作流程"
 date: 2020-12-28 14:32:00 +0800
 categories: [AWS, Serverless]
-tags: [AWS, Step Functions, Lambda, Workflow, State Machine]
+tags: [AWS, Cloud, Serverless, Automation, 工作流程]
 ---
 
 ## 前言

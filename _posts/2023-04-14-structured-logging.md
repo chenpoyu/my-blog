@@ -3,7 +3,7 @@ layout: post
 title: "結構化日誌：讓日誌變成可查詢的數據"
 date: 2023-04-14 09:00:00 +0800
 categories: [Observability, Logging]
-tags: [Structured Logging, JSON Logging, Log Parsing, Best Practices]
+tags: [Observability, Logging]
 ---
 
 上週我們搭建了 ELK Stack，並且成功收集了日誌。但你很快會發現一個問題：**原始日誌很難查詢。**

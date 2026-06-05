@@ -3,7 +3,7 @@ layout: post
 title: "年度回顧:GitOps 轉型五個月總結"
 date: 2022-12-23 09:00:00 +0800
 categories: [DevOps, GitOps]
-tags: [GitOps, Retrospective, Metrics, DORA, Lessons Learned]
+tags: [GitOps, DevOps, Automation, Observability, 年度回顧]
 ---
 
 從 2022 年 8 月開始,我們花了五個月時間完成了 **從 Jenkins 到 ArgoCD 的 GitOps 轉型**。

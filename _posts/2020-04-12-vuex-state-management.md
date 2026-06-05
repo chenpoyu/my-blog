@@ -3,7 +3,7 @@ layout: post
 title: "Vuex 狀態管理"
 date: 2020-04-12 10:30:00 +0800
 categories: [前端, JavaScript]
-tags: [Vue.js, Vuex, State Management]
+tags: [Vue.js, JavaScript, State Management, 前端開發]
 render_with_liquid: false
 ---
 

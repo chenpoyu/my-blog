@@ -3,7 +3,7 @@ layout: post
 title: "iOS 多執行緒與 GCD"
 date: 2018-04-06
 categories: [Swift, iOS]
-tags: [iOS, GCD, Concurrency, Threading]
+tags: [Swift, iOS]
 ---
 
 這週深入學習 iOS 的多執行緒程式設計。在 Java 開發中，我們用 Thread、ExecutorService、synchronized 等來處理並行。iOS 的做法不太一樣，但核心概念相通。

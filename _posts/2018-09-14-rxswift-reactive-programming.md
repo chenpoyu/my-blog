@@ -3,7 +3,7 @@ layout: post
 title: "Reactive Programming：RxSwift 入門與實戰"
 date: 2018-09-14
 categories: [iOS, Reactive Programming]
-tags: [RxSwift, Reactive, FRP, Asynchronous]
+tags: [Swift, iOS]
 ---
 
 這週研究 RxSwift，響應式程式設計（Reactive Programming）的 Swift 實作。這是從 Java 的 RxJava 移植過來的概念，對非同步程式和資料流處理很有幫助。

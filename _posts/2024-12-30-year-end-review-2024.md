@@ -3,7 +3,7 @@ layout: post
 title: "2024 技術學習回顧與 2025 展望"
 date: 2024-12-30 09:15:00 +0800
 categories: [職涯發展]
-tags: [Learning, Career, Retrospective]
+tags: [職涯, 年度回顧]
 ---
 
 2024 年的最後一週，來做個完整的年度技術回顧。從 Keycloak、n8n、Figma 到 Flutter，這一年學了很多。

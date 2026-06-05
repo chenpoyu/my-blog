@@ -3,7 +3,7 @@ layout: post
 title: ".NET Core 應用程式 Docker 容器化"
 date: 2020-09-22 15:10:00 +0800
 categories: [框架, .NET]
-tags: [.NET Core, Docker, Container, DevOps]
+tags: [.NET Core, Docker, DevOps]
 ---
 
 這週研究如何將 .NET Core 應用程式容器化，使用 Docker 簡化部署流程。

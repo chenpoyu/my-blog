@@ -3,7 +3,7 @@ layout: post
 title: "Recording Rules：預先計算，加速查詢"
 date: 2023-03-17 09:00:00 +0800
 categories: [Observability, Monitoring]
-tags: [Prometheus, Recording Rules, Performance, Optimization]
+tags: [Prometheus, Performance, Observability, Monitoring, Metrics]
 ---
 
 過去幾週我們寫了很多複雜的 PromQL 查詢。但你有沒有想過：**每次查詢都重新計算，Prometheus 不會累死嗎？**

@@ -3,7 +3,7 @@ layout: post
 title: "面試教會我的事：觀察細節"
 date: 2021-09-01
 categories: [management, interview]
-tags: [面試, 觀察]
+tags: [團隊管理, 面試]
 ---
 
 面試了一百多人後，我發現：**候選人說什麼固然重要，但怎麼說更重要。**

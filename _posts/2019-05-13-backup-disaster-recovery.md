@@ -3,7 +3,7 @@ layout: post
 title: "備份與災難恢復"
 date: 2019-05-13 10:00:00 +0800
 categories: [DevOps, Reliability]
-tags: [Backup, Disaster Recovery, RTO, RPO, Velero]
+tags: [DevOps, Reliability, Disaster Recovery]
 ---
 
 上週完成了資料庫遷移（參考 [資料庫遷移策略](/posts/2019/05/06/database-migration-strategy/)），這週來談一個重要但常被忽視的主題：備份與災難恢復 (Disaster Recovery, DR)。

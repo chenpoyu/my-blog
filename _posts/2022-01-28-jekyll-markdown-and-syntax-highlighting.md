@@ -3,7 +3,7 @@ layout: post
 title: "Jekyll 的 Markdown 與程式碼高亮設定"
 date: 2022-01-28 20:15:00 +0800
 categories: [心法]
-tags: [Jekyll, Markdown]
+tags: [Jekyll]
 ---
 
 寫技術文章最重要的就是程式碼要好看。Jekyll 預設用 Kramdown 當 Markdown 解析器，支援 GitHub Flavored Markdown，這點很方便。

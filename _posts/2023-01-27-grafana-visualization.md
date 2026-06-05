@@ -3,7 +3,7 @@ layout: post
 title: "Grafana 視覺化：讓數據說人話"
 date: 2023-01-27 09:00:00 +0800
 categories: [Observability, Monitoring]
-tags: [Grafana, Dashboard, Visualization, Prometheus]
+tags: [Prometheus, Grafana, Observability, Monitoring, Metrics]
 ---
 
 前兩週我們學會了收集指標，但如果你一直盯著 Prometheus 的查詢介面看數字，不用三天就會瘋掉。

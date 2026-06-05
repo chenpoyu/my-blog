@@ -3,7 +3,7 @@ layout: post
 title: "績效面談的技巧"
 date: 2021-11-17
 categories: [management, leadership]
-tags: [績效, 面談]
+tags: [團隊管理, 領導, 面試, 績效管理]
 ---
 
 「Poyu，我今年的績效...是不是不太好？」

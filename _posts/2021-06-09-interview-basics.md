@@ -3,7 +3,7 @@ layout: post
 title: "面試的第一課：看什麼？"
 date: 2021-06-09
 categories: [management, interview]
-tags: [面試, 選才]
+tags: [團隊管理, 面試, 選才]
 ---
 
 因為目標要擴增團隊人數，我這幾個月開始非常大量的面試。

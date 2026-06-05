@@ -3,7 +3,7 @@ layout: post
 title: "Flutter 學習年終總結與展望"
 date: 2024-12-23 13:40:00 +0800
 categories: [行動開發, Flutter]
-tags: [Flutter, Summary, Career]
+tags: [Flutter, 職涯, 年度回顧]
 ---
 
 從七月開始到現在，半年的 Flutter 專案告一段落。這週來做個年終總結，回顧學到什麼、遇到什麼挑戰，以及對未來的展望。

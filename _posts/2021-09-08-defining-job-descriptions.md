@@ -3,7 +3,7 @@ layout: post
 title: "定義 JD 的藝術"
 date: 2021-09-08
 categories: [management, leadership]
-tags: [JD, 職責]
+tags: [團隊管理, 領導, 選才]
 ---
 
 **以下資訊，若涉及個人資訊，會以模糊方式調整，避免被帶入特定人士縮影**

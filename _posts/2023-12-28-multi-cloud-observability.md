@@ -3,7 +3,7 @@ layout: post
 title: "Multi-Cloud Observability：跨雲端的統一監控"
 date: 2023-12-28 09:00:00 +0800
 categories: [Observability, Multi-Cloud]
-tags: [Multi-Cloud, AWS, Azure, GCP, Hybrid Cloud, Observability]
+tags: [AWS, Azure, Cloud, Observability]
 ---
 
 「我們的服務同時跑在 AWS、Azure 和 GCP 上，該怎麼監控？」

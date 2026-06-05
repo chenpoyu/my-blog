@@ -3,7 +3,7 @@ layout: post
 title: "嘗試 Golang 的契機"
 date: 2021-10-13
 categories: [technology, golang]
-tags: [Golang, 新技術]
+tags: [Golang, 技術選型]
 ---
 
 「Poyu，客戶要求用 Golang 開發，但我們團隊沒人會啊！」

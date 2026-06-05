@@ -3,7 +3,7 @@ layout: post
 title: "Keycloak Session 管理與單點登出"
 date: 2024-03-18 11:25:00 +0800
 categories: [系統架構, 安全性]
-tags: [Keycloak, Session, SSO]
+tags: [Keycloak, Architecture, Security, Authentication]
 ---
 
 這週研究了 Keycloak 的 Session 管理機制。做 SSO 有個重要問題：使用者在一個地方登入，所有系統都能用。那登出呢？要怎麼確保登出後，所有系統都真的登出？

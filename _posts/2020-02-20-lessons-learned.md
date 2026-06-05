@@ -3,7 +3,7 @@ layout: post
 title: "專案管理經驗教訓總結"
 date: 2020-02-20
 categories: [Project Management]
-tags: [lessons-learned, reflection, experience]
+tags: [專案管理, 年度回顧]
 ---
 
 從去年七月開始當 team lead 學習專案管理,已經過了大半年。是時候總結這段期間的經驗教訓。

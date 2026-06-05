@@ -3,7 +3,7 @@ layout: post
 title: "Java 泛型使用筆記"
 date: 2017-07-14 14:25:00 +0800
 categories: [設計模式, Java]
-tags: [Java, 泛型, 型別安全]
+tags: [Java]
 ---
 
 上週我們學習了集合框架（請參考 [Java 集合框架](/posts/2017/07/07/java-collection-framework/)），但有個問題一直困擾著我：如何確保放入容器的資料型別是正確的？

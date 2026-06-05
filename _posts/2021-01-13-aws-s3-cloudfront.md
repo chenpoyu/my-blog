@@ -3,7 +3,7 @@ layout: post
 title: "AWS S3 與 CloudFront：打造高效能 CDN 架構"
 date: 2021-01-13 16:55:00 +0800
 categories: [AWS, CDN]
-tags: [AWS, S3, CloudFront, CDN, Static Content]
+tags: [AWS, Cloud]
 ---
 
 ## 前言

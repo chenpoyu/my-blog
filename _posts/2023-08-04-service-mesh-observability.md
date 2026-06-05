@@ -3,7 +3,7 @@ layout: post
 title: "Service Mesh 的可觀測性：Istio 與 Linkerd"
 date: 2023-08-04 09:00:00 +0800
 categories: [Observability, Service Mesh]
-tags: [Istio, Linkerd, Service Mesh, Tracing, Metrics]
+tags: [Kubernetes, Service Mesh, Observability, Metrics, Tracing]
 ---
 
 當你的微服務數量達到 20+，你會發現一個問題：**每個服務都要自己實作 Tracing、Metrics、Retry、Circuit Breaker...**

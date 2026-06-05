@@ -3,7 +3,7 @@ layout: post
 title: "gRPC 在 ASP.NET Core 中的應用"
 date: 2020-09-01 15:45:00 +0800
 categories: [框架, .NET]
-tags: [ASP.NET Core, gRPC, Protobuf, Microservices]
+tags: [.NET Core, ASP.NET Core, gRPC, Microservices, API]
 ---
 
 這週研究 gRPC 在 ASP.NET Core 中的實作，了解如何使用 Protocol Buffers 定義服務並建立高效能的 RPC 通訊。

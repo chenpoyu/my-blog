@@ -3,7 +3,7 @@ layout: post
 title: "Keycloak 初次接觸"
 date: 2024-01-03 14:25:00 +0800
 categories: [系統架構, 安全性]
-tags: [Keycloak, SSO, 身份認證]
+tags: [Keycloak, Architecture, Security, Authentication]
 ---
 
 最近因緣際會在研究企業級的身份驗證方案。現在很多企業都有多個系統，每個系統都有自己的登入機制，使用者要記一堆帳號密碼。如果能做到 Single Sign-On (SSO)，使用體驗會好很多。

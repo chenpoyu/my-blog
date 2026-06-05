@@ -3,7 +3,7 @@ layout: post
 title: "管理學基礎理論"
 date: 2019-12-12
 categories: [Project Management]
-tags: [management, theory, organization]
+tags: [專案管理]
 ---
 
 主管給我一本管理學的書,說要我從理論基礎開始學。以前都是憑直覺做事,現在想知道為什麼這樣做會有效。

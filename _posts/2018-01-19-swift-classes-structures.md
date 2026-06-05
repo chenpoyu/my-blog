@@ -3,7 +3,7 @@ layout: post
 title: "Swift 類別與結構"
 date: 2018-01-19
 categories: [Swift, iOS]
-tags: [Swift, OOP, Class, Struct]
+tags: [Swift, iOS]
 ---
 
 這週學習 Swift 的類別和結構。對 Java 工程師來說，類別的概念很熟悉，但 Swift 的結構（Struct）是個新東西。

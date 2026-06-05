@@ -3,7 +3,7 @@ layout: post
 title: ".NET Core 安全性最佳實踐"
 date: 2020-10-13 14:20:00 +0800
 categories: [框架, .NET]
-tags: [.NET Core, Security, Authentication, HTTPS]
+tags: [.NET Core, Security, Authentication]
 ---
 
 這週研究 .NET Core 應用程式的安全性最佳實踐，包含認證、授權、資料保護和常見安全漏洞防護。

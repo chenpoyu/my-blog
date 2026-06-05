@@ -3,7 +3,7 @@ layout: post
 title: "SignalR 即時通訊開發"
 date: 2020-09-08 15:20:00 +0800
 categories: [框架, .NET]
-tags: [ASP.NET Core, SignalR, WebSocket, Real-time]
+tags: [.NET Core, ASP.NET Core, API]
 ---
 
 這週研究 ASP.NET Core SignalR 即時通訊框架，了解如何建立雙向即時通訊應用程式。

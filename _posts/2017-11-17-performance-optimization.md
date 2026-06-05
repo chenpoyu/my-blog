@@ -3,7 +3,7 @@ layout: post
 title: "效能優化筆記"
 date: 2017-11-17 13:20:00 +0800
 categories: [設計模式, Java]
-tags: [效能優化, JVM, 資料庫優化, 快取]
+tags: [Java, Performance, Database, Caching]
 ---
 
 上週我們學習了測試策略(請參考 [測試策略](/posts/2017/11/10/testing-strategies/)),確保了程式品質。但系統上線後,如何應對高併發?如何讓查詢更快?效能優化是關鍵!

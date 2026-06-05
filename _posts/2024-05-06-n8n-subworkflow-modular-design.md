@@ -3,7 +3,7 @@ layout: post
 title: "n8n Sub-Workflow 與模組化設計"
 date: 2024-05-06 13:15:00 +0800
 categories: [自動化, 工作流程]
-tags: [n8n, Sub-Workflow, 架構設計]
+tags: [n8n, Architecture, Automation, 工作流程]
 ---
 
 這週研究了 n8n 的 Sub-Workflow 功能。做了幾個 workflow 後發現，有些邏輯會重複出現，像是發送通知、資料驗證、錯誤處理等。如果每個 workflow 都重寫一次，維護起來很麻煩。

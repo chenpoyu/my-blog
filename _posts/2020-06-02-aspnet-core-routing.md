@@ -3,7 +3,7 @@ layout: post
 title: "ASP.NET Core 路由機制"
 date: 2020-06-02 15:45:00 +0800
 categories: [框架, .NET]
-tags: [ASP.NET Core, Routing, Web API]
+tags: [.NET Core, ASP.NET Core, API]
 ---
 
 這週深入研究 ASP.NET Core 的路由系統，它決定如何將 HTTP 請求對應到控制器動作。

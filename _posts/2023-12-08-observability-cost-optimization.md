@@ -3,7 +3,7 @@ layout: post
 title: "Observability 成本優化：不讓監控費用失控"
 date: 2023-12-08 09:00:00 +0800
 categories: [Observability, Cost Optimization]
-tags: [Cost Optimization, FinOps, Metrics, Logs, Traces]
+tags: [Performance, Observability, Logging, Metrics, Cost Optimization]
 ---
 
 「這個月的 Observability 帳單怎麼這麼貴？！」

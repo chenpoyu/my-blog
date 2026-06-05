@@ -3,7 +3,7 @@ layout: post
 title: "效能測試策略"
 date: 2019-05-20 10:00:00 +0800
 categories: [DevOps, Performance]
-tags: [Performance Testing, JMeter, Gatling, Load Testing, Stress Testing]
+tags: [Performance, Testing, 壓力測試, DevOps]
 ---
 
 上週建立了備份和災難恢復機制（參考 [備份與災難恢復](/posts/2019/05/13/backup-disaster-recovery/)），這週來談效能測試。

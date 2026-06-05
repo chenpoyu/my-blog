@@ -3,7 +3,7 @@ layout: post
 title: "配置中心 - Spring Cloud Config"
 date: 2019-04-15 10:00:00 +0800
 categories: [DevOps, Configuration Management]
-tags: [Spring Cloud Config, Configuration, Microservices, Git]
+tags: [Java, Spring, Microservices, DevOps, Cloud]
 ---
 
 上週研究了分散式追蹤（參考 [分散式追蹤 - Jaeger](/posts/2019/04/08/distributed-tracing-jaeger/)），這週來解決微服務的配置管理問題。

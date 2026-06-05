@@ -3,7 +3,7 @@ layout: post
 title: "iOS 除錯工具與 Instruments"
 date: 2018-06-22
 categories: [iOS, Swift]
-tags: [Swift, iOS, Debugging, Instruments, Profiling, Performance]
+tags: [Swift, iOS, Performance]
 ---
 
 這週研究 Xcode 的除錯工具。在 Java 開發中，我習慣用 Eclipse 的 debugger 和 JProfiler 做效能分析。iOS 的 Xcode 也提供了強大的工具集，特別是 **Instruments**，能深入分析記憶體、CPU、網路等各種效能指標。

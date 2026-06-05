@@ -3,7 +3,7 @@ layout: post
 title: "專案採購與外包管理"
 date: 2019-10-17
 categories: [Project Management]
-tags: [procurement, vendor, contracting]
+tags: [專案管理]
 ---
 
 專案需要採購一些第三方服務和軟體。第一次處理採購流程，學到很多採購管理的知識。

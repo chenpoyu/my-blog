@@ -3,7 +3,7 @@ layout: post
 title: "Flutter 效能分析與優化：找出 App 的效能瓶頸"
 date: 2024-09-02 15:50:00 +0800
 categories: [行動開發, Flutter]
-tags: [Flutter, Performance, Optimization, DevTools]
+tags: [Flutter, Performance]
 ---
 
 上週補完測試，這週來處理效能問題。測試階段發現地圖載入大量 marker 時會卡頓，充電歷史列表滑動也不夠順暢，是時候用 Flutter DevTools 深入分析了。

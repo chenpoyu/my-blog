@@ -3,7 +3,7 @@ layout: post
 title: "客製化 Keycloak 登入頁面"
 date: 2024-02-12 13:55:00 +0800
 categories: [系統架構, 安全性]
-tags: [Keycloak, Theme, UI]
+tags: [Keycloak, Architecture, Security, Authentication, UI/UX]
 ---
 
 這週研究了 Keycloak 的 UI 客製化。實務上，企業通常會希望把 Keycloak 的登入頁面改成公司的品牌風格。預設的畫面太「開源」了，看起來不夠專業。

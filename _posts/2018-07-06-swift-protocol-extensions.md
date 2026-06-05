@@ -3,7 +3,7 @@ layout: post
 title: "Swift Protocol 與 Extensions：協定導向編程"
 date: 2018-07-06
 categories: [iOS, Swift]
-tags: [Swift, Protocol, Extensions, POP]
+tags: [Swift, iOS]
 ---
 
 這週深入研究 Swift 的 Protocol 和 Extensions，發現這是 Swift 最強大的特性之一。Apple 稱之為 Protocol-Oriented Programming (POP)，是不同於 Java 物件導向編程的思維方式。

@@ -3,7 +3,7 @@ layout: post
 title: "維運系列三：工具要串成一條路"
 date: 2026-05-29 12:00:00 +0800
 categories: [技術筆記, 維運管理]
-tags: [Prometheus, Grafana, ELK, Alertmanager, CI/CD, Vault, Dockge, 維運工具]
+tags: [Prometheus, Grafana, ELK Stack, CI/CD, Observability]
 ---
 
 ## 工具不是清單，是排查路徑

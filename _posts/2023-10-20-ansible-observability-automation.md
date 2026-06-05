@@ -3,7 +3,7 @@ layout: post
 title: "Ansible 自動化可觀測性部署"
 date: 2023-10-20 09:00:00 +0800
 categories: [Observability, Infrastructure as Code]
-tags: [Ansible, Automation, IaC, Configuration Management]
+tags: [Ansible, IaC, Automation, Observability]
 ---
 
 手動部署 Prometheus、Grafana、Jaeger 很簡單，但要在 100 台機器上部署呢？

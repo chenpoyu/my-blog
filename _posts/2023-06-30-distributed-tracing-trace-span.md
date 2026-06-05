@@ -3,7 +3,7 @@ layout: post
 title: "分散式追蹤：理解 Trace 與 Span"
 date: 2023-06-30 09:00:00 +0800
 categories: [Observability, Tracing]
-tags: [Distributed Tracing, Trace, Span, Context Propagation, Jaeger]
+tags: [Jaeger, Observability, Tracing]
 ---
 
 在單體應用中，一個請求的完整路徑很容易追蹤。

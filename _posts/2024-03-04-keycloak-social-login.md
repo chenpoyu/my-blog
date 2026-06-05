@@ -3,7 +3,7 @@ layout: post
 title: "Keycloak 整合社交登入"
 date: 2024-03-04 09:45:00 +0800
 categories: [系統架構, 安全性]
-tags: [Keycloak, OAuth, Social Login]
+tags: [Keycloak, Architecture, Security, Authentication]
 ---
 
 這週研究了 Keycloak 的社交登入功能，讓使用者可以用 Google、Microsoft、Facebook 等帳號登入。這在某些場景蠻實用的，特別是對外的服務，不用強制使用者註冊新帳號。

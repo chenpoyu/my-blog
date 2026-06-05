@@ -3,7 +3,7 @@ layout: post
 title: "40 人團隊的管理瓶頸"
 date: 2021-12-08
 categories: [management, team]
-tags: [管理, 規模化]
+tags: [團隊管理]
 ---
 
 「Poyu，小美想跟你約時間聊一下職涯規劃。」

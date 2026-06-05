@@ -3,7 +3,7 @@ layout: post
 title: "Prometheus 和 Grafana 監控 Kubernetes"
 date: 2019-01-21 10:00:00 +0800
 categories: [DevOps, Monitoring]
-tags: [Prometheus, Grafana, Kubernetes, Monitoring, Metrics]
+tags: [Kubernetes, Prometheus, Grafana, DevOps, Observability]
 ---
 
 上週建立了 Kubernetes Ingress（參考 [Kubernetes Ingress 路由和負載平衡](/posts/2019/01/14/kubernetes-ingress-routing/)），整個應用都跑在 K8s 上了。但遇到一個問題：不知道系統運行狀況如何。

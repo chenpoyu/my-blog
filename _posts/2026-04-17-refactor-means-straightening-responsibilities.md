@@ -3,7 +3,7 @@ layout: post
 title: "重構，要先把責任拉直"
 date: 2026-04-17 12:00:00 +0800
 categories: [技術筆記, 後端設計]
-tags: [AI 工作流, Laravel, MVC, API 設計, 系統重構]
+tags: [Laravel, AI, API, 系統重構, AI 輔助開發]
 ---
 
 ## 重構做到後面，我越來越在意責任邊界

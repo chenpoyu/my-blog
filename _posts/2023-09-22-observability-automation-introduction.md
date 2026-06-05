@@ -3,7 +3,7 @@ layout: post
 title: "Q4 起點：可觀測性自動化的價值"
 date: 2023-09-22 09:00:00 +0800
 categories: [Observability, Automation]
-tags: [Automation, SRE, Infrastructure as Code, GitOps]
+tags: [GitOps, IaC, Automation, Observability, SRE]
 ---
 
 前面三個季度，我們學習了 Metrics、Logs、Traces。但**手動配置和維護**這些系統，成本很高。

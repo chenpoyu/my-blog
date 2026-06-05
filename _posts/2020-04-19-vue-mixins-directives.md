@@ -3,7 +3,7 @@ layout: post
 title: "Vue 混入與自訂指令"
 date: 2020-04-19 16:50:00 +0800
 categories: [前端, JavaScript]
-tags: [Vue.js, Mixins, Directives]
+tags: [Vue.js, JavaScript, 前端開發]
 render_with_liquid: false
 ---
 

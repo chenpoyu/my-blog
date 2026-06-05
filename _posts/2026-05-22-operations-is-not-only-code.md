@@ -3,7 +3,7 @@ layout: post
 title: "維運系列二：問題要先被翻譯"
 date: 2026-05-22 12:00:00 +0800
 categories: [技術筆記, 維運管理]
-tags: [維運, 需求管理, SOP, Runbook, 企業系統]
+tags: [SRE, Reliability, Incident Response, 維運, SOP]
 ---
 
 ## 接著談維運的流程面

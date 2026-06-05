@@ -3,7 +3,7 @@ layout: post
 title: "iOS 網路請求與 JSON 解析"
 date: 2018-03-23
 categories: [Swift, iOS]
-tags: [iOS, Networking, JSON, URLSession]
+tags: [Swift, iOS]
 ---
 
 這週學習 iOS 的網路程式設計。作為 Java 後端工程師，我習慣的是「伺服器端」的思維：用 Spring MVC 接受 HTTP 請求、處理業務邏輯、回傳 JSON 響應。

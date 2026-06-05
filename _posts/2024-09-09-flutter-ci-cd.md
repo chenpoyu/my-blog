@@ -3,7 +3,7 @@ layout: post
 title: "Flutter CI/CD：自動化測試與部署流程"
 date: 2024-09-09 13:40:00 +0800
 categories: [行動開發, Flutter]
-tags: [Flutter, CI/CD, GitHub Actions, Fastlane]
+tags: [iOS, Flutter, CI/CD, DevOps]
 ---
 
 測試和效能都搞定後，這週來建立 CI/CD 流程。每次要手動執行測試、打包、上傳很煩，而且容易出錯。自動化之後，push code 就自動跑測試、建置、部署。

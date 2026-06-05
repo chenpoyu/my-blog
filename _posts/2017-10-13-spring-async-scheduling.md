@@ -3,7 +3,7 @@ layout: post
 title: "Spring 非同步與排程使用筆記"
 date: 2017-10-13 09:25:00 +0800
 categories: [設計模式, Java]
-tags: [Spring, 非同步, 排程, 效能優化]
+tags: [Java, Spring, Performance]
 ---
 
 電商系統中有很多耗時操作:發送郵件、產生報表、處理訂單...如果都同步執行,使用者體驗會很差。Spring 提供了優雅的非同步和排程解決方案。

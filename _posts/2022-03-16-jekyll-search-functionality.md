@@ -3,7 +3,7 @@ layout: post
 title: "為 Jekyll 部落格加入搜尋功能"
 date: 2022-03-16 22:10:00 +0800
 categories: [心法]
-tags: [Jekyll, JavaScript]
+tags: [JavaScript, Jekyll]
 ---
 
 文章數量多了之後，需要一個搜尋功能來快速找內容。Jekyll 是靜態網站，沒有後端資料庫，所以要用前端 JavaScript 來實作。

@@ -3,7 +3,7 @@ layout: post
 title: "iOS Collection View 與自訂佈局"
 date: 2018-03-09
 categories: [Swift, iOS]
-tags: [iOS, UICollectionView, Layout]
+tags: [Swift, iOS]
 ---
 
 學完 Table View 後，這週進階到更靈活的 **UICollectionView**。

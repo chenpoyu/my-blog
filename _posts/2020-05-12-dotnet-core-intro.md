@@ -3,7 +3,7 @@ layout: post
 title: ".NET Core 初探：從 Java 到 .NET 的轉換"
 date: 2020-05-12 14:35:00 +0800
 categories: [框架, .NET]
-tags: [.NET Core, C#, 跨平台]
+tags: [.NET Core]
 ---
 
 專案需要開始使用 .NET Core 技術棧，作為 Java 開發者，需要重新學習一個完全不同的生態系統。本文記錄初次接觸 .NET Core 的基本認知。

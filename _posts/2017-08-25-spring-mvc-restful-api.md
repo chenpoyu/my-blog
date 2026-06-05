@@ -3,7 +3,7 @@ layout: post
 title: "Spring MVC RESTful API 開發筆記"
 date: 2017-08-25 09:50:00 +0800
 categories: [設計模式, Java]
-tags: [Spring, Spring MVC, RESTful API, Web 開發]
+tags: [Java, Spring, API]
 ---
 
 前兩週我們學習了 Spring 的 IoC 和 AOP（請參考 [Spring 框架入門](/posts/2017/08/11/spring-ioc-di/) 和 [Spring AOP](/posts/2017/08/18/spring-aop/)），現在是時候將這些知識應用到 Web 開發中了。Spring MVC 讓我們能夠輕鬆建構 RESTful API。

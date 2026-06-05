@@ -3,7 +3,7 @@ layout: post
 title: "監控與日誌筆記"
 date: 2017-12-01 11:25:00 +0800
 categories: [設計模式, Java]
-tags: [監控, 日誌, ELK, Prometheus, Grafana]
+tags: [Java, Observability, Monitoring, Logging]
 ---
 
 上週我們學習了生產環境實踐經驗(請參考 [生產環境實踐經驗](/posts/2017/11/24/production-best-practices/)),本週來看看如何透過監控和日誌快速定位問題!

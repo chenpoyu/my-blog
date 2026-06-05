@@ -3,7 +3,7 @@ layout: post
 title: "Error Budget：如何在速度與穩定性之間取得平衡"
 date: 2023-11-17 09:00:00 +0800
 categories: [Observability, SRE]
-tags: [Error Budget, SLO, SRE, Risk Management]
+tags: [Observability, Metrics, SRE, Reliability]
 ---
 
 「我們要不要上線這個新功能？」

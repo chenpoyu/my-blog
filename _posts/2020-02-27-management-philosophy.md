@@ -3,7 +3,7 @@ layout: post
 title: "專案管理哲學與思維"
 date: 2020-02-27
 categories: [Project Management]
-tags: [philosophy, mindset, principles]
+tags: [專案管理]
 ---
 
 學習專案管理近一年,除了方法和工具,更重要的是思維方式的轉變。

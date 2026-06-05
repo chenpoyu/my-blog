@@ -3,7 +3,7 @@ layout: post
 title: "給團隊的 KPI 寫法指南：怎麼把「我想學 React」變成一條合格的 KPI"
 date: 2025-10-09 11:00:00 +0800
 categories: [管理筆記]
-tags: [KPI, 績效考核, 團隊管理, 內部分享]
+tags: [團隊管理, 績效管理, KPI]
 ---
 
 ## 為什麼會有這篇

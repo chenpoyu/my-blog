@@ -3,7 +3,7 @@ layout: post
 title: "遇見天才型工程師"
 date: 2021-06-23
 categories: [management, interview]
-tags: [面試, 選才]
+tags: [團隊管理, 面試, 選才]
 ---
 
 面試這麼多人，大部分都在預期範圍內，但偶爾會遇到讓人眼睛一亮的候選人，那種感覺就像挖到寶一樣。

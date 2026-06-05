@@ -3,7 +3,7 @@ layout: post
 title: "Tomcat 架構筆記"
 date: 2017-09-08 14:55:00 +0800
 categories: [設計模式, Java]
-tags: [Tomcat, Servlet, Web 容器, 伺服器]
+tags: [Java, Architecture]
 ---
 
 前面我們學習了 Spring JDBC（請參考 [Spring 資料存取](/posts/2017/09/01/spring-jdbc-template/)），現在讓我們深入了解 Web 應用的執行環境：Tomcat。作為 Java Web 開發的基石,理解 Tomcat 的運作原理對優化應用效能至關重要。

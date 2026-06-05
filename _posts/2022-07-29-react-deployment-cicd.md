@@ -3,7 +3,7 @@ layout: post
 title: "React 專案部署與 CI/CD：從開發到上線的自動化流程"
 date: 2022-07-29 11:20:00 +0800
 categories: [前端開發]
-tags: [React, CI/CD, Deployment, GitHub Actions, Nginx]
+tags: [React, CI/CD, DevOps, 前端開發]
 ---
 
 ## 手動部署的痛苦

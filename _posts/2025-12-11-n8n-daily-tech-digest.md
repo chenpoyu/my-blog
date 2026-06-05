@@ -3,7 +3,7 @@ layout: post
 title: "用 n8n 做了一個每日技術快報，順便踩了 RSS 的坑"
 date: 2025-12-11 22:30:00 +0800
 categories: [技術筆記, Side Project]
-tags: [n8n, Ollama, Slack, RSS, 自動化, 技術快報]
+tags: [n8n, AI, LLM, Automation, Side Project]
 ---
 
 ## 上週做完英文機器人之後

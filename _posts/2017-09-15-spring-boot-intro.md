@@ -3,7 +3,7 @@ layout: post
 title: "Spring Boot 入門筆記"
 date: 2017-09-15 10:20:00 +0800
 categories: [設計模式, Java]
-tags: [Spring Boot, 快速開發, 自動配置]
+tags: [Java, Spring]
 ---
 
 經過前面幾週對 Spring 和 Tomcat 的學習(請參考 [Tomcat 架構](/posts/2017/09/08/tomcat-architecture/)),我們發現傳統 Spring 應用需要大量的 XML 配置或 Java 配置。Spring Boot 的出現徹底改變了這一切。

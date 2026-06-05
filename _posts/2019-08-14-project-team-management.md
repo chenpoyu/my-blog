@@ -3,7 +3,7 @@ layout: post
 title: "專案團隊組建與管理"
 date: 2019-08-14
 categories: [Project Management]
-tags: [team, resource-management, leadership]
+tags: [專案管理, 團隊管理, 領導]
 ---
 
 這週要組建一個跨部門專案團隊。第一次要從不同部門借調人員，學到很多團隊管理的知識。

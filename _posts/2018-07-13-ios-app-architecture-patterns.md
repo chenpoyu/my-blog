@@ -3,7 +3,7 @@ layout: post
 title: "iOS App 架構模式：從 MVC 到 VIPER"
 date: 2018-07-13
 categories: [iOS, Architecture]
-tags: [MVC, MVVM, VIPER, Architecture]
+tags: [iOS, Architecture]
 ---
 
 這週研究 iOS app 的架構模式，發現架構設計對專案的可維護性影響巨大。從 Java 的分層架構轉到 iOS，需要理解不同的架構模式和適用場景。

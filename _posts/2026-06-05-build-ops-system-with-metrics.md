@@ -3,7 +3,7 @@ layout: post
 title: "維運系列四：把訊號變成決策"
 date: 2026-06-05 12:00:00 +0800
 categories: [技術筆記, 維運管理]
-tags: [營運系統, KPI, SLO, Service Catalog, Ops Timeline]
+tags: [Observability, SRE, 績效管理, KPI, 維運]
 ---
 
 ## 系列最後，回到營運系統

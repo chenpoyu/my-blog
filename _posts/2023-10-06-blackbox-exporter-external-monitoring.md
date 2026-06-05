@@ -3,7 +3,7 @@ layout: post
 title: "Blackbox Exporter：外部端點監控"
 date: 2023-10-06 09:00:00 +0800
 categories: [Observability, Synthetic Monitoring]
-tags: [Blackbox Exporter, Synthetic Monitoring, Uptime, Prometheus]
+tags: [Prometheus, Observability, Monitoring, Metrics]
 ---
 
 你的服務可能在內部運作正常，但**使用者能訪問嗎**？

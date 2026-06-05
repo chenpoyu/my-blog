@@ -3,7 +3,7 @@ layout: post
 title: "Kubernetes 容器編排入門"
 date: 2018-12-31 09:00:00 +0800
 categories: [DevOps, Container, Kubernetes]
-tags: [Kubernetes, K8s, Container Orchestration, Cluster]
+tags: [Docker, Kubernetes, DevOps, High Availability]
 ---
 
 前幾週學會了 Docker 和 Docker Compose，但這些工具主要用於單機環境。如果要在多台機器上部署容器、實現負載平衡、自動擴展，就需要容器編排工具。

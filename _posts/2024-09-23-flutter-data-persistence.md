@@ -3,7 +3,7 @@ layout: post
 title: "Flutter 狀態持久化：SharedPreferences、Hive 與 Drift"
 date: 2024-09-23 14:05:00 +0800
 categories: [行動開發, Flutter]
-tags: [Flutter, Data Persistence, SharedPreferences, Hive, Drift]
+tags: [Flutter, Database, Data Persistence]
 ---
 
 這週研究資料持久化。App 需要儲存使用者偏好、快取資料、離線內容。Flutter 有幾種方案：**SharedPreferences**（簡單設定）、**Hive**（輕量 NoSQL）、**Drift**（SQL 資料庫）。

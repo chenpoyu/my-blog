@@ -3,7 +3,7 @@ layout: post
 title: "日誌安全與合規：保護敏感資訊"
 date: 2023-06-02 09:00:00 +0800
 categories: [Observability, Logging, Security]
-tags: [Log Security, GDPR, Compliance, Data Protection, Sensitive Data]
+tags: [Security, Observability, Logging]
 ---
 
 你的日誌裡有多少敏感資訊？

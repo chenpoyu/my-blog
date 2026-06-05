@@ -3,7 +3,7 @@ layout: post
 title: "測試環境的可觀測性與 CI/CD 整合"
 date: 2023-09-08 09:00:00 +0800
 categories: [Observability, Testing]
-tags: [Testing, CI/CD, Integration Testing, Performance Testing]
+tags: [Performance, Testing, CI/CD, DevOps, Observability]
 ---
 
 大部分團隊只在生產環境做可觀測性，但**測試環境同樣重要**。

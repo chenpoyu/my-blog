@@ -3,7 +3,7 @@ layout: post
 title: "外部 API 拖垮整個系統"
 date: 2025-06-06 14:40:00 +0800
 categories: [架構設計]
-tags: [Circuit Breaker, Resilience, Timeout, 外部整合]
+tags: [Architecture, Reliability]
 ---
 
 ## 週五晚上又掛了

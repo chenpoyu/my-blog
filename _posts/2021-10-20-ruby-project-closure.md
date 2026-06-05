@@ -3,7 +3,7 @@ layout: post
 title: "Ruby 專案的嘗試與結束"
 date: 2021-10-20
 categories: [technology, ruby]
-tags: [Ruby, 專案管理]
+tags: [專案管理]
 ---
 
 「Poyu，Ruby 專案的客戶決定不續約了。」

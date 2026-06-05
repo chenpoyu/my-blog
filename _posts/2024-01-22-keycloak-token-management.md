@@ -3,7 +3,7 @@ layout: post
 title: "搞懂 Keycloak 的 Token 機制"
 date: 2024-01-22 10:35:00 +0800
 categories: [系統架構, 安全性]
-tags: [Keycloak, JWT, Token]
+tags: [Keycloak, Architecture, Security, Authentication]
 ---
 
 這週深入研究了 Keycloak 的 Token 機制。之前只知道登入後會拿到 Token，但具體是怎麼運作的、Token 裡面有什麼內容、要怎麼驗證，這些都要弄清楚，特別是如果系統架構是微服務，Token 的傳遞和驗證很關鍵。

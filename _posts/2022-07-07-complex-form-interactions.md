@@ -3,7 +3,7 @@ layout: post
 title: "複雜表單互動：欄位聯動與條件顯示"
 date: 2022-07-07 16:00:00 +0800
 categories: [前端開發]
-tags: [React, Form, 表單驗證, 業務邏輯]
+tags: [React, 前端開發]
 ---
 
 ## 真實世界的表單沒那麼簡單

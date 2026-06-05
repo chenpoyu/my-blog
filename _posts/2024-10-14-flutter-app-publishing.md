@@ -3,7 +3,7 @@ layout: post
 title: "Flutter App 上架準備：商店素材與審核要點"
 date: 2024-10-14 10:15:00 +0800
 categories: [行動開發, Flutter]
-tags: [Flutter, App Store, Google Play, Publishing]
+tags: [Flutter]
 ---
 
 終於要上架了！這週整理 App Store 和 Google Play 的上架流程。除了 App 本身，還需要準備截圖、圖示、描述等素材，以及通過審核。

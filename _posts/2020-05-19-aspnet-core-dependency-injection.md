@@ -3,7 +3,7 @@ layout: post
 title: "ASP.NET Core 依賴注入深入探討"
 date: 2020-05-19 15:20:00 +0800
 categories: [框架, .NET]
-tags: [ASP.NET Core, DI, 依賴注入]
+tags: [.NET Core, ASP.NET Core]
 ---
 
 上週初步接觸了 .NET Core 的依賴注入，本週深入研究 ASP.NET Core 內建的 DI 容器運作機制。

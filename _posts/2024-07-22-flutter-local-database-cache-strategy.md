@@ -3,7 +3,7 @@ layout: post
 title: "Flutter 本地資料庫設計：冷熱資料分離策略"
 date: 2024-07-22 10:10:00 +0800
 categories: [行動開發, Flutter]
-tags: [Flutter, SQLite, 快取策略, 資料庫設計]
+tags: [Flutter, Database, Caching, Data Persistence]
 ---
 
 這週主要在處理本地資料庫的設計。這個充電站 App 有個特殊需求：盡量減少 API 呼叫，因為使用者可能在訊號不好的地方（停車場、地下室），而且頻繁呼叫 API 會影響體驗和流量。

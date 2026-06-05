@@ -3,7 +3,7 @@ layout: post
 title: "Flutter 執行流程控制：主線程、背景任務與錯誤處理"
 date: 2024-08-12 16:20:00 +0800
 categories: [行動開發, Flutter]
-tags: [Flutter, Async, Error Handling, 效能優化]
+tags: [Flutter, Performance]
 ---
 
 這週深入研究 Flutter 的執行流程控制。Mobile App 跟後端不同，UI 必須流暢，不能卡頓。什麼操作該在主線程、什麼該放背景，怎麼避免 API 錯誤訊息重複顯示，這些都要仔細設計。

@@ -3,7 +3,7 @@ layout: post
 title: "Maven 專案管理筆記"
 date: 2017-12-22 10:45:00 +0800
 categories: [設計模式, Java]
-tags: [Maven, 建構工具, 依賴管理]
+tags: [Java]
 ---
 
 開發Java專案時,我們需要管理各種jar檔、編譯、打包、測試等。Maven提供了標準化的專案管理方式,這週來整理Maven的使用經驗。

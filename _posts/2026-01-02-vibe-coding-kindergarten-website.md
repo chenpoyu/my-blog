@@ -3,7 +3,7 @@ layout: post
 title: "跨年聊 AI，兩小時用 Vibe Coding 幫家人蓋出幼兒園官網雛形"
 date: 2026-01-02 14:15:00 +0800
 categories: [技術筆記, 前端開發]
-tags: [React, Vite, i18n, Vibe Coding, GitHub Pages]
+tags: [React, GitHub Pages, Vibe Coding, Localization, AI 輔助開發]
 ---
 
 ## 事情的起頭

@@ -3,7 +3,7 @@ layout: post
 title: "ELK Stack 效能調校：從慢到快的優化之路"
 date: 2023-05-12 09:00:00 +0800
 categories: [Observability, Logging]
-tags: [Elasticsearch, Performance Tuning, Optimization, JVM, Indexing]
+tags: [ELK Stack, Performance, Observability, Logging]
 ---
 
 你的 Elasticsearch 查詢越來越慢了嗎？

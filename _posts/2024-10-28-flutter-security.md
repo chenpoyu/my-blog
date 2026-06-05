@@ -3,7 +3,7 @@ layout: post
 title: "Flutter 安全性：程式碼混淆、加密與防護"
 date: 2024-10-28 13:55:00 +0800
 categories: [行動開發, Flutter]
-tags: [Flutter, Security, Obfuscation, Encryption]
+tags: [Flutter, Security]
 ---
 
 App 安全性很重要，尤其涉及使用者資料和金流。這週研究 Flutter 的安全防護：程式碼混淆、敏感資料加密、網路安全等。

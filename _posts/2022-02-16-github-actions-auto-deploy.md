@@ -3,7 +3,7 @@ layout: post
 title: "用 GitHub Actions 自動化部署"
 date: 2022-02-16 22:20:00 +0800
 categories: [心法]
-tags: [GitHub Actions, CI/CD]
+tags: [CI/CD, DevOps]
 ---
 
 上週部署後發現 GitHub Pages 的內建編譯有些限制，而且速度不快。研究了一下 GitHub Actions，決定自己寫一個 workflow 來處理編譯和部署。

@@ -3,7 +3,7 @@ layout: post
 title: "React 轉換之旅完結篇：技術之外的思考"
 date: 2022-08-05 15:00:00 +0800
 categories: [前端開發, 心得]
-tags: [React, Vue.js, 技術轉型, 架構設計, 反思]
+tags: [React, Vue.js, Architecture, 前端開發]
 ---
 
 ## 三個月的總結

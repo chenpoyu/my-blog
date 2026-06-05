@@ -3,7 +3,7 @@ layout: post
 title: "iOS 國際化與在地化：多語言 App 開發"
 date: 2018-08-31
 categories: [iOS, Localization]
-tags: [i18n, l10n, Localization, Internationalization]
+tags: [iOS, Localization]
 ---
 
 這週研究如何讓 app 支援多語言和不同地區，這對全球化產品很重要。iOS 提供完整的國際化（Internationalization, i18n）和在地化（Localization, l10n）支援。

@@ -3,7 +3,7 @@ layout: post
 title: "Keycloak 高可用架構部署"
 date: 2024-04-01 15:30:00 +0800
 categories: [系統架構, 安全性]
-tags: [Keycloak, High Availability, Clustering]
+tags: [Keycloak, Architecture, Security, Authentication, High Availability]
 ---
 
 這週研究了 Keycloak 的高可用部署方案。單機部署有個風險：Keycloak 掛了，所有系統都不能登入。這對關鍵業務來說是不能接受的。

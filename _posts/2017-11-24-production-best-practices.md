@@ -3,7 +3,7 @@ layout: post
 title: "生產環境實踐經驗筆記"
 date: 2017-11-24 15:35:00 +0800
 categories: [設計模式, Java]
-tags: [生產環境, DevOps, 穩定性, 實踐經驗]
+tags: [Java, DevOps, Reliability]
 ---
 
 上週我們學習了效能優化(請參考 [效能優化](/posts/2017/11/17/performance-optimization/)),讓系統跑得更快。但生產環境不只是快,更重要的是**穩定**!本週我們來看看生產環境的實踐經驗。

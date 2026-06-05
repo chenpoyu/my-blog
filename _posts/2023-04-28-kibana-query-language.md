@@ -3,7 +3,7 @@ layout: post
 title: "Kibana 查詢語法：從入門到精通"
 date: 2023-04-28 09:00:00 +0800
 categories: [Observability, Logging]
-tags: [Kibana, KQL, Lucene, Query Language, Search]
+tags: [ELK Stack, Observability, Logging]
 ---
 
 你在 Kibana 的搜尋框裡輸入什麼？

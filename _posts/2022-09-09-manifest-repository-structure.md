@@ -3,7 +3,7 @@ layout: post
 title: "Manifest Repository 的結構設計"
 date: 2022-09-09 09:00:00 +0800
 categories: [DevOps, GitOps]
-tags: [GitOps, Repository Structure, Separation of Concerns, Monorepo]
+tags: [GitOps, DevOps, Automation]
 ---
 
 上週完成了 ArgoCD 的安裝,這週要面對一個更需要架構思維的問題:**如何設計 Manifest Repository 的結構?**

@@ -3,7 +3,7 @@ layout: post
 title: "專案範疇管理與範疇蔓延"
 date: 2019-08-29
 categories: [Project Management]
-tags: [scope, requirements, control]
+tags: [專案管理]
 ---
 
 專案進行兩個月後發現一個嚴重問題。原本說好的功能越做越多,時程一直延後。主管說這是範疇蔓延,Scope Creep,專案管理最常見的問題之一。

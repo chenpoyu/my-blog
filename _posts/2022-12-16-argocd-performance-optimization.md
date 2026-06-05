@@ -3,7 +3,7 @@ layout: post
 title: "效能優化:調校 ArgoCD Controller"
 date: 2022-12-16 09:00:00 +0800
 categories: [DevOps, GitOps]
-tags: [ArgoCD, Performance, Optimization, Kubernetes, Controller]
+tags: [Kubernetes, GitOps, ArgoCD, DevOps, Automation]
 ---
 
 隨著應用數量增加,我們發現 **ArgoCD 的效能開始下降**:同步變慢、UI 卡頓、Controller CPU 飆高。

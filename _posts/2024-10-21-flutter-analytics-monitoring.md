@@ -3,7 +3,7 @@ layout: post
 title: "Flutter 分析與監控：Firebase Analytics 與 Crashlytics"
 date: 2024-10-21 15:25:00 +0800
 categories: [行動開發, Flutter]
-tags: [Flutter, Firebase, Analytics, Crashlytics, Monitoring]
+tags: [Flutter, Firebase, Observability, Monitoring, Push Notification]
 ---
 
 App 上架後，要追蹤使用者行為和 App 健康度。這週整合 Firebase Analytics（使用者分析）和 Crashlytics（Crash 監控）。

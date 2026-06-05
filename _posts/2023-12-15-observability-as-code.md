@@ -3,7 +3,7 @@ layout: post
 title: "Observability as Code：用程式碼管理你的監控"
 date: 2023-12-15 09:00:00 +0800
 categories: [Observability, Infrastructure as Code]
-tags: [Observability as Code, IaC, Terraform, Automation, GitOps]
+tags: [Terraform, GitOps, IaC, Automation, Observability]
 ---
 
 「為什麼 Production 的 Dashboard 跟 Staging 不一樣？」

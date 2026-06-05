@@ -3,7 +3,7 @@ layout: post
 title: "Flutter 專案架構回顧與重構"
 date: 2024-12-02 11:20:00 +0800
 categories: [行動開發, Flutter]
-tags: [Flutter, Architecture, Refactoring]
+tags: [Flutter, Architecture, 系統重構, 年度回顧]
 ---
 
 充電站 App 開發幾個月了，這週回顧整個專案架構，整理哪些做得好、哪些需要改進。

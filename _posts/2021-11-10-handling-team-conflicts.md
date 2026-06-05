@@ -3,7 +3,7 @@ layout: post
 title: "如何處理團隊衝突"
 date: 2021-11-10
 categories: [management, team]
-tags: [管理, 衝突處理]
+tags: [團隊管理]
 ---
 
 「Poyu！你來評評理，到底該用哪個方案？」

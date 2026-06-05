@@ -3,7 +3,7 @@ layout: post
 title: "Prometheus 長期儲存：數據不該只活 15 天"
 date: 2023-02-17 09:00:00 +0800
 categories: [Observability, Monitoring]
-tags: [Prometheus, Thanos, Storage, Time Series Database]
+tags: [Prometheus, Database, Observability, Monitoring, Metrics]
 ---
 
 前面幾週我們學會了收集、查詢、告警。但有個殘酷的現實：**Prometheus 預設只保留 15 天的數據。**

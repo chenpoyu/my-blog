@@ -3,7 +3,7 @@ layout: post
 title: "Vue 生命週期鉤子函數"
 date: 2020-03-22 11:05:00 +0800
 categories: [前端, JavaScript]
-tags: [Vue.js, Lifecycle, Hooks]
+tags: [Vue.js, JavaScript, 前端開發]
 ---
 
 開發購物車功能時遇到一個問題：什麼時候該載入商品資料？什麼時候該清理計時器？Vue 的生命週期鉤子函數提供了在元件不同階段執行程式碼的機制。

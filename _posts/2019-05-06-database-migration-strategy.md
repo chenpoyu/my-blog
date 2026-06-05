@@ -3,7 +3,7 @@ layout: post
 title: "資料庫遷移策略"
 date: 2019-05-06 10:00:00 +0800
 categories: [DevOps, Database]
-tags: [Database Migration, MySQL, PostgreSQL, Zero Downtime]
+tags: [Database, DevOps]
 ---
 
 上週學習了混沌工程（參考 [混沌工程入門](/posts/2019/04/29/chaos-engineering-intro/)），這週面臨一個實際挑戰：資料庫遷移。

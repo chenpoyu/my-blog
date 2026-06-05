@@ -3,7 +3,7 @@ layout: post
 title: "決策模型與問題解決"
 date: 2019-12-19
 categories: [Project Management]
-tags: [decision, problem-solving, analysis]
+tags: [專案管理]
 ---
 
 專案管理每天都要做決策。要不要接受變更,要不要加人力,要不要延後上線。決策品質影響專案成敗。

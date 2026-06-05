@@ -3,7 +3,7 @@ layout: post
 title: "AWS Lambda 冷啟動優化與最佳實踐"
 date: 2021-01-27 13:10:00 +0800
 categories: [AWS, Serverless]
-tags: [AWS, Lambda, Performance, Optimization, Serverless]
+tags: [AWS, Performance, Cloud, Serverless]
 ---
 
 ## 前言

@@ -3,7 +3,7 @@ layout: post
 title: "敏捷開發與 Scrum 框架初探"
 date: 2019-07-25
 categories: [Project Management]
-tags: [agile, scrum, methodology]
+tags: [專案管理, Agile]
 ---
 
 最近非常常聽到 敏捷開發，我知道這個已經紅好一陣子也相對成熟，所以公司有一個小的新專案打算來試行。

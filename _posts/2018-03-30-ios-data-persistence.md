@@ -3,7 +3,7 @@ layout: post
 title: "iOS 資料持久化"
 date: 2018-03-30
 categories: [Swift, iOS]
-tags: [iOS, Data Persistence, UserDefaults, Core Data]
+tags: [Swift, iOS, Database, Data Persistence]
 ---
 
 這週研究 iOS 的資料儲存方式。在 Java 開發中，我們通常用資料庫（MySQL、PostgreSQL）來儲存資料，或者用檔案系統。行動應用的資料儲存則有不同的考量。

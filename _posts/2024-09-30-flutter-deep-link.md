@@ -3,7 +3,7 @@ layout: post
 title: "Flutter Deep Link 與 App Links：從網頁喚起 App"
 date: 2024-09-30 11:50:00 +0800
 categories: [行動開發, Flutter]
-tags: [Flutter, Deep Link, App Links, Universal Links]
+tags: [Flutter]
 ---
 
 這週處理 Deep Link 功能。使用者點擊充電站分享連結時，應該直接開啟 App 並導航到該充電站頁面，而不是開啟網頁。

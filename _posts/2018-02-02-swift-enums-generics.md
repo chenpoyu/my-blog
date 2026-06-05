@@ -3,7 +3,7 @@ layout: post
 title: "Swift 列舉與泛型"
 date: 2018-02-02
 categories: [Swift, iOS]
-tags: [Swift, Enum, Generics]
+tags: [Swift, iOS]
 ---
 
 這週研究 Swift 的列舉和泛型。這兩個概念在 Java 中也有，但 Swift 的實作方式讓我大開眼界。

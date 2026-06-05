@@ -3,7 +3,7 @@ layout: post
 title: "把 n8n 機器人搬到 LINE——自己的 LINE Bot 自己做"
 date: 2025-12-19 19:55:00 +0800
 categories: [技術筆記, Side Project]
-tags: [n8n, LINE Bot, LINE Business Message API, 自動化]
+tags: [n8n, LINE Bot, API, Automation, Side Project]
 ---
 
 ## Slack 很好，但我還是比較常看 LINE

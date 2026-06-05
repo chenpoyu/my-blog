@@ -3,7 +3,7 @@ layout: post
 title: "Flutter 背景任務：WorkManager 與定時任務"
 date: 2024-10-07 16:30:00 +0800
 categories: [行動開發, Flutter]
-tags: [Flutter, Background Task, WorkManager]
+tags: [Flutter]
 ---
 
 這週處理背景任務。充電站 App 需要定期同步資料、檢查充電狀態、發送提醒等，這些都要在背景執行。

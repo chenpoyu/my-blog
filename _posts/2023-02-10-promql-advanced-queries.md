@@ -3,7 +3,7 @@ layout: post
 title: "PromQL 進階：讓數據開口說出問題在哪"
 date: 2023-02-10 09:00:00 +0800
 categories: [Observability, Monitoring]
-tags: [Prometheus, PromQL, Query, Time Series]
+tags: [Prometheus, Observability, Monitoring, Metrics]
 ---
 
 前面幾週我們學會了基本的 PromQL 查詢，但如果只會 `up` 和 `rate()`，那就像只會加減法卻要解微積分。

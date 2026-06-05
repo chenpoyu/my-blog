@@ -3,7 +3,7 @@ layout: post
 title: "Exporter 生態系：讓萬物皆可監控"
 date: 2023-03-03 09:00:00 +0800
 categories: [Observability, Monitoring]
-tags: [Prometheus, Exporter, Integration, Monitoring]
+tags: [Prometheus, Observability, Monitoring, Metrics]
 ---
 
 前面幾週我們學會了監控應用程式和系統資源，但現實世界遠比這複雜：

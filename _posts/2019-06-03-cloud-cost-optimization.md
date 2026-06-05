@@ -3,7 +3,7 @@ layout: post
 title: "雲端成本優化"
 date: 2019-06-03 10:00:00 +0800
 categories: [DevOps, Cloud]
-tags: [Cost Optimization, AWS, FinOps, Cloud Economics]
+tags: [AWS, Performance, DevOps, Cloud, Cost Optimization]
 ---
 
 上週學習了 SRE 實踐（參考 [SRE 實踐：錯誤預算與 SLO](/posts/2019/05/27/sre-error-budget-slo/)），這週面對一個現實問題：AWS 帳單。

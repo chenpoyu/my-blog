@@ -3,7 +3,7 @@ layout: post
 title: "從 Legacy Monitoring 遷移到現代可觀測性"
 date: 2023-09-15 09:00:00 +0800
 categories: [Observability, Migration]
-tags: [Migration, Legacy, Modernization, Strategy]
+tags: [Architecture, Observability, 系統重構]
 ---
 
 很多團隊還在用 10 年前的監控工具：Nagios、Zabbix、ELK 4.x...

@@ -3,7 +3,7 @@ layout: post
 title: "GitOps 宣言：為什麼是 ArgoCD？"
 date: 2022-08-12 09:00:00 +0800
 categories: [DevOps, GitOps]
-tags: [ArgoCD, GitOps, Kubernetes, Pull-based, Push-based]
+tags: [Kubernetes, GitOps, ArgoCD, DevOps, Automation]
 ---
 
 上週我們討論了 Jenkins Pipeline 的侷限,這週要回答一個更本質的問題:**為什麼選擇 ArgoCD?**

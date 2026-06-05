@@ -3,7 +3,7 @@ layout: post
 title: "React 測試策略：從零建立測試文化"
 date: 2022-07-21 14:45:00 +0800
 categories: [前端開發]
-tags: [React, Testing, Jest, React Testing Library]
+tags: [React, Testing, 前端開發]
 ---
 
 ## 測試的缺席

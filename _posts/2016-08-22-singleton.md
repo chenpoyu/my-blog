@@ -3,7 +3,8 @@ layout: post
 title: "單例模式：在多執行緒環境下的陷阜與實踐" 
 date: 2016-08-22 13:45:00 +0800 
 categories: [設計模式, Java] 
-tags: [單例模式, 多線程, 並發控制]
+tags: [Java, Design Patterns]
+---
 
 單例模式的初衷非常單純：確保一個類別只有一個實例，並提供一個全域的存取點。這在處理設定檔（Config）、資料庫連接池（Connection Pool）或執行緒池時非常有用。
 

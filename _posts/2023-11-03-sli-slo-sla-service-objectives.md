@@ -3,7 +3,7 @@ layout: post
 title: "SLI、SLO、SLA：服務品質目標"
 date: 2023-11-03 09:00:00 +0800
 categories: [Observability, SRE]
-tags: [SLI, SLO, SLA, SRE, Reliability]
+tags: [Observability, Metrics, SRE, Reliability]
 ---
 
 「我們的系統很穩定」— 這是一個模糊的說法。

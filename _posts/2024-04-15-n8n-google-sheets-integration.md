@@ -3,7 +3,7 @@ layout: post
 title: "用 n8n 整合 Google Sheets 做資料處理"
 date: 2024-04-15 10:20:00 +0800
 categories: [自動化, 工作流程]
-tags: [n8n, Google Sheets, 資料處理]
+tags: [n8n, Automation, 工作流程]
 ---
 
 上週把 n8n 跑起來了，這週來試試整合 Google Sheets。很多企業還是習慣用 Excel 或 Google Sheets 管理資料，如果能自動化處理這些資料，會方便很多。

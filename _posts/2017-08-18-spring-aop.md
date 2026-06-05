@@ -3,7 +3,7 @@ layout: post
 title: "Spring AOP 使用筆記"
 date: 2017-08-18 13:30:00 +0800
 categories: [設計模式, Java]
-tags: [Spring, AOP, 面向切面程式設計]
+tags: [Java, Spring]
 ---
 
 上週我們學習了 Spring 的 IoC 容器（請參考 [Spring 框架入門](/posts/2017/08/11/spring-ioc-di/)），解決了物件之間的依賴關係。但在電商系統中，還有一類特殊的需求散落在各處：日誌記錄、效能監控、交易管理、權限檢查...。這就是「橫切關注點」，AOP 就是為此而生。

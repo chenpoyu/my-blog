@@ -3,7 +3,7 @@ layout: post
 title: "Jenkins Pipeline 程式碼化建置流程"
 date: 2018-12-03 09:45:00 +0800
 categories: [DevOps, CI/CD]
-tags: [Jenkins, Pipeline, Groovy, Jenkinsfile]
+tags: [Jenkins, CI/CD, DevOps]
 ---
 
 上週建立了基本的 Jenkins CI 環境（參考 [Jenkins 持續整合環境建置](/posts/2018/11/26/jenkins-continuous-integration/)），但所有設定都是透過網頁介面點選完成的。這樣有個問題：如果 Jenkins 掛了重裝，所有 Job 的設定都要重新來過。

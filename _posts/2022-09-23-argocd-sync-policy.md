@@ -3,7 +3,7 @@ layout: post
 title: "ArgoCD App 建立：初試 Sync Policy"
 date: 2022-09-23 09:00:00 +0800
 categories: [DevOps, GitOps]
-tags: [ArgoCD, Sync Policy, Prune, Self-Heal, Declarative]
+tags: [Kubernetes, GitOps, ArgoCD, DevOps, Automation]
 ---
 
 上週我們打通了 CI 與 CD 的橋樑,這週要深入 ArgoCD 最核心的概念:**Sync Policy (同步策略)**。

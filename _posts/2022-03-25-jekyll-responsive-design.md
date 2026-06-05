@@ -3,7 +3,7 @@ layout: post
 title: "Jekyll 部落格的響應式設計調整"
 date: 2022-03-25 21:00:00 +0800
 categories: [心法]
-tags: [Jekyll, CSS, RWD]
+tags: [Jekyll]
 ---
 
 之前都在電腦上看，今天用手機打開發現版面整個跑掉。該來處理響應式設計了。

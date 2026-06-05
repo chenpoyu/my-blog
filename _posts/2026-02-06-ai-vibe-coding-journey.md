@@ -3,7 +3,7 @@ layout: post
 title: "這一年，AI 工具從玩玩看變成離不開"
 date: 2026-02-06 10:30:00 +0800
 categories: [生活雜記, 技術筆記]
-tags: [AI, Vibe Coding, GitHub Copilot]
+tags: [Vibe Coding, AI, 職涯, AI 輔助開發]
 ---
 
 ## 上個月都在幫家人做網頁

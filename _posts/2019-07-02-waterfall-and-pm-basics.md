@@ -3,7 +3,7 @@ layout: post
 title: "初探專案管理與瀑布式開發"
 date: 2019-07-02
 categories: [Project Management]
-tags: [waterfall, project-management, planning]
+tags: [專案管理]
 ---
 
 這個月開始擔任小組長，主管說除了帶人，也要開始學習專案管理。公司要求我們要能獨立管理專案，從規劃到交付都要負責。

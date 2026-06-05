@@ -3,7 +3,7 @@ layout: post
 title: ".NET Core 測試策略：單元測試與整合測試"
 date: 2020-09-15 14:40:00 +0800
 categories: [框架, .NET]
-tags: [.NET Core, xUnit, Moq, Testing, Integration Tests]
+tags: [.NET Core, Testing]
 ---
 
 這週研究 .NET Core 的測試策略，包含使用 xUnit 進行單元測試和整合測試的實務做法。

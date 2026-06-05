@@ -3,7 +3,7 @@ layout: post
 title: "Keycloak 多因子認證設定"
 date: 2024-02-26 14:20:00 +0800
 categories: [系統架構, 安全性]
-tags: [Keycloak, MFA, OTP]
+tags: [Keycloak, Architecture, Security, Authentication]
 ---
 
 這週研究了 Keycloak 的多因子認證（MFA）功能。現在資安越來越被重視，單純帳號密碼已經不夠安全了，特別是一些敏感系統，加上第二層驗證會更保險。

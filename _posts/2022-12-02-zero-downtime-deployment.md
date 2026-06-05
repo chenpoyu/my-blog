@@ -3,7 +3,7 @@ layout: post
 title: "首個微服務遷移與零停機部署"
 date: 2022-12-02 09:00:00 +0800
 categories: [DevOps, GitOps]
-tags: [ArgoCD, Blue-Green Deployment, Zero Downtime, Migration]
+tags: [Kubernetes, GitOps, ArgoCD, CI/CD, DevOps]
 ---
 
 進入十二月,是時候進行「實戰檢驗」了。今天要選擇一個真實的微服務,從傳統 Jenkins 部署完整遷移到 GitOps,並實現**零停機部署 (Zero Downtime Deployment)**。

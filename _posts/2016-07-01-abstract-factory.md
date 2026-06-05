@@ -3,7 +3,7 @@ layout: post
 title: "抽象工廠模式：實現多資料庫切換的架構設計" 
 date: 2016-07-01 09:45:00 +0800 
 categories: [設計模式, Java] 
-tags: [抽象工廠, 系統架構]
+tags: [Java, Design Patterns, Architecture]
 ---
 
 當系統規模擴大到需要支援多種環境（私有雲、公有雲、不同資料庫廠牌）時，如果程式碼中充斥著 `if (dbType == "MYSQL")` 這樣的邏輯，那將會是維護者的噩夢。

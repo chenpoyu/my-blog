@@ -3,7 +3,7 @@ layout: post
 title: "忙到喘不過氣，所以做了一個每天教我英文的機器人"
 date: 2025-12-04 21:05:00 +0800
 categories: [技術筆記, Side Project]
-tags: [n8n, Ollama, Slack, 自動化, 英文學習]
+tags: [n8n, AI, LLM, Automation, Side Project]
 ---
 
 ## 最近真的太忙了

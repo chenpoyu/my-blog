@@ -3,7 +3,7 @@ layout: post
 title: "iOS 遠端推送與 APNs 整合"
 date: 2018-05-11
 categories: [iOS, Swift]
-tags: [Swift, iOS, Remote Push, APNs, Backend Integration]
+tags: [Swift, iOS, Push Notification]
 ---
 
 這週深入研究遠端推送通知。上週學的本地通知只能處理 app 本身的提醒，但真正有價值的是**從伺服器推送即時資訊**給使用者。這涉及憑證設定、後端整合、以及各種推送策略。

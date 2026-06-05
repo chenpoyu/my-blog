@@ -3,7 +3,7 @@ layout: post
 title: "Jekyll 套件與 SEO 優化"
 date: 2022-02-25 21:45:00 +0800
 categories: [心法]
-tags: [Jekyll, SEO]
+tags: [Jekyll]
 ---
 
 網站上線後開始想辦法讓它更容易被搜尋引擎找到。Jekyll 有幾個實用的套件可以幫忙。

@@ -3,7 +3,7 @@ layout: post
 title: "維運系列一：先讓問題被看見"
 date: 2026-05-15 12:00:00 +0800
 categories: [技術筆記, 維運管理]
-tags: [維運, Observability, 監控系統, Incident, Ops Portal]
+tags: [Observability, Monitoring, Reliability, Incident Response, 維運]
 ---
 
 ## 先從維運為什麼重要講起

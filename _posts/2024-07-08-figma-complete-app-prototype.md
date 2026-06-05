@@ -3,7 +3,7 @@ layout: post
 title: "Figma 實戰：打造完整的 App Prototype"
 date: 2024-07-08 11:20:00 +0800
 categories: [設計, UI/UX]
-tags: [Figma, Prototype, 實戰專案]
+tags: [Figma, UI/UX]
 ---
 
 學了五週 Figma，這週來做一個完整的 prototype，把學到的東西整合起來。

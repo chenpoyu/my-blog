@@ -3,7 +3,7 @@ layout: post
 title: "日誌監控：從 ArgoCD UI 排除故障"
 date: 2022-10-28 09:00:00 +0800
 categories: [DevOps, GitOps]
-tags: [ArgoCD, Troubleshooting, Resource Tree, Sync Fail, Debugging]
+tags: [Kubernetes, GitOps, ArgoCD, DevOps, Automation]
 ---
 
 前面幾週我們建立了完整的 GitOps 流程,但真正的考驗是:**當部署失敗時,如何快速定位問題?**

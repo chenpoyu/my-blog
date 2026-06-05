@@ -3,7 +3,7 @@ layout: post
 title: "GitLab CI/CD Pipeline 自動化部署"
 date: 2019-02-04 10:30:00 +0800
 categories: [DevOps, CI/CD]
-tags: [GitLab, CI/CD, Pipeline, Automation, Docker]
+tags: [Docker, CI/CD, DevOps, Automation]
 ---
 
 前面幾週建立了完整的 Kubernetes 環境、監控系統和日誌收集（參考 [ELK Stack 集中式日誌管理](/posts/2019/01/28/elk-stack-centralized-logging/)）。但部署流程還是很手動：

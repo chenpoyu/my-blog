@@ -3,7 +3,7 @@ layout: post
 title: "Flutter 效能優化實戰技巧"
 date: 2024-12-16 10:25:00 +0800
 categories: [行動開發, Flutter]
-tags: [Flutter, Performance, Optimization]
+tags: [Flutter, Performance]
 ---
 
 App 效能直接影響使用者體驗。這週整理實戰中遇到的效能問題和解決方案。

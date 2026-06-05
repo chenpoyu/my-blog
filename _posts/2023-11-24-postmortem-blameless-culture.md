@@ -3,7 +3,7 @@ layout: post
 title: "Postmortem：從失敗中學習的藝術"
 date: 2023-11-24 09:00:00 +0800
 categories: [Observability, SRE]
-tags: [Postmortem, Blameless, Incident Response, SRE]
+tags: [Observability, SRE, Reliability, Incident Response]
 ---
 
 「誰搞砸的？」

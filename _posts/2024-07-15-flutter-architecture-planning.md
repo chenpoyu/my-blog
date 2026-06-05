@@ -3,7 +3,7 @@ layout: post
 title: "Flutter 專案啟動：架構選擇與專案規劃"
 date: 2024-07-15 13:25:00 +0800
 categories: [行動開發, Flutter]
-tags: [Flutter, MVVM, DDD, 架構設計]
+tags: [Flutter, Architecture]
 ---
 
 公司接了一個電車充電站的 App 專案，選用 Flutter 作為開發框架。之前有研究過 Flutter，但這次是真正要上線的產品，要考慮的東西更多。

@@ -3,7 +3,7 @@ layout: post
 title: ".NET Core + React：前後端分離的部署實戰"
 date: 2025-02-13 09:30:00 +0800
 categories: [全端開發]
-tags: [.NET Core, React, DevOps, CI/CD]
+tags: [React, .NET Core, CI/CD, DevOps]
 ---
 
 ## 全部押寶在 Microsoft 技術棧

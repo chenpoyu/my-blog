@@ -3,7 +3,7 @@ layout: post
 title: "iOS 自訂 UI 控制項"
 date: 2018-04-20
 categories: [iOS, Swift]
-tags: [Swift, iOS, Custom Control, UIControl, Drawing]
+tags: [Swift, iOS]
 ---
 
 這週挑戰自己實作自訂 UI 控制項。在 Java Swing 中，自訂元件需要繼承 JComponent 並覆寫 paintComponent 方法，然後處理各種事件監聽器。iOS 的做法類似但更有系統性。

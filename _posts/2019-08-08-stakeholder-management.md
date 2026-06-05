@@ -3,7 +3,7 @@ layout: post
 title: "利害關係人管理"
 date: 2019-08-08
 categories: [Project Management]
-tags: [stakeholder, communication, engagement]
+tags: [專案管理]
 ---
 
 專案進行到一半，突然接到高層的質疑。他們對專案方向和進度都不滿意。我才發現自己忽略了利害關係人管理。

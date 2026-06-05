@@ -3,7 +3,7 @@ layout: post
 title: "資源最佳化與關鍵鏈法"
 date: 2019-11-28
 categories: [Project Management]
-tags: [resource, optimization, critical-chain]
+tags: [Performance, 專案管理]
 ---
 
 專案時程規劃時發現一個問題。用關鍵路徑法排出來的時程,資源需求超過我們的能力。某些時段需要 6 個工程師,但我們只有 4 個。

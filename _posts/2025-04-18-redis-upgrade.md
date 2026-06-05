@@ -3,7 +3,7 @@ layout: post
 title: "Redis 用到一半就爆了"
 date: 2025-04-18 09:35:00 +0800
 categories: [雲端架構]
-tags: [Redis, Azure, 效能優化, 成本]
+tags: [Redis, Azure, Caching, Cloud, Cost Optimization]
 ---
 
 ## CPU 100% 的警報

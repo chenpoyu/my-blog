@@ -3,7 +3,7 @@ layout: post
 title: "iOS App Store 上架流程"
 date: 2018-06-29
 categories: [iOS, Swift]
-tags: [Swift, iOS, App Store, Distribution, Certificate]
+tags: [Swift, iOS, Security]
 ---
 
 這週研究如何把 app 發布到 App Store。在 Java Web 開發中，部署通常是把 WAR 檔上傳到伺服器。但 iOS app 的發布流程複雜很多，涉及憑證、描述檔、審查機制等。這是把 app 交到使用者手中的最後也是最關鍵的一步。

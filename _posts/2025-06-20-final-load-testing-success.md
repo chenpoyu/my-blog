@@ -3,7 +3,7 @@ layout: post
 title: "終於撐住 2000 併發了"
 date: 2025-06-20 15:10:00 +0800
 categories: [效能優化]
-tags: [壓力測試, 效能調校, 成功案例]
+tags: [Performance, Testing, 壓力測試]
 ---
 
 ## 第三輪測試

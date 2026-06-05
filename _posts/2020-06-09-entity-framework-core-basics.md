@@ -3,7 +3,7 @@ layout: post
 title: "Entity Framework Core 基礎入門"
 date: 2020-06-09 14:20:00 +0800
 categories: [框架, .NET]
-tags: [EF Core, ORM, Database]
+tags: [.NET Core, Entity Framework, Database]
 ---
 
 這週開始學習 Entity Framework Core（EF Core），它是 .NET 的 ORM 框架，類似 Java 的 Hibernate/JPA。

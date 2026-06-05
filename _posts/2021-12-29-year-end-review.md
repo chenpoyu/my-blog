@@ -3,7 +3,7 @@ layout: post
 title: "年終回顧：從 12 人到 40 人的旅程"
 date: 2021-12-29
 categories: [management, reflection]
-tags: [年終回顧, 管理]
+tags: [團隊管理, 年度回顧]
 ---
 
 **以下資訊，若涉及個人資訊，會以模糊方式調整，避免被帶入特定人士縮影**

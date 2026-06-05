@@ -3,7 +3,7 @@ layout: post
 title: "效能調校的藝術：從症狀找到病因"
 date: 2025-04-04 10:25:00 +0800
 categories: [效能優化]
-tags: [效能調校, .NET Core, SQL, 資料庫優化]
+tags: [.NET Core, Database, Performance]
 ---
 
 ## 突如其來的效能問題

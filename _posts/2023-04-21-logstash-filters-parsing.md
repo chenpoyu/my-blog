@@ -3,7 +3,7 @@ layout: post
 title: "Logstash Filters：解析、轉換、豐富你的日誌"
 date: 2023-04-21 09:00:00 +0800
 categories: [Observability, Logging]
-tags: [Logstash, Grok, Filters, ETL, Data Processing]
+tags: [ELK Stack, Observability, Logging]
 ---
 
 上週我們談了結構化日誌的重要性。但現實是：**你的系統裡有 80% 的日誌都是非結構化的純文字。**

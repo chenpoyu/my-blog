@@ -3,7 +3,7 @@ layout: post
 title: "Jaeger 實戰：建立分散式追蹤系統"
 date: 2023-07-07 09:00:00 +0800
 categories: [Observability, Tracing]
-tags: [Jaeger, Distributed Tracing, OpenTelemetry, Performance Analysis]
+tags: [OpenTelemetry, Jaeger, Performance, Observability, Tracing]
 ---
 
 上週我們理解了 Trace 和 Span 的概念，今天我們來實際部署一套完整的追蹤系統。

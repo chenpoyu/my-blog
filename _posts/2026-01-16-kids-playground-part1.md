@@ -3,7 +3,7 @@ layout: post
 title: "用 Vibe Coding 蓋一座兒童遊戲樂園：從幼兒園官網延伸出來的 side project（上）"
 date: 2026-01-16 17:30:00 +0800
 categories: [技術筆記, 前端開發]
-tags: [React, Vite, SCSS, Vibe Coding, 兒童遊戲]
+tags: [React, JavaScript, Vibe Coding, 前端開發, AI 輔助開發]
 ---
 
 ## 起因：幫完幼兒園官網之後的想法

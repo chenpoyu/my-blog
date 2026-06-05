@@ -3,7 +3,7 @@ layout: post
 title: "當工程師問：我的職涯發展是什麼？"
 date: 2021-09-22
 categories: [management, leadership]
-tags: [職涯, 發展]
+tags: [團隊管理, 領導, 職涯]
 ---
 
 「Poyu，我在這裡還能成長嗎？」

@@ -3,7 +3,7 @@ layout: post
 title: "Hibernate 與 JPA 使用筆記"
 date: 2017-09-22 13:45:00 +0800
 categories: [設計模式, Java]
-tags: [Hibernate, JPA, ORM, 資料持久化]
+tags: [Java, Database, Data Persistence]
 ---
 
 上週我們學習了 Spring Boot(請參考 [Spring Boot 入門](/posts/2017/09/15/spring-boot-intro/)),這週讓我們深入 ORM(Object-Relational Mapping),看看如何用物件導向的方式操作資料庫。

@@ -3,7 +3,7 @@ layout: post
 title: "ASP.NET Core 背景服務與定時任務"
 date: 2020-08-11 14:25:00 +0800
 categories: [框架, .NET]
-tags: [ASP.NET Core, Background Services, Hosted Services, Quartz.NET]
+tags: [.NET Core, ASP.NET Core]
 ---
 
 這週研究 ASP.NET Core 的背景服務與定時任務機制，包含 `IHostedService` 和 Quartz.NET 排程框架。

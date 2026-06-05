@@ -3,7 +3,7 @@ layout: post
 title: ".NET Core 微服務架構設計"
 date: 2020-09-29 14:30:00 +0800
 categories: [架構, .NET]
-tags: [.NET Core, Microservices, Architecture, API Gateway]
+tags: [.NET Core, API Gateway, Architecture, Microservices, API]
 ---
 
 這週研究 .NET Core 微服務架構的設計模式與實踐，了解如何構建可擴展的分散式系統。

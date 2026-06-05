@@ -3,7 +3,7 @@ layout: post
 title: "四款遊戲四種坑：兒童遊戲樂園的設計眉角（中）"
 date: 2026-01-23 11:00:00 +0800
 categories: [技術筆記, 前端開發]
-tags: [React, Vibe Coding, 遊戲設計, UX, SCSS]
+tags: [React, Vibe Coding, UI/UX, 前端開發, AI 輔助開發]
 ---
 
 ## 接續上回

@@ -3,7 +3,7 @@ layout: post
 title: "Entity Framework Core 進階技巧"
 date: 2020-10-27 14:45:00 +0800
 categories: [框架, .NET]
-tags: [.NET Core, EF Core, ORM, Database]
+tags: [.NET Core, Entity Framework, Database]
 ---
 
 這週深入探討 Entity Framework Core 的進階功能，包含 Query Filters、Shadow Properties、Table Splitting 等實用技巧。

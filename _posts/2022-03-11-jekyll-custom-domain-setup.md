@@ -3,7 +3,7 @@ layout: post
 title: "設定 Jekyll 部落格的自訂網域"
 date: 2022-03-11 23:00:00 +0800
 categories: [心法]
-tags: [Jekyll, DNS]
+tags: [Jekyll]
 ---
 
 用 `github.io` 的網址感覺不夠專業，今天研究怎麼綁定自訂網域。

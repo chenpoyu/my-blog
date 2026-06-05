@@ -3,7 +3,7 @@ layout: post
 title: "設計有效的面試題目"
 date: 2021-07-07
 categories: [management, interview]
-tags: [面試, 技術]
+tags: [團隊管理, 面試]
 ---
 
 面試了這麼多人之後，我發現面試題目的設計其實是一門學問。題目不是越難越好，而是要能在有限的時間內，看出候選人的真實能力。

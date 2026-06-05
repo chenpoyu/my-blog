@@ -3,7 +3,7 @@ layout: post
 title: "Terraform 基礎設施自動化與可觀測性"
 date: 2023-10-27 09:00:00 +0800
 categories: [Observability, Infrastructure as Code]
-tags: [Terraform, IaC, Cloud, Automation]
+tags: [Terraform, Cloud, IaC, Automation, Observability]
 ---
 
 Ansible 適合配置管理，但如果要在雲端（AWS、Azure、GCP）部署資源，**Terraform** 更適合。

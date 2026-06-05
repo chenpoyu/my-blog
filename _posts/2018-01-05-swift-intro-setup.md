@@ -3,7 +3,7 @@ layout: post
 title: "Swift 入門與環境設置"
 date: 2018-01-05
 categories: [Swift, iOS]
-tags: [Swift, iOS, Xcode]
+tags: [Swift, iOS]
 ---
 
 ## 前言

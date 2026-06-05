@@ -3,7 +3,7 @@ layout: post
 title: "模組間通訊的選擇：為什麼我們用 gRPC 而不是 Message Queue"
 date: 2025-03-06 14:30:00 +0800
 categories: [架構設計]
-tags: [gRPC, 微模組, .NET Core, 模組通訊]
+tags: [.NET Core, gRPC, Architecture, Microservices, API]
 ---
 
 ## 一個簡單的需求

@@ -3,7 +3,7 @@ layout: post
 title: "告警策略：日誌告警的藝術"
 date: 2023-05-26 09:00:00 +0800
 categories: [Observability, Logging, Alerting]
-tags: [Elasticsearch, Kibana, Watcher, Alerting, On-call]
+tags: [ELK Stack, Observability, Logging, SRE, Incident Response]
 ---
 
 你的告警系統是幫助你，還是騷擾你？

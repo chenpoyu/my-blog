@@ -3,7 +3,7 @@ layout: post
 title: "Trace Analytics 與效能趨勢分析"
 date: 2023-08-25 09:00:00 +0800
 categories: [Observability, Analytics]
-tags: [Tracing, Analytics, Performance, Trends, OpenTelemetry]
+tags: [OpenTelemetry, Performance, Observability, Tracing]
 ---
 
 單個 Trace 可以幫你找到問題，但如果你想知道**系統的整體趨勢**，就需要 Trace Analytics。

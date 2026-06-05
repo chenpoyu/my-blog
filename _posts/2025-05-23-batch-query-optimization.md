@@ -3,7 +3,7 @@ layout: post
 title: "開 App 就打 12 支 API 的災難"
 date: 2025-05-23 16:20:00 +0800
 categories: [效能優化]
-tags: [API 優化, gRPC, 批次查詢, 快取]
+tags: [gRPC, API, Caching, Performance]
 ---
 
 ## 500 併發就開始出錯了

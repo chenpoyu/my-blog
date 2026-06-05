@@ -3,7 +3,7 @@ layout: post
 title: "App-of-Apps 模式 (資深工程師必學)"
 date: 2022-10-14 09:00:00 +0800
 categories: [DevOps, GitOps]
-tags: [ArgoCD, App-of-Apps, Cluster Bootstrap, Declarative]
+tags: [Kubernetes, GitOps, ArgoCD, DevOps, High Availability]
 ---
 
 今天要介紹 ArgoCD 最優雅的設計模式:**App-of-Apps (應用中的應用)**。

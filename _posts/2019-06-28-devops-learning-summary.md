@@ -3,7 +3,7 @@ layout: post
 title: "DevOps 半年學習總結與展望"
 date: 2019-06-28 10:00:00 +0800
 categories: [DevOps, Summary]
-tags: [Learning, Retrospective, DevOps Culture]
+tags: [DevOps, 年度回顧]
 ---
 
 從去年 11 月開始學習 DevOps（參考 [從傳統開發到 DevOps](/posts/2018/11/12/devops-intro/)），到現在剛好半年。這週來總結這段時間的學習心得。

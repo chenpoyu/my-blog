@@ -3,7 +3,7 @@ layout: post
 title: "Swift 泛型與關聯型別：型別安全的抽象化"
 date: 2018-07-27
 categories: [iOS, Swift]
-tags: [Swift, Generics, Associated Types, Type Safety]
+tags: [Swift, iOS]
 ---
 
 這週研究 Swift 的泛型系統，發現比 Java 的泛型更強大且靈活。特別是關聯型別（Associated Types）和泛型約束，能實現高度抽象化同時保持型別安全。

@@ -3,7 +3,7 @@ layout: post
 title: "初探 ArgoCD：架構與元件分析"
 date: 2022-08-26 09:00:00 +0800
 categories: [DevOps, GitOps]
-tags: [ArgoCD, Architecture, Application Controller, Kubernetes]
+tags: [Kubernetes, GitOps, ArgoCD, DevOps, Automation]
 ---
 
 前三週我們完成了理論建立與 Jenkins 重構,這週要開始深入 ArgoCD 本身。在安裝與配置之前,先理解它的內部架構是非常重要的——這決定了你能否在遇到問題時快速定位根因。

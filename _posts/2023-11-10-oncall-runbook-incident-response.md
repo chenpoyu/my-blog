@@ -3,7 +3,7 @@ layout: post
 title: "On-Call Runbook：標準化事件處理流程"
 date: 2023-11-10 09:00:00 +0800
 categories: [Observability, SRE]
-tags: [On-Call, Runbook, Incident Response, SRE]
+tags: [Observability, SRE, Incident Response, 維運, SOP]
 ---
 
 凌晨 3 點，你被告警吵醒。半夢半醒中，你需要快速定位並解決問題。

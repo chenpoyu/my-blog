@@ -3,7 +3,7 @@ layout: post
 title: "Vue 過濾器與插槽"
 date: 2020-04-26 09:30:00 +0800
 categories: [前端, JavaScript]
-tags: [Vue.js, Filters, Slots]
+tags: [Vue.js, JavaScript, 前端開發]
 render_with_liquid: false
 ---
 

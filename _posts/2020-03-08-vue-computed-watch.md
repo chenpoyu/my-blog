@@ -3,7 +3,7 @@ layout: post
 title: "Vue 計算屬性與監聽器"
 date: 2020-03-08 09:15:00 +0800
 categories: [前端, JavaScript]
-tags: [Vue.js, Computed, Watch]
+tags: [Vue.js, JavaScript, 前端開發]
 render_with_liquid: false
 ---
 

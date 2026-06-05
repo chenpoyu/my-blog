@@ -3,7 +3,7 @@ layout: post
 title: "專案風險管理入門"
 date: 2019-08-01
 categories: [Project Management]
-tags: [risk-management, planning, mitigation]
+tags: [專案管理]
 ---
 
 到了這週，我學習建立專案風險登錄冊。我才意識到風險管理是專案管理很重要的一環。

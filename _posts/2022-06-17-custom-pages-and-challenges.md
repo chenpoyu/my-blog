@@ -3,7 +3,7 @@ layout: post
 title: "當 Config 不夠用：複雜頁面的客製化策略"
 date: 2022-06-17 10:00:00 +0800
 categories: [前端開發]
-tags: [React, 架構設計, 彈性設計]
+tags: [React, Architecture, 前端開發]
 ---
 
 ## 通用方案的極限

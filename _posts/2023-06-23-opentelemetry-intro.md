@@ -3,7 +3,7 @@ layout: post
 title: "OpenTelemetry 入門：可觀測性的新標準"
 date: 2023-06-23 09:00:00 +0800
 categories: [Observability, OpenTelemetry]
-tags: [OpenTelemetry, OTLP, Tracing, Metrics, Logs, Standards]
+tags: [OpenTelemetry, Observability, Logging, Metrics, Tracing]
 ---
 
 如果你用過 Prometheus、Jaeger、ELK Stack，你會發現一個問題：**它們都有自己的格式與協定。**

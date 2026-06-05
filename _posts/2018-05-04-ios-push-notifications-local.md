@@ -3,7 +3,7 @@ layout: post
 title: "iOS 推送通知基礎"
 date: 2018-05-04
 categories: [iOS, Swift]
-tags: [Swift, iOS, Push Notification, UserNotifications, APNs]
+tags: [Swift, iOS, Push Notification]
 ---
 
 這週開始研究推送通知（Push Notification）。在 Java Web 開發中，我們用 WebSocket 或輪詢來推送訊息給使用者。但在行動裝置上，推送通知是更節能也更直接的方式，因為它可以在 app 沒有執行時也能觸達使用者。

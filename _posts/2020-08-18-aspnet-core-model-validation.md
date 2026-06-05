@@ -3,7 +3,7 @@ layout: post
 title: "ASP.NET Core 模型驗證與資料註解"
 date: 2020-08-18 15:30:00 +0800
 categories: [框架, .NET]
-tags: [ASP.NET Core, Model Validation, Data Annotations, FluentValidation]
+tags: [.NET Core, ASP.NET Core]
 ---
 
 這週深入研究 ASP.NET Core 的模型驗證機制，包含內建的資料註解和 FluentValidation 驗證框架。

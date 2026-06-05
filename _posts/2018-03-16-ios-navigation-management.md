@@ -3,7 +3,7 @@ layout: post
 title: "iOS 導航與畫面管理"
 date: 2018-03-16
 categories: [Swift, iOS]
-tags: [iOS, Navigation, UINavigationController, UITabBarController]
+tags: [Swift, iOS]
 ---
 
 ## Navigation Controller

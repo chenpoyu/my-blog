@@ -3,7 +3,7 @@ layout: post
 title: "Swift 記憶體管理與 ARC"
 date: 2018-02-09
 categories: [Swift, iOS]
-tags: [Swift, ARC, Memory Management]
+tags: [Swift, iOS]
 ---
 
 這週深入研究 Swift 的記憶體管理機制。這對 Java 工程師來說是個需要轉換思維的主題。

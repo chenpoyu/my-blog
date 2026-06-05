@@ -3,7 +3,7 @@ layout: post
 title: "年終回顧：面試 100+ 人的收穫"
 date: 2021-12-22
 categories: [management, interview]
-tags: [面試, 回顧]
+tags: [團隊管理, 面試, 年度回顧]
 ---
 
 **以下資訊，若涉及個人資訊，會以模糊方式調整，避免被帶入特定人士縮影**

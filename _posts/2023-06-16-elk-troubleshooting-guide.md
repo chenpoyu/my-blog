@@ -3,7 +3,7 @@ layout: post
 title: "ELK Stack 故障排查實戰手冊"
 date: 2023-06-16 09:00:00 +0800
 categories: [Observability, Logging, Troubleshooting]
-tags: [ELK Stack, Troubleshooting, Performance Issues, Common Problems]
+tags: [ELK Stack, Performance, Observability, Logging]
 ---
 
 凌晨 3 點,PagerDuty 響了：**「Elasticsearch 叢集 CPU 100%」**

@@ -3,7 +3,7 @@ layout: post
 title: "整合留言系統到 Jekyll 部落格"
 date: 2022-04-13 22:30:00 +0800
 categories: [心法]
-tags: [Jekyll, 第三方服務]
+tags: [Jekyll]
 ---
 
 部落格上線這麼久，一直缺少互動功能。今天來加上留言系統。

@@ -3,7 +3,7 @@ layout: post
 title: "AWS RDS 與 CloudWatch：資料庫管理與監控實戰"
 date: 2021-01-06 11:20:00 +0800
 categories: [AWS, Database]
-tags: [AWS, RDS, CloudWatch, MySQL, PostgreSQL, Monitoring]
+tags: [AWS, Database, Cloud, Observability, Monitoring]
 ---
 
 ## 前言

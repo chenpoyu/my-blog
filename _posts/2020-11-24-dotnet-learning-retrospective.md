@@ -3,7 +3,7 @@ layout: post
 title: ".NET Core 學習回顧與展望"
 date: 2020-11-24 16:00:00 +0800
 categories: [框架, .NET]
-tags: [.NET Core, 心得, 學習筆記]
+tags: [.NET Core, 年度回顧]
 ---
 
 這週回顧過去半年學習 .NET Core 的歷程，總結從 Java 工程師角度轉換到 .NET 生態系的心得和體悟。

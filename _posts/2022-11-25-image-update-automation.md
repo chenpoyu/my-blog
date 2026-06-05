@@ -3,7 +3,7 @@ layout: post
 title: "Image 更新自動化"
 date: 2022-11-25 09:00:00 +0800
 categories: [DevOps, GitOps]
-tags: [ArgoCD, Image Updater, Automation, CI/CD, Tagging Strategy]
+tags: [Kubernetes, GitOps, ArgoCD, CI/CD, DevOps]
 ---
 
 這週要解決一個實務痛點:**如何讓 CI 推送 Image 後,ArgoCD 自動更新 Manifest?**

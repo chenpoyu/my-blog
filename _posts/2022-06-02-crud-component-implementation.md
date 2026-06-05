@@ -3,7 +3,7 @@ layout: post
 title: "通用 CRUD 元件實作：列表、分頁與查詢"
 date: 2022-06-02 11:45:00 +0800
 categories: [前端開發]
-tags: [React, CRUD, Ant Design, 元件設計]
+tags: [React, UI/UX, 前端開發]
 ---
 
 ## CrudPage 元件架構

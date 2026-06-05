@@ -3,7 +3,7 @@ layout: post
 title: "多集群 (Multi-cluster) 管理規劃"
 date: 2022-11-18 09:00:00 +0800
 categories: [DevOps, GitOps]
-tags: [ArgoCD, Multi-cluster, Cluster Management, GitOps]
+tags: [Kubernetes, GitOps, ArgoCD, DevOps, High Availability]
 ---
 
 這週要探討企業級場景的重要能力:**用一個 ArgoCD 管理多個 Kubernetes 集群**。

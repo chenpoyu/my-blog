@@ -3,7 +3,7 @@ layout: post
 title: "KPI 設定的兩難"
 date: 2021-09-15
 categories: [management, leadership]
-tags: [KPI, 績效]
+tags: [團隊管理, 領導, 績效管理, KPI]
 ---
 
 **以下資訊，若涉及個人資訊，會以模糊方式調整，避免被帶入特定人士縮影**

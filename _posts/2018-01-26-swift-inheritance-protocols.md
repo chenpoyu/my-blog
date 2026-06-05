@@ -3,7 +3,7 @@ layout: post
 title: "Swift 繼承與協定"
 date: 2018-01-26
 categories: [Swift, iOS]
-tags: [Swift, Inheritance, Protocol]
+tags: [Swift, iOS]
 ---
 
 第四週學習物件導向的核心概念：繼承和協定（Protocol）。

@@ -3,7 +3,7 @@ layout: post
 title: "KPI 達標是本分，超標才談獎金——聊聊怎麼用 OKR 的方式推進 KPI"
 date: 2025-10-17 17:15:00 +0800
 categories: [管理筆記]
-tags: [KPI, OKR, 績效考核, 團隊管理, 獎金制度]
+tags: [團隊管理, 績效管理, KPI]
 ---
 
 ## 接續上週

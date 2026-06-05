@@ -3,7 +3,7 @@ layout: post
 title: "金絲雀部署和藍綠部署策略"
 date: 2019-03-25 10:00:00 +0800
 categories: [DevOps, Deployment]
-tags: [Deployment Strategy, Canary, Blue-Green, Rolling Update, Kubernetes]
+tags: [Kubernetes, CI/CD, DevOps]
 ---
 
 上週學了 Istio Service Mesh（參考 [Service Mesh 入門](/posts/2019/03/18/service-mesh-istio-intro/)），這週深入研究各種部署策略，目標是實現零停機、低風險的持續部署。

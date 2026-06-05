@@ -3,7 +3,7 @@ layout: post
 title: "因材施教：不同類型的工程師"
 date: 2021-09-29
 categories: [management, interview]
-tags: [管理, 因材施教]
+tags: [團隊管理, 面試]
 ---
 
 **以下資訊，若涉及個人資訊，會以模糊方式調整，避免被帶入特定人士縮影**

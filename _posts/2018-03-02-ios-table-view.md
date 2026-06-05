@@ -3,7 +3,7 @@ layout: post
 title: "iOS Table View 基礎"
 date: 2018-03-02
 categories: [Swift, iOS]
-tags: [iOS, UITableView, DataSource]
+tags: [Swift, iOS]
 ---
 
 這週學習 iOS 最常用的資料展示元件：**UITableView**。

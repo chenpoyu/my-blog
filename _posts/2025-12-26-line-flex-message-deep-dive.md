@@ -3,7 +3,7 @@ layout: post
 title: "LINE Flex Message：被我忽略太久的好東西"
 date: 2025-12-26 12:00:00 +0800
 categories: [技術筆記, Side Project]
-tags: [LINE Bot, Flex Message, LINE Messaging API, 自動化]
+tags: [LINE Bot, API, Automation, Side Project]
 ---
 
 ## 其實這東西我早就該寫了

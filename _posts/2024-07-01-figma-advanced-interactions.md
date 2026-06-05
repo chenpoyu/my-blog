@@ -3,7 +3,7 @@ layout: post
 title: "Figma 進階互動：Drag、Variables 與複雜動畫"
 date: 2024-07-01 16:55:00 +0800
 categories: [設計, UI/UX]
-tags: [Figma, Interaction, Variables]
+tags: [Figma, UI/UX]
 ---
 
 前幾週學了基本的 Prototype 和 Smart Animate，這週來挑戰更進階的互動：拖曳（Drag）、變數（Variables）、以及一些複雜的互動模式。

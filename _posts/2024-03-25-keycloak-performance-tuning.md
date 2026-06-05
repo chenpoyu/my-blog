@@ -3,7 +3,7 @@ layout: post
 title: "Keycloak 效能調校筆記"
 date: 2024-03-25 13:50:00 +0800
 categories: [系統架構, 安全性]
-tags: [Keycloak, Performance, Optimization]
+tags: [Keycloak, Architecture, Security, Authentication, Performance]
 ---
 
 這週花了些時間研究 Keycloak 的效能調校。測試環境只有幾個人用，感覺不出差異。但正式環境如果有幾百幾千個使用者同時登入，效能就很關鍵了。

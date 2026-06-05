@@ -3,7 +3,7 @@ layout: post
 title: "LINQ 查詢語法完全指南"
 date: 2020-06-16 15:10:00 +0800
 categories: [框架, .NET]
-tags: [LINQ, C#, 查詢]
+tags: [.NET Core, Entity Framework]
 ---
 
 LINQ (Language Integrated Query) 是 .NET 最強大的功能之一，它讓查詢操作成為語言的一部分，類似 Java 8 的 Stream API，但更加強大。

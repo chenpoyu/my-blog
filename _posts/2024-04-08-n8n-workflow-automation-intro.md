@@ -3,7 +3,7 @@ layout: post
 title: "n8n 初探：工作流程自動化工具"
 date: 2024-04-08 14:35:00 +0800
 categories: [自動化, 工作流程]
-tags: [n8n, Workflow, Automation]
+tags: [n8n, Automation, 工作流程]
 ---
 
 最近公司內部有很多重複性的工作，像是每天要從不同系統撈資料、整理後寄信給相關人員、定期備份資料等等。這些事情雖然不難，但很瑣碎，而且容易出錯。

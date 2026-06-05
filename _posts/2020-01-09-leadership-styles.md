@@ -3,7 +3,7 @@ layout: post
 title: "領導風格與情境領導"
 date: 2020-01-09
 categories: [Project Management]
-tags: [leadership, style, situational]
+tags: [專案管理, 團隊管理, 領導]
 ---
 
 新年開始反思自己的領導風格。以前只知道帶團隊,沒想過領導有不同的方式。

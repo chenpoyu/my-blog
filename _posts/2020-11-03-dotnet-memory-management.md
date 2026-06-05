@@ -3,7 +3,7 @@ layout: post
 title: ".NET Core 記憶體管理與效能優化"
 date: 2020-11-03 15:00:00 +0800
 categories: [框架, .NET]
-tags: [.NET Core, Performance, Memory, GC]
+tags: [.NET Core, Performance]
 ---
 
 這週研究 .NET Core 的記憶體管理機制、垃圾回收原理，以及如何診斷和優化記憶體使用。

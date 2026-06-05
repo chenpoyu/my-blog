@@ -3,7 +3,7 @@ layout: post
 title: "Flutter 測試策略：Unit Test、Widget Test 與 Integration Test"
 date: 2024-08-26 10:35:00 +0800
 categories: [行動開發, Flutter]
-tags: [Flutter, Testing, Quality Assurance]
+tags: [Flutter, Testing]
 ---
 
 開發到一個階段，測試變得很重要。這週開始補測試，充電站 App 的核心功能要確保品質，不能每次改點東西就要手動測一遍。

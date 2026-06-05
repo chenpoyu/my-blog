@@ -3,7 +3,7 @@ layout: post
 title: "新人 Onboarding 的挑戰"
 date: 2021-07-28
 categories: [management, team]
-tags: [管理, 新人]
+tags: [團隊管理]
 ---
 
 **以下資訊，若涉及個人資訊，會以模糊方式調整，避免被帶入特定人士縮影**

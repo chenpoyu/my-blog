@@ -3,7 +3,7 @@ layout: post
 title: "Flutter 自訂動畫：從基礎到進階"
 date: 2024-11-04 10:40:00 +0800
 categories: [行動開發, Flutter]
-tags: [Flutter, Animation, CustomPainter]
+tags: [Flutter, UI/UX]
 ---
 
 動畫讓 App 更生動。這週深入研究 Flutter 動畫系統，從簡單的隱式動畫到複雜的自訂動畫。

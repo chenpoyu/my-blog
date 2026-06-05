@@ -3,7 +3,7 @@ layout: post
 title: "專案治理與PMO"
 date: 2020-01-23
 categories: [Project Management]
-tags: [governance, pmo, framework]
+tags: [專案管理]
 ---
 
 公司成立專案管理辦公室 PMO,Project Management Office。主管要我了解 PMO 和專案治理的概念。

@@ -3,7 +3,7 @@ layout: post
 title: "理想與現實的妥協：為什麼我們選擇了微模組而非微服務"
 date: 2025-01-09 10:15:00 +0800
 categories: [架構設計]
-tags: [微服務, 模組化架構, 技術選型, .NET Core]
+tags: [.NET Core, Architecture, Microservices]
 ---
 
 ## 從技術理想到現實考量

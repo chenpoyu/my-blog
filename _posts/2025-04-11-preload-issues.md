@@ -3,7 +3,7 @@ layout: post
 title: "那些壓測前沒想到的問題"
 date: 2025-04-11 14:20:00 +0800
 categories: [效能優化]
-tags: [壓力測試, gRPC, Redis, 連線池]
+tags: [Redis, gRPC, API, Caching, 壓力測試]
 ---
 
 ## 背景：APP 開啟就要打 12 個 API

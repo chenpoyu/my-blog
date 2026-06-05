@@ -3,7 +3,7 @@ layout: post
 title: "Keycloak 的角色與權限處理"
 date: 2024-01-17 15:40:00 +0800
 categories: [系統架構, 安全性]
-tags: [Keycloak, RBAC, Spring Security]
+tags: [Java, Spring, Keycloak, Architecture, Authentication]
 ---
 
 這週花了不少時間在研究 Keycloak 的角色權限機制。一般企業系統的需求是：不同部門的人登入系統後，看到的功能和資料要不一樣。財務部只能看財務相關功能，業務部看業務相關的。

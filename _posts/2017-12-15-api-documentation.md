@@ -3,7 +3,7 @@ layout: post
 title: "API 文件撰寫筆記"
 date: 2017-12-15 14:30:00 +0800
 categories: [設計模式, Java]
-tags: [API, 文件, Swagger, 開發]
+tags: [Java, API, 技術文件]
 ---
 
 開發RESTful API後,如何讓前端或其他團隊快速理解使用方式?手寫文件太麻煩且容易過時,這週來看看如何自動產生API文件。

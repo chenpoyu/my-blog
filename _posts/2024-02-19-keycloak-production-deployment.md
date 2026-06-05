@@ -3,7 +3,7 @@ layout: post
 title: "Keycloak 正式環境部署筆記"
 date: 2024-02-19 10:05:00 +0800
 categories: [系統架構, 安全性]
-tags: [Keycloak, Production, Database]
+tags: [Keycloak, Architecture, Database, Security, Authentication]
 ---
 
 前面幾週都在測試環境研究 Keycloak，這週來看看如何部署到正式環境。測試環境用 `start-dev` 模式跑，資料存在內建的 H2 資料庫，重啟就不見了。正式環境當然不能這樣搞。

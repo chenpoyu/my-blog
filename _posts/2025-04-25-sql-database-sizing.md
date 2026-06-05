@@ -3,7 +3,7 @@ layout: post
 title: "SQL Database 規格怎麼選才對"
 date: 2025-04-25 15:50:00 +0800
 categories: [資料庫]
-tags: [Azure SQL Database, 效能調校, DTU]
+tags: [Azure, Database, Performance, Cloud, 選才]
 ---
 
 ## DTU 又爆了

@@ -3,7 +3,7 @@ layout: post
 title: "第一條 CI 與 CD 的橋樑"
 date: 2022-09-16 09:00:00 +0800
 categories: [DevOps, GitOps]
-tags: [Jenkins, ArgoCD, CI/CD, Git Integration, Automation]
+tags: [Kubernetes, Jenkins, GitOps, ArgoCD, CI/CD]
 ---
 
 經過前兩週的 ArgoCD 安裝與 Manifest Repository 設計,今天要迎來最激動人心的時刻:**打通 CI 與 CD 的完整流程**。

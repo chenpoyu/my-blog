@@ -3,7 +3,7 @@ layout: post
 title: "Flutter 效能監控與 APM 工具"
 date: 2024-11-25 14:30:00 +0800
 categories: [行動開發, Flutter]
-tags: [Flutter, Performance, APM, Monitoring]
+tags: [Flutter, Performance, Observability, Monitoring]
 ---
 
 App 上線後，效能問題才真正浮現。這週研究如何監控線上 App 效能，及時發現和解決問題。

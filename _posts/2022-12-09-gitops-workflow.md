@@ -3,7 +3,7 @@ layout: post
 title: "團隊規範制定：GitOps Workflow"
 date: 2022-12-09 09:00:00 +0800
 categories: [DevOps, GitOps]
-tags: [GitOps, Workflow, Code Review, Change Management, Best Practices]
+tags: [GitOps, DevOps, Automation, 工作流程]
 ---
 
 經過四個月的實踐,我們建立了完整的 GitOps 基礎設施。但技術只是一部分,更重要的是:**如何讓團隊按照統一的流程工作?**

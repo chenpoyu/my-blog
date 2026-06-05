@@ -3,7 +3,7 @@ layout: post
 title: "從 AWS 跳槽到 Azure：一個不得不的決定"
 date: 2025-01-17 14:30:00 +0800
 categories: [雲端架構]
-tags: [Azure, AWS, 雲端遷移, App Service]
+tags: [AWS, Azure, Architecture, Cloud]
 ---
 
 ## 說好的 AWS 呢？

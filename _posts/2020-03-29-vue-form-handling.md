@@ -3,7 +3,7 @@ layout: post
 title: "Vue 表單處理與驗證"
 date: 2020-03-29 15:20:00 +0800
 categories: [前端, JavaScript]
-tags: [Vue.js, Form, Validation]
+tags: [Vue.js, JavaScript, 前端開發]
 ---
 
 電商專案需要處理登入表單、訂單表單等輸入功能。Vue 提供了 `v-model` 指令來處理表單資料綁定，但複雜的驗證邏輯還是需要額外處理。

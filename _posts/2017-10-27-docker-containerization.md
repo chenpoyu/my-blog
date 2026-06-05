@@ -3,7 +3,7 @@ layout: post
 title: "Docker 容器化筆記"
 date: 2017-10-27 16:15:00 +0800
 categories: [設計模式, Java]
-tags: [Docker, 容器化, DevOps, 部署]
+tags: [Java, Docker, DevOps]
 ---
 
 上週我們學習了微服務架構(請參考 [Spring Cloud 微服務](/posts/2017/10/20/spring-cloud-microservices/)),但如何快速部署這麼多服務?Docker 提供了有效的解決方案。

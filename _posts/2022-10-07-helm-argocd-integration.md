@@ -3,7 +3,7 @@ layout: post
 title: "Helm 與 ArgoCD 的完美結合"
 date: 2022-10-07 09:00:00 +0800
 categories: [DevOps, GitOps]
-tags: [Helm, ArgoCD, Value Files, Template, GitOps]
+tags: [Kubernetes, Helm, GitOps, ArgoCD, DevOps]
 ---
 
 進入十月,我們要開始處理一個實際問題:**如何管理多環境的配置差異?**

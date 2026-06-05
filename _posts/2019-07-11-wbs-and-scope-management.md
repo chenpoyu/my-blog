@@ -3,7 +3,7 @@ layout: post
 title: "工作分解結構與範疇管理"
 date: 2019-07-11
 categories: [Project Management]
-tags: [wbs, scope-management, planning]
+tags: [專案管理]
 ---
 
 這週我學習工作分解結構，這是專案管理的基礎工具。

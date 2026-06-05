@@ -3,7 +3,7 @@ layout: post
 title: "當團隊成員想離職時"
 date: 2021-11-24
 categories: [management, leadership]
-tags: [離職, 留才]
+tags: [團隊管理, 領導, 職涯]
 ---
 
 「Poyu，我想跟你談談...我決定要離職了。」

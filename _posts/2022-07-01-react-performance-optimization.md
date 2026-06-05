@@ -3,7 +3,7 @@ layout: post
 title: "React 效能優化實戰：解決列表卡頓問題"
 date: 2022-07-01 09:45:00 +0800
 categories: [前端開發]
-tags: [React, 效能優化, React.memo, Virtualization]
+tags: [React, Performance, 前端開發]
 ---
 
 ## 效能問題浮現

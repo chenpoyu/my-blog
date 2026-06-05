@@ -3,7 +3,7 @@ layout: post
 title: "Kubernetes 進階：ConfigMap、Secret 和 Volume"
 date: 2019-01-07 10:30:00 +0800
 categories: [DevOps, Kubernetes]
-tags: [Kubernetes, ConfigMap, Secret, Volume, Storage]
+tags: [Kubernetes, Security, DevOps]
 ---
 
 上週學會了 Kubernetes 的基本概念（參考 [Kubernetes 容器編排入門](/posts/2018/12/31/kubernetes-container-orchestration-intro/)），成功部署了第一個應用。但遇到一個問題：如何管理應用的設定檔和敏感資訊？

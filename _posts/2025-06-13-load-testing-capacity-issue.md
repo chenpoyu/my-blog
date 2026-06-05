@@ -3,7 +3,7 @@ layout: post
 title: "Load Testing Engine 塞車事件"
 date: 2025-06-13 09:20:00 +0800
 categories: [測試]
-tags: [Azure Load Testing, 壓力測試, 基礎設施]
+tags: [Azure, Performance, Testing, 壓力測試, Cloud]
 ---
 
 ## 終於要測 2000 併發了

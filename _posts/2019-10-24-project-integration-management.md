@@ -3,7 +3,7 @@ layout: post
 title: "專案整合管理與專案章程"
 date: 2019-10-24
 categories: [Project Management]
-tags: [integration, charter, coordination]
+tags: [專案管理]
 ---
 
 主管說專案管理有十大知識領域，整合管理是最核心的。它把其他九個領域串起來，確保專案各部分協調一致。

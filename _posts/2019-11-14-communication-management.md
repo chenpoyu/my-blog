@@ -3,7 +3,7 @@ layout: post
 title: "溝通管理與利害關係人期待"
 date: 2019-11-14
 categories: [Project Management]
-tags: [communication, stakeholder, reporting]
+tags: [專案管理]
 ---
 
 主管說專案經理花最多時間在溝通。統計顯示專案經理 80% 的時間在溝通。這比我想像的高很多。

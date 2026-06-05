@@ -3,8 +3,9 @@ layout: post
 title: "訪問者模式：在不修改現有結構下擴展電商系統的功能" 
 date: 2017-03-29 10:30:00 +0800 
 categories: [設計模式, Java] 
-tags: [訪問者模式, 擴展性]
+tags: [Java, Design Patterns]
 ---
+
 我們系統中有一個 `PaymentChannel` 的類別階層，包含了 `CreditCardPayment`、`LinePayment`、`Atm`。現在客戶提出一個需求：希望能為每種支付方式產出特定的「日終對帳明細」。
 
 按照一般的思維，我們會在 `PaymentChannel` 介面增加一個 `generateReport()` 方法。但這會導致：

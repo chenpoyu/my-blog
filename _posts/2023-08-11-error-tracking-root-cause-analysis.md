@@ -3,7 +3,7 @@ layout: post
 title: "錯誤追蹤與 Root Cause Analysis"
 date: 2023-08-11 09:00:00 +0800
 categories: [Observability, Debugging]
-tags: [Error Tracking, RCA, Debugging, Sentry, OpenTelemetry]
+tags: [OpenTelemetry, Observability, Tracing]
 ---
 
 在分散式系統中，錯誤很難追蹤。一個請求可能經過 5 個服務，但只有第 3 個服務出錯。

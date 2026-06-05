@@ -3,7 +3,7 @@ layout: post
 title: "DevSecOps 入門"
 date: 2019-06-10 10:00:00 +0800
 categories: [DevOps, Security]
-tags: [DevSecOps, Security, SAST, DAST, Container Security]
+tags: [Docker, Security, DevOps]
 ---
 
 上週優化了雲端成本（參考 [雲端成本優化](/posts/2019/06/03/cloud-cost-optimization/)），這週來談一個重要但常被忽視的主題：安全。

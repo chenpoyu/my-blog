@@ -3,7 +3,7 @@ layout: post
 title: "可觀測性：Log 要寫什麼、怎麼寫、寫多少"
 date: 2025-03-28 11:10:00 +0800
 categories: [維運]
-tags: [Logging, Application Insights, 可觀測性, .NET Core]
+tags: [.NET Core, Azure, Observability, Monitoring, 維運]
 ---
 
 ## 半夜被叫起來

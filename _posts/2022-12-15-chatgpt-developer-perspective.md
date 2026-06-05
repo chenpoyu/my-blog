@@ -3,7 +3,7 @@ layout: post
 title: "ChatGPT 來了,開發者的工作方式要變了嗎?"
 date: 2022-12-15
 categories: [隨筆, AI]
-tags: [ChatGPT, OpenAI, 程式開發]
+tags: [AI]
 ---
 
 ## 一個技術圈的地震

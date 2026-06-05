@@ -3,7 +3,7 @@ layout: post
 title: "公部門專案的特殊性"
 date: 2021-08-25
 categories: [management, project]
-tags: [專案管理, 公部門]
+tags: [專案管理, 團隊管理]
 ---
 
 **以下資訊，若涉及個人資訊，會以模糊方式調整，避免被帶入特定人士縮影**

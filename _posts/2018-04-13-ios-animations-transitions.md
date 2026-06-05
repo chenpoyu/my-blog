@@ -3,7 +3,7 @@ layout: post
 title: "iOS 動畫與轉場效果"
 date: 2018-04-13
 categories: [iOS, Swift]
-tags: [Swift, iOS, Animation, UIView, Core Animation]
+tags: [Swift, iOS, UI/UX]
 ---
 
 這週開始深入研究 iOS 的動畫系統。在 Java Web 開發中，動畫通常是前端的事情，後端很少處理。但在 iOS 原生開發中，動畫是提升使用者體驗的關鍵要素，Apple 對此提供了非常完整的支援。

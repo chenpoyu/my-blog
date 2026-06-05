@@ -3,7 +3,7 @@ layout: post
 title: "n8n Webhook 與 API 觸發機制"
 date: 2024-04-29 09:55:00 +0800
 categories: [自動化, 工作流程]
-tags: [n8n, Webhook, API]
+tags: [n8n, API, Automation, 工作流程]
 ---
 
 前幾週都是用排程觸發 workflow，每天或每小時固定執行。但很多場景需要即時觸發，比如：訂單成立時馬上發通知、使用者註冊時自動寄歡迎信、有新的 issue 時建立工單等。

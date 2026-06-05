@@ -3,7 +3,7 @@ layout: post
 title: "DevOps 工具鏈整合"
 date: 2019-06-24 10:00:00 +0800
 categories: [DevOps, Integration]
-tags: [Toolchain, Jenkins, GitLab, Jira, Slack, Automation]
+tags: [Jenkins, CI/CD, DevOps, Automation]
 ---
 
 上週研究了多雲架構（參考 [多雲架構設計](/posts/2019/06/17/multi-cloud-architecture/)），這週來談 DevOps 工具鏈整合。

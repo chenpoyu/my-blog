@@ -3,7 +3,7 @@ layout: post
 title: "用 Vibe Coding 一個下午蓋出廟會風抽獎 App — 媽祖靈感開壇抽獎系統"
 date: 2026-02-27 17:15:00 +0800
 categories: [技術筆記, Side Project]
-tags: [React, Vibe Coding, Framer Motion, Side Project]
+tags: [React, Vibe Coding, Side Project, AI 輔助開發]
 ---
 
 ## 緣起：公司尾牙要一個「不一樣」的抽獎

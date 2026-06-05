@@ -3,7 +3,7 @@ layout: post
 title: "混合式專案管理方法"
 date: 2020-02-13
 categories: [Project Management]
-tags: [hybrid, tailoring, adaptation]
+tags: [專案管理]
 ---
 
 實務上很少專案是純粹的敏捷或純粹的瀑布。大部分是混合,取各家之長。

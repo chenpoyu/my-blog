@@ -3,7 +3,7 @@ layout: post
 title: "Azure 網路架構：從公開到私有的安全升級之路"
 date: 2025-01-24 16:45:00 +0800
 categories: [雲端架構]
-tags: [Azure, Network Security, Private Link, Front Door]
+tags: [Azure, Architecture, Security, Cloud]
 ---
 
 ## 從一開始就要做對

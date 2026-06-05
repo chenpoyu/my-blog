@@ -3,7 +3,7 @@ layout: post
 title: "用 Keycloak Admin REST API 管理使用者"
 date: 2024-02-05 11:30:00 +0800
 categories: [系統架構, 安全性]
-tags: [Keycloak, REST API, 自動化]
+tags: [Keycloak, Architecture, API, Authentication, Automation]
 ---
 
 這週研究了 Keycloak 的 Admin REST API。想到一個實際場景：如果企業的 HR 系統有員工的入離職資料，應該要能自動在 Keycloak 建立或停用帳號，不要每次都要人工去管理介面操作。

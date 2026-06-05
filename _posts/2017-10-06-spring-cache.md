@@ -3,7 +3,7 @@ layout: post
 title: "Spring 快取使用筆記"
 date: 2017-10-06 11:10:00 +0800
 categories: [設計模式, Java]
-tags: [Spring, Cache, Redis, 效能優化]
+tags: [Java, Spring, Redis, Caching]
 ---
 
 電商系統中有大量重複查詢:熱門商品、類別清單、使用者資訊...每次都查資料庫會拖慢效能。Spring Cache 讓快取變得超級簡單。

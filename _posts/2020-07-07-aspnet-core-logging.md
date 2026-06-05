@@ -3,7 +3,7 @@ layout: post
 title: "ASP.NET Core 日誌記錄系統"
 date: 2020-07-07 14:45:00 +0800
 categories: [框架, .NET]
-tags: [ASP.NET Core, Logging, Serilog]
+tags: [.NET Core, ASP.NET Core, Observability, Logging]
 ---
 
 這週研究 ASP.NET Core 的日誌系統，它內建完整的日誌框架，類似 Java 的 SLF4J + Logback。

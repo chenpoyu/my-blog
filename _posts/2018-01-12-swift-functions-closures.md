@@ -3,7 +3,7 @@ layout: post
 title: "Swift 函式與閉包"
 date: 2018-01-12
 categories: [Swift, iOS]
-tags: [Swift, Function, Closure]
+tags: [Swift, iOS]
 ---
 
 第二週深入學習 Swift 的函式和閉包。這兩個概念在 Swift 中非常重要，尤其是閉包，在處理非同步程式碼和集合操作時會大量使用。

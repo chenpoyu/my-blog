@@ -3,7 +3,7 @@ layout: post
 title: "Kubernetes 自動擴展 - HPA 和 VPA"
 date: 2019-03-04 10:00:00 +0800
 categories: [DevOps, Kubernetes]
-tags: [Kubernetes, HPA, VPA, Autoscaling, Cloud Native]
+tags: [Kubernetes, DevOps, Cloud]
 ---
 
 上週學了 Ansible 自動化配置（參考 [Ansible 自動化配置管理](/posts/2019/02/25/ansible-automation-configuration/)），這週回到 Kubernetes，研究自動擴展功能。

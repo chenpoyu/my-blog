@@ -3,7 +3,7 @@ layout: post
 title: "業務指標監控：讓數據驅動產品決策"
 date: 2023-03-10 09:00:00 +0800
 categories: [Observability, Monitoring]
-tags: [Business Metrics, KPI, Product Analytics, Monitoring]
+tags: [Observability, Monitoring, Metrics, 績效管理, KPI]
 ---
 
 前面幾週我們學了監控系統資源、API 效能、資料庫狀態。但如果只看這些，你永遠不知道**使用者真正在乎什麼**。

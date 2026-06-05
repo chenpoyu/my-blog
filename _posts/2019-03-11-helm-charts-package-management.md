@@ -3,7 +3,7 @@ layout: post
 title: "Helm Charts 套件管理"
 date: 2019-03-11 10:00:00 +0800
 categories: [DevOps, Kubernetes]
-tags: [Helm, Kubernetes, Package Management, Charts]
+tags: [Kubernetes, Helm, DevOps]
 ---
 
 上週研究了 Kubernetes 自動擴展（參考 [Kubernetes 自動擴展](/posts/2019/03/04/kubernetes-autoscaling-hpa-vpa/)），這週來解決部署的複雜性問題。

@@ -3,7 +3,7 @@ layout: post
 title: "分散式追蹤 - Jaeger 深入實踐"
 date: 2019-04-08 10:00:00 +0800
 categories: [DevOps, Observability]
-tags: [Jaeger, Distributed Tracing, OpenTracing, Microservices, Observability]
+tags: [Jaeger, Microservices, DevOps, Observability, Tracing]
 ---
 
 上週學了 API Gateway（參考 [API Gateway 與微服務架構](/posts/2019/04/01/api-gateway-microservices/)），這週深入研究分散式追蹤，解決微服務架構最頭痛的問題：如何追蹤一個請求經過了哪些服務？

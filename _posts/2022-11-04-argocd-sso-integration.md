@@ -3,7 +3,7 @@ layout: post
 title: "企業級安全：SSO 整合實務"
 date: 2022-11-04 09:00:00 +0800
 categories: [DevOps, GitOps]
-tags: [ArgoCD, SSO, Dex, OAuth, RBAC, Security]
+tags: [Kubernetes, GitOps, ArgoCD, Authentication, DevOps]
 ---
 
 進入十一月,我們要開始處理企業級場景的核心需求:**權限管理**。

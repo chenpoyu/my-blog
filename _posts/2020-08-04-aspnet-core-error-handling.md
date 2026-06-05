@@ -3,7 +3,7 @@ layout: post
 title: "ASP.NET Core 錯誤處理與例外管理"
 date: 2020-08-04 15:10:00 +0800
 categories: [框架, .NET]
-tags: [ASP.NET Core, Exception Handling, Error Handling]
+tags: [.NET Core, ASP.NET Core]
 ---
 
 這週研究 ASP.NET Core 的錯誤處理機制，包含全域例外處理和錯誤回應格式化。

@@ -3,7 +3,7 @@ layout: post
 title: ".NET Core CI/CD 實踐指南"
 date: 2020-11-10 14:30:00 +0800
 categories: [框架, .NET]
-tags: [.NET Core, CI/CD, DevOps, GitHub Actions, Azure DevOps]
+tags: [.NET Core, Azure, CI/CD, DevOps, Cloud]
 ---
 
 這週研究 .NET Core 應用程式的持續整合和持續部署，涵蓋 GitHub Actions 和 Azure DevOps 兩種主流方案。

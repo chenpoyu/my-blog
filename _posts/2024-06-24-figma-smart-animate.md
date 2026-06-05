@@ -3,7 +3,7 @@ layout: post
 title: "Figma Smart Animate：打造流暢的動畫"
 date: 2024-06-24 14:15:00 +0800
 categories: [設計, UI/UX]
-tags: [Figma, Smart Animate, Animation]
+tags: [Figma, UI/UX]
 ---
 
 上週學了 Prototype 的基本互動，這週來研究 Smart Animate。這是 Figma 最強大的動畫功能，可以自動在兩個狀態之間產生過渡動畫。

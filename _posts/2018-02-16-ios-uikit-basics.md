@@ -3,7 +3,7 @@ layout: post
 title: "iOS UIKit 基礎入門"
 date: 2018-02-16
 categories: [Swift, iOS]
-tags: [iOS, UIKit, UI]
+tags: [Swift, iOS, UI/UX]
 ---
 
 經過四週的 Swift 語法學習，這週終於開始接觸 iOS 開發的核心：**UIKit 框架**。

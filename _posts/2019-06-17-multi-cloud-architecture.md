@@ -3,7 +3,7 @@ layout: post
 title: "多雲架構設計"
 date: 2019-06-17 10:00:00 +0800
 categories: [DevOps, Cloud]
-tags: [Multi-Cloud, AWS, Azure, GCP, Cloud Native]
+tags: [AWS, Azure, DevOps, Cloud]
 ---
 
 上週學習了 DevSecOps（參考 [DevSecOps 入門](/posts/2019/06/10/devsecops-intro/)），這週來研究多雲架構 (Multi-Cloud Architecture)。

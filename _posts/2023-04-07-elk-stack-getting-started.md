@@ -3,7 +3,7 @@ layout: post
 title: "ELK Stack 入門：搭建你的日誌分析平台"
 date: 2023-04-07 09:00:00 +0800
 categories: [Observability, Logging]
-tags: [ELK Stack, Elasticsearch, Logstash, Kibana, Logging]
+tags: [ELK Stack, Observability, Logging]
 ---
 
 上週我們理解了 Metrics、Logs、Traces 的差異。從今天開始，我們要深入學習「日誌管理」的王者：**ELK Stack**。

@@ -3,7 +3,7 @@ layout: post
 title: "Prometheus 入門：從安裝到第一個指標"
 date: 2023-01-13 09:00:00 +0800
 categories: [Observability, Monitoring]
-tags: [Prometheus, Metrics, 時序資料庫, 監控]
+tags: [Prometheus, Database, Observability, Monitoring, Metrics]
 ---
 
 上週我們聊了為什麼要學觀測性技術。從今天開始，我們正式進入實戰：**Prometheus**。

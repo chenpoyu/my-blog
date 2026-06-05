@@ -3,7 +3,7 @@ layout: post
 title: "n8n 實戰案例分享"
 date: 2024-05-27 14:50:00 +0800
 categories: [自動化, 工作流程]
-tags: [n8n, Use Cases, 實戰經驗]
+tags: [n8n, Automation, 工作流程]
 ---
 
 這週把 n8n 實際應用到幾個業務場景，解決了一些長期困擾的重複性工作。記錄一下這些實戰案例，也許對其他人有參考價值。

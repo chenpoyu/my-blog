@@ -3,7 +3,7 @@ layout: post
 title: "把 Spring Boot 接上 Keycloak"
 date: 2024-01-08 09:15:00 +0800
 categories: [系統架構, 安全性]
-tags: [Keycloak, Spring Boot, OAuth2]
+tags: [Java, Spring, Keycloak, Architecture, Authentication]
 ---
 
 上週把 Keycloak 跑起來了，這週要來試著讓 Spring Boot 應用程式接上去。說實話，一開始有點頭痛，OAuth 2.0 的流程跟之前的 Session 登入差很多。

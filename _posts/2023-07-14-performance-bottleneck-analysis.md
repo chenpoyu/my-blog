@@ -3,7 +3,7 @@ layout: post
 title: "效能瓶頸分析：用 Tracing 找出慢查詢"
 date: 2023-07-14 09:00:00 +0800
 categories: [Observability, Tracing, Performance]
-tags: [Performance Analysis, Bottleneck, Optimization, Database Query]
+tags: [Database, Performance, Observability, Tracing]
 ---
 
 使用者抱怨：「你們的網站好慢！」

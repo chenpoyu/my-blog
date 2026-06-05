@@ -3,7 +3,7 @@ layout: post
 title: "組織行為與團隊動力"
 date: 2020-01-16
 categories: [Project Management]
-tags: [organizational, behavior, dynamics]
+tags: [專案管理]
 ---
 
 開始學習組織行為學。了解人在組織中的行為,可以更好地管理團隊。

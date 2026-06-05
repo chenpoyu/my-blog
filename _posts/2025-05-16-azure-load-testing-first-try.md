@@ -3,7 +3,7 @@ layout: post
 title: "Azure Load Testing：看起來美好，實際上⋯"
 date: 2025-05-16 11:45:00 +0800
 categories: [測試]
-tags: [Azure Load Testing, k6, 壓力測試]
+tags: [Azure, Performance, Testing, 壓力測試, Cloud]
 ---
 
 ## 第一次用 Azure Load Testing

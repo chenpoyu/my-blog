@@ -3,7 +3,7 @@ layout: post
 title: "新技術導入的成本評估"
 date: 2021-12-15
 categories: [technology, management]
-tags: [技術選型, 評估]
+tags: [團隊管理]
 ---
 
 「Poyu,我們試用的 Golang 專案,客戶那邊結案了。」小李走進辦公室跟我報告。

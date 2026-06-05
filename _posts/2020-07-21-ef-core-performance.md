@@ -3,7 +3,7 @@ layout: post
 title: "Entity Framework Core 效能優化"
 date: 2020-07-21 14:55:00 +0800
 categories: [框架, .NET]
-tags: [EF Core, Performance, Optimization]
+tags: [.NET Core, Entity Framework, Database, Performance]
 ---
 
 這週研究 EF Core 的效能優化技巧，避免常見的效能陷阱。

@@ -3,7 +3,7 @@ layout: post
 title: "整合既有的 LDAP 到 Keycloak"
 date: 2024-01-29 16:50:00 +0800
 categories: [系統架構, 安全性]
-tags: [Keycloak, LDAP, User Federation]
+tags: [Keycloak, Architecture, Security, Authentication]
 ---
 
 這週研究了 Keycloak 的 User Federation 功能。大多數企業其實已經有 LDAP 或 Active Directory 在管理員工帳號了，如果能直接整合，就不用再建一套使用者資料。

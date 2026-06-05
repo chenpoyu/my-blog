@@ -3,7 +3,7 @@ layout: post
 title: "Spring MVC 工作原理筆記"
 date: 2017-12-29 16:20:00 +0800
 categories: [設計模式, Java]
-tags: [Spring MVC, DispatcherServlet, 工作流程]
+tags: [Java, Spring, Architecture]
 ---
 
 使用 Spring MVC 開發 RESTful API 很方便,但你知道從請求進來到回應返回,中間經歷了什麼嗎?理解這個流程對除錯和優化很有幫助。

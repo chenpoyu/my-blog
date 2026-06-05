@@ -3,7 +3,7 @@ layout: post
 title: "告警哲學：如何避免「狼來了效應」"
 date: 2023-02-03 09:00:00 +0800
 categories: [Observability, Monitoring]
-tags: [Prometheus, Alerting, AlertManager, SRE]
+tags: [Prometheus, Observability, Monitoring, Metrics, SRE]
 ---
 
 前三週我們學會了收集指標、視覺化圖表。但有個殘酷的現實：**你不可能 24 小時盯著 Dashboard。**

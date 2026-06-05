@@ -3,7 +3,7 @@ layout: post
 title: "Gemini 登場 - AI 工具進入日常開發流程"
 date: 2023-12-20
 categories: [隨筆, AI]
-tags: [Gemini, Google AI, ChatGPT, 開發工具]
+tags: [AI, 工作流程]
 ---
 
 ## 一年後的變化

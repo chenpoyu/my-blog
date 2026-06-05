@@ -3,7 +3,7 @@ layout: post
 title: "從 Java 到 Swift：9 個月的轉換心得"
 date: 2018-09-28
 categories: [iOS, Swift, Career]
-tags: [Swift, Java, Learning, Reflection]
+tags: [Java, Swift, iOS, 職涯]
 ---
 
 今天是 2018 年 9 月的最後一週，距離公司交辦學習 iOS 開發已經過了 9 個月。回顧這段旅程，從完全不懂 Swift 和 iOS 框架，到現在能獨立開發並上架 app，有很多心得想記錄下來。

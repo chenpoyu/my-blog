@@ -3,7 +3,7 @@ layout: post
 title: "Flutter 國際化與在地化：多語言支援實作"
 date: 2024-09-16 09:25:00 +0800
 categories: [行動開發, Flutter]
-tags: [Flutter, i18n, l10n, Internationalization]
+tags: [Flutter, Localization]
 ---
 
 這週處理多語言支援。充電站 App 要上架到台灣、香港、新加坡，需要支援繁體中文、簡體中文、英文。Flutter 的國際化（i18n）和在地化（l10n）機制還算完整。

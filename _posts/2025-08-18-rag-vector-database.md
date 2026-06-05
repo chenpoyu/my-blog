@@ -3,7 +3,7 @@ layout: post
 title: "Week 3: RAG 實驗 - 讓 AI 讀懂專案文件"
 date: 2025-08-18 11:30:00 +0800
 categories: [AI工程, RAG]
-tags: [RAG, Embedding, ChromaDB, Vector Database]
+tags: [AI, RAG, Database, 技術文件]
 ---
 
 ## RAG 是什麼?為什麼需要它?

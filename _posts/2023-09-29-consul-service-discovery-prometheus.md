@@ -3,7 +3,7 @@ layout: post
 title: "Consul 服務發現與 Prometheus 整合"
 date: 2023-09-29 09:00:00 +0800
 categories: [Observability, Service Discovery]
-tags: [Consul, Service Discovery, Prometheus, Automation]
+tags: [Prometheus, Automation, Observability, Monitoring, Metrics]
 ---
 
 當你的微服務數量達到 50+，手動配置 Prometheus 的 Scrape Targets 會變成噩夢。

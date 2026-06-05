@@ -3,7 +3,7 @@ layout: post
 title: "監控方法論：RED vs USE，該選哪個？"
 date: 2023-02-24 09:00:00 +0800
 categories: [Observability, Monitoring]
-tags: [Monitoring, RED Method, USE Method, SRE, Best Practices]
+tags: [Observability, Monitoring, SRE]
 ---
 
 前面幾週我們學了很多 Prometheus 的技術細節，但技術只是工具。今天我們要談「哲學」：**到底該監控什麼？**

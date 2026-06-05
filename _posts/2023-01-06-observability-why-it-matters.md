@@ -3,7 +3,7 @@ layout: post
 title: "為什麼監控與觀測性是工程師的必修課"
 date: 2023-01-06 09:00:00 +0800
 categories: [Observability, 監控]
-tags: [Observability, Monitoring, 營運, SRE]
+tags: [Observability, Monitoring, SRE]
 ---
 
 新年新氣象，我決定開啟一個為期一年的學習計畫：深入研究「觀測性技術（Observability）」。

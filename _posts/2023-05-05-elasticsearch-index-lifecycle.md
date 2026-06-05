@@ -3,7 +3,7 @@ layout: post
 title: "Elasticsearch Index Lifecycle：高效管理海量日誌"
 date: 2023-05-05 09:00:00 +0800
 categories: [Observability, Logging]
-tags: [Elasticsearch, ILM, Index Lifecycle, Data Management, Cost Optimization]
+tags: [ELK Stack, Performance, Observability, Logging, Cost Optimization]
 ---
 
 你的 Elasticsearch 叢集硬碟快滿了嗎？

@@ -3,7 +3,7 @@ layout: post
 title: "Vue 轉 React 三個月回顧：技術、團隊與心態"
 date: 2022-07-15 10:30:00 +0800
 categories: [前端開發]
-tags: [React, Vue.js, 技術轉型, 團隊協作, 心得總結]
+tags: [React, Vue.js, 前端開發, 年度回顧]
 ---
 
 ## 三個月的轉換旅程

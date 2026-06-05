@@ -3,7 +3,7 @@ layout: post
 title: "衝突管理與協商技巧"
 date: 2020-01-30
 categories: [Project Management]
-tags: [conflict, negotiation, resolution]
+tags: [專案管理, 團隊管理]
 ---
 
 團隊內部開始有些摩擦。兩個工程師對技術選擇有不同意見,爭論很激烈。我意識到要學習衝突管理。

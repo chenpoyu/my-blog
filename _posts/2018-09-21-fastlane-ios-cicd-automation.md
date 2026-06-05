@@ -3,7 +3,7 @@ layout: post
 title: "持續整合與部署：Fastlane 自動化 iOS 工作流"
 date: 2018-09-21
 categories: [iOS, DevOps]
-tags: [Fastlane, CI/CD, Automation, Jenkins]
+tags: [iOS, Jenkins, CI/CD, DevOps, Automation]
 ---
 
 這週研究 iOS app 的持續整合和部署（CI/CD），重點是 Fastlane 工具。手動建置、測試、上架很耗時且容易出錯，自動化能大幅提升效率和品質。

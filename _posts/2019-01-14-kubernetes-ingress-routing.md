@@ -3,7 +3,7 @@ layout: post
 title: "Kubernetes Ingress 路由和負載平衡"
 date: 2019-01-14 11:00:00 +0800
 categories: [DevOps, Kubernetes]
-tags: [Kubernetes, Ingress, Nginx, Load Balancer, Routing]
+tags: [Kubernetes, DevOps]
 ---
 
 前幾週學會了在 Kubernetes 部署應用（參考 [Kubernetes 進階](/posts/2019/01/07/kubernetes-configmap-secret-volume/)），但每個 Service 都要用不同的 port 訪問，很不方便。

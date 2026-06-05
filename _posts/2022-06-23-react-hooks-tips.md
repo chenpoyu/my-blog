@@ -3,7 +3,7 @@ layout: post
 title: "React Hooks 實戰心得：從濫用到善用"
 date: 2022-06-23 14:15:00 +0800
 categories: [前端開發]
-tags: [React, Hooks, 效能優化, 最佳實踐]
+tags: [React, Performance, 前端開發]
 ---
 
 ## 從 Vue 到 React 的思維轉換

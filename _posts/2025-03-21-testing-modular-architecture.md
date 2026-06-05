@@ -3,7 +3,7 @@ layout: post
 title: "測試微模組架構：不要只測單元，要測整合"
 date: 2025-03-21 16:45:00 +0800
 categories: [測試]
-tags: [單元測試, 整合測試, xUnit, .NET Core]
+tags: [.NET Core, Testing]
 ---
 
 ## 測試債開始累積

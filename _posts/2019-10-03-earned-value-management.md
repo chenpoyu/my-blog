@@ -3,7 +3,7 @@ layout: post
 title: "實獲值管理與專案監控"
 date: 2019-10-03
 categories: [Project Management]
-tags: [evm, monitoring, control]
+tags: [Observability, Monitoring, 專案管理]
 ---
 
 主管要我學習實獲值管理，用來監控專案績效。實獲值管理，Earned Value Management，簡稱 EVM，是整合範疇、時程、成本的監控方法。

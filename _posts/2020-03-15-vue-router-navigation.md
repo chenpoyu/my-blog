@@ -3,7 +3,7 @@ layout: post
 title: "Vue Router 路由管理"
 date: 2020-03-15 16:40:00 +0800
 categories: [前端, JavaScript]
-tags: [Vue.js, Vue Router, SPA]
+tags: [Vue.js, JavaScript, 前端開發]
 ---
 
 電商專案需要多個頁面：首頁、商品列表、商品詳情、購物車、訂單等。傳統的多頁面應用需要伺服器端路由，但 Vue 是單頁應用（SPA），需要使用 Vue Router 來管理前端路由。

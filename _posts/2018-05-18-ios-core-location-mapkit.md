@@ -3,7 +3,7 @@ layout: post
 title: "iOS 定位服務與地圖整合"
 date: 2018-05-18
 categories: [iOS, Swift]
-tags: [Swift, iOS, Core Location, MapKit, GPS]
+tags: [Swift, iOS]
 ---
 
 這週開始研究定位服務。在 Java Web 開發中，定位通常是透過使用者的 IP 或瀏覽器的 Geolocation API，精確度有限。但在 iOS 上，可以直接存取 GPS、WiFi、基地台等多種定位來源，精確度可以達到幾公尺內。

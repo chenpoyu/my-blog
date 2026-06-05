@@ -3,7 +3,7 @@ layout: post
 title: "Terraform Infrastructure as Code 基礎"
 date: 2019-02-18 10:00:00 +0800
 categories: [DevOps, Infrastructure]
-tags: [Terraform, IaC, Infrastructure as Code, AWS, Cloud]
+tags: [AWS, Terraform, DevOps, Cloud, IaC]
 ---
 
 上週研究了容器安全掃描（參考 [容器安全掃描與漏洞管理](/posts/2019/02/11/container-security-vulnerability-scanning/)），這週來解決另一個痛點：基礎設施管理。

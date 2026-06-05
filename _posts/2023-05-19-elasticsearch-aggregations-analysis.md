@@ -3,7 +3,7 @@ layout: post
 title: "日誌聚合分析：從海量日誌中發現規律"
 date: 2023-05-19 09:00:00 +0800
 categories: [Observability, Logging]
-tags: [Elasticsearch, Aggregations, Kibana, Visualizations, Analytics]
+tags: [ELK Stack, Observability, Logging]
 ---
 
 查日誌不只是找錯誤，更重要的是**發現趨勢與規律**。

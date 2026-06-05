@@ -3,7 +3,7 @@ layout: post
 title: "跨組協作的知識共享"
 date: 2021-12-01
 categories: [management, team]
-tags: [知識管理, 協作]
+tags: [團隊管理, 知識管理]
 ---
 
 **以下資訊，若涉及個人資訊，會以模糊方式調整，避免被帶入特定人士縮影**

@@ -3,7 +3,7 @@ layout: post
 title: "深入理解 async/await 非同步程式設計"
 date: 2020-10-20 15:30:00 +0800
 categories: [框架, .NET]
-tags: [.NET Core, async, await, Task, TPL]
+tags: [.NET Core]
 ---
 
 這週深入研究 .NET Core 中的 async/await 非同步程式設計模式，理解如何正確使用非同步來提升應用程式效能。

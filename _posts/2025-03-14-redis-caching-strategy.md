@@ -3,7 +3,7 @@ layout: post
 title: "快取策略的平衡：不是所有東西都該放進 Redis"
 date: 2025-03-14 09:20:00 +0800
 categories: [效能優化]
-tags: [Redis, 快取, .NET Core, Azure]
+tags: [.NET Core, Redis, Azure, Caching, Cloud]
 ---
 
 ## 快取的迷思

@@ -3,7 +3,7 @@ layout: post
 title: "Key Vault：不要把密碼寫在 code 裡"
 date: 2025-07-04 09:45:00 +0800
 categories: [安全性]
-tags: [Azure Key Vault, Managed Identity, 安全性]
+tags: [Azure, Security, Cloud]
 ---
 
 ## 資安顧問的警告

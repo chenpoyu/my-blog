@@ -3,7 +3,7 @@ layout: post
 title: ".NET Core 應用程式效能監控"
 date: 2020-10-06 15:50:00 +0800
 categories: [框架, .NET]
-tags: [.NET Core, Monitoring, Performance, APM]
+tags: [.NET Core, Performance, Observability, Monitoring]
 ---
 
 這週研究 .NET Core 應用程式的效能監控，包含日誌、指標收集和 APM 工具整合。

@@ -3,7 +3,7 @@ layout: post
 title: "iOS 安全性：Keychain、證書釘扎與資料保護"
 date: 2018-08-17
 categories: [iOS, Security]
-tags: [Security, Keychain, HTTPS, Certificate Pinning]
+tags: [iOS, Security]
 ---
 
 這週研究 iOS app 的安全性議題，從 Keychain 儲存敏感資料，到 HTTPS 證書釘扎，再到資料保護等級。行動 app 的安全性比後端服務更重要，因為 app 跑在使用者裝置上，更容易被逆向工程。

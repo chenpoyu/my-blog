@@ -3,7 +3,7 @@ layout: post
 title: "Trace Sampling 策略與成本優化"
 date: 2023-08-18 09:00:00 +0800
 categories: [Observability, Cost Optimization]
-tags: [Tracing, Sampling, Cost, Performance, OpenTelemetry]
+tags: [OpenTelemetry, Performance, Observability, Tracing, Cost Optimization]
 ---
 
 當你的系統每秒處理 10,000 個請求，如果 100% 採樣，會產生大量的 Trace 資料。

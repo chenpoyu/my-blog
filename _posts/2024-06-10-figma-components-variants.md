@@ -3,7 +3,7 @@ layout: post
 title: "Figma Components 與 Variants：建立設計系統"
 date: 2024-06-10 15:30:00 +0800
 categories: [設計, UI/UX]
-tags: [Figma, Components, Design System]
+tags: [Figma, UI/UX]
 ---
 
 上週做了簡單的登入畫面，這週來研究 Figma 的 Component。如果只是做單一畫面，不太需要 Component；但要做完整的 prototype，有很多重複的元素（按鈕、輸入框、卡片），每次都重畫太沒效率。

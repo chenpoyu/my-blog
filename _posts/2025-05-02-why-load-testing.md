@@ -3,7 +3,7 @@ layout: post
 title: "為什麼要做壓力測試"
 date: 2025-05-02 10:15:00 +0800
 categories: [測試]
-tags: [壓力測試, 效能測試, k6]
+tags: [Performance, Testing, 壓力測試]
 ---
 
 ## 「我們預期同時 2000 人在線」

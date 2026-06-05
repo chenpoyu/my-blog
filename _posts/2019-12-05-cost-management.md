@@ -3,7 +3,7 @@ layout: post
 title: "成本管理與預算控制"
 date: 2019-12-05
 categories: [Project Management]
-tags: [cost, budget, financial]
+tags: [Cost Optimization, 專案管理]
 ---
 
 主管要我負責專案預算管理。以前只關注技術和進度,第一次要處理財務,壓力很大。

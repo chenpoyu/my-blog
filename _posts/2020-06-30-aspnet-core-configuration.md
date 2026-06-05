@@ -3,7 +3,7 @@ layout: post
 title: "ASP.NET Core 設定管理與環境配置"
 date: 2020-06-30 15:05:00 +0800
 categories: [框架, .NET]
-tags: [ASP.NET Core, Configuration, Environment]
+tags: [.NET Core, ASP.NET Core]
 ---
 
 這週研究 ASP.NET Core 的設定管理系統，它比 Spring Boot 的 properties 更靈活。

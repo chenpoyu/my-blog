@@ -3,7 +3,7 @@ layout: post
 title: "變更管理與配置管理"
 date: 2019-11-07
 categories: [Project Management]
-tags: [change, configuration, control]
+tags: [專案管理]
 ---
 
 專案進行中最大的挑戰就是變更。需求變更、技術變更、人員變更，每天都在發生。如果沒有好的變更管理，專案會失控。

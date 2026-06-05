@@ -3,7 +3,7 @@ layout: post
 title: "Vue HTTP 請求與 Axios 整合"
 date: 2020-04-05 10:45:00 +0800
 categories: [前端, JavaScript]
-tags: [Vue.js, Axios, HTTP, API]
+tags: [Vue.js, JavaScript, API, 前端開發]
 render_with_liquid: false
 ---
 

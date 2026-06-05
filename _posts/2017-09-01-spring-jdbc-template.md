@@ -3,7 +3,7 @@ layout: post
 title: "Spring JDBC Template 使用筆記"
 date: 2017-09-01 16:10:00 +0800
 categories: [設計模式, Java]
-tags: [Spring, JDBC, 資料庫, 資料存取]
+tags: [Java, Spring, Database]
 ---
 
 前面幾週我們建構了完整的 Spring MVC 應用（請參考 [Spring MVC](/posts/2017/08/25/spring-mvc-restful-api/)），但資料都還存在記憶體中。實際應用需要持久化到資料庫，這週我們來看 Spring 如何簡化資料庫操作。

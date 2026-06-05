@@ -3,7 +3,7 @@ layout: post
 title: "DevOps 基礎概念與實踐"
 date: 2018-11-12 09:30:00 +0800
 categories: [DevOps, 自動化]
-tags: [DevOps, CI/CD, Automation]
+tags: [CI/CD, DevOps, Automation]
 ---
 
 前面幾個月專注在 iOS 開發的學習，現在是時候回到後端和部署的議題了。最近公司開始推動 DevOps 轉型，身為一個寫過 Java、JavaScript 和 Swift 的工程師，我發現不管是哪種語言，最後都會面臨同樣的問題：如何快速且穩定地將程式碼部署到生產環境？

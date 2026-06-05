@@ -3,7 +3,7 @@ layout: post
 title: "積分、成就、學習履歷：讓兒童遊戲樂園變成學習工具（下）"
 date: 2026-01-30 12:10:00 +0800
 categories: [技術筆記, 前端開發]
-tags: [React, Vibe Coding, localStorage, RWD, 學習系統]
+tags: [React, Vibe Coding, 前端開發, AI 輔助開發]
 ---
 
 ## 從遊樂場到學習工具

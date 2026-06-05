@@ -3,7 +3,7 @@ layout: post
 title: "Logs-Metrics-Traces 三位一體：關聯分析"
 date: 2023-07-28 09:00:00 +0800
 categories: [Observability, Integration]
-tags: [Logs, Metrics, Traces, Correlation, Unified Observability]
+tags: [Observability, Logging, Metrics]
 ---
 
 到目前為止，我們分別學習了 Metrics、Logs、Traces。但它們不應該是孤立的。

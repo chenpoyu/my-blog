@@ -3,7 +3,7 @@ layout: post
 title: "Vue 專案總結：購物車實戰回顧"
 date: 2020-05-07 14:15:00 +0800
 categories: [前端, JavaScript]
-tags: [Vue.js, 專案總結, 購物車]
+tags: [Vue.js, JavaScript, 前端開發, 年度回顧]
 ---
 
 經過兩個多月的學習，從完全不懂 Vue.js 到能夠獨立開發購物車專案，這段過程讓我對前端開發有了更深入的理解。這篇文章總結這次學習的收穫與心得。

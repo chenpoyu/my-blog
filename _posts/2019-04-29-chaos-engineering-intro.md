@@ -3,7 +3,7 @@ layout: post
 title: "混沌工程入門"
 date: 2019-04-29 10:00:00 +0800
 categories: [DevOps, Reliability]
-tags: [Chaos Engineering, Chaos Monkey, Resilience, Testing]
+tags: [Testing, DevOps, Reliability]
 ---
 
 上週研究了服務網格流量管理（參考 [服務網格流量管理進階](/posts/2019/04/22/service-mesh-traffic-management/)），這週來學習一個聽起來很瘋狂的概念：混沌工程 (Chaos Engineering)。
